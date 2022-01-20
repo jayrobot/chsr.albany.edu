@@ -1,0 +1,10 @@
+<!-- column-box -->
+	<div class="column-box">
+		<h3>RELATED LINKS</h3>
+			<ul>
+                  <li><a href="http://www.albany.edu/">Link 1</a></li>
+                  <li><a href="http://www.albany.edu/education/">Link 2</a></li>
+                  <li><a href="http://www.albany.edu/">Link 3</a></li>
+                  <li><a href="http://www.albany.edu/">Link 4</a></li>
+			</ul>
+	</div><!-- close div "column-box" -->

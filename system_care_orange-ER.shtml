@@ -1,0 +1,179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	<title>CHSR | Orange County, New York System of Care Evaluation - Evaluation &amp; Research</title>
+
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+
+</head>
+
+<body>
+
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+
+<!--main container-->
+
+<div id="main">
+
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+
+  <!-- header end -->
+
+  <!-- content holder -->
+
+  <div id="content">
+
+    <!-- contaner -->
+
+    <div class="contaner">
+
+      <div class="contaner-top">
+
+        <div class="contaner-bottom">
+
+          <!-- content -->
+
+          <div class="content">
+
+            <div class="img"> <img src="../templates_2009/images/random_pagetops/pic-8.jpg" width="587" height="213" alt="University at Albany" />
+
+              <div><span>&nbsp;</span></div>
+
+              <!--close div unnamed-->
+
+            </div>
+
+            <!--close div img-->
+
+            <div class="content-box">
+
+              <!-- text-box -->
+
+              <div class="text-box">
+
+                <div class="txt">
+
+
+
+							<!-- open content box -->
+
+							<div class="white-box">
+
+							  <div class="top">
+
+							    <div class="bottom">
+
+				    <h2>Learn More About:</h2>
+
+												<ul>
+
+                                              <li><a href="system_care_orange.shtml">Orange County, New York System of Care Evaluation - Full Project Description</a></li>
+
+												</ul>
+
+							    </div><!--close div bottom-->
+
+										</div><!--close div top-->
+
+									</div><!--close content box-->
+
+
+
+						      <h1><strong>Orange County, New York System of Care</strong> Evaluation</h1>
+
+				  <p class="intro">Orange County, New York is one of 164 Systems of Care for  Children’s Mental Health communities, a grant initiative from the Center for  Mental Health Services (CMHS) of the <a href="http://www.samhsa.gov/" target="_blank">Substance Abuse and Mental Health Services  Administration (SAMHSA)</a>. CHSR is leading the congressionally-mandated, mixed-methods  evaluation of this initiative in Orange County.</p>
+
+								
+
+				  <h2>Evaluation &amp; Research</h2>
+
+<p>CHSR's Orange County evaluation is part of the national evaluation of  all system of care communities, coordinated by <a href="http://www.icfi.com/" target="_blank">ICF Macro</a>. Study components include:</p>
+<ul>
+  <li><strong>The Descriptive Study</strong> collects demographic  characteristics, social and functional characteristics, mental health diagnoses,  and presenting problems on all children/youth entering the system of care.  &nbsp;</li>
+  <li><strong>The Longitudinal Child and Family Outcome Study</strong> uses a combination of questionnaires and standardized instruments regarding:  children’s emotional and behavioral status, strengths, educational performance,  criminal justice system involvement, living environments, caregiver strain,  family functioning, service utilization, and child and family satisfaction with  services. Using computer-assisted interview software, families and youth are interviewed in-person at 6-month intervals over the course of the project.&nbsp; </li>
+  <li><strong>The Services and Costs Study</strong> examines the  individual-level costs associated with providing services within a system of  care environment.</li>
+</ul><p><span class="txt"><strong>Contact: </strong></span><a href="rgreene.shtml"><strong>Rose Greene</strong></a></p>
+                </div>
+
+                <!--close div txt-->
+
+              </div>
+
+              <!--close div text-box-->
+
+            </div>
+
+            <!--close div content-box-->
+
+          </div>
+
+          <!--close div content-->
+
+          <!-- column -->
+
+          <div class="column">
+
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+
+            <!-- column-box end -->
+
+          </div>
+
+          <!--close div column-->
+
+        </div>
+
+        <!--close div contaner-bottom-->
+
+      </div>
+
+      <!--close div contaner-top-->
+
+    </div>
+
+    <!--close div contaner-->    <div class="sidebar">
+
+      <!-- chsr news inclue begin -->
+
+	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+
+<!-- chsr news inclue end -->
+
+    </div>
+
+    <!--close div sidebar-->
+
+  </div><!-- close div id "content" -->
+
+	
+
+	<!--footer-->
+
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+
+
+</div><!--close div main-->
+
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+
+  </body>
+
+</html>

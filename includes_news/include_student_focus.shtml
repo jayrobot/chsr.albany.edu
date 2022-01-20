@@ -1,0 +1,27 @@
+<div class="event-box">
+                <div class="event-box-top">
+                    <div class="event-box-body">
+
+                        <h3 style="font-size:1.1em; text-transform:none; line-height:1em; margin-bottom: 12px; height: 30px;">UAlbany Student Focus</h3>
+                            <ul>
+                                
+                                <li>
+                                    <em>November 16, 2009</em>
+                                    <a href="http://www.albany.edu/news/release_8026.php">ROTC Cadet Wins Prestigious USAA Scholarship</a>
+                                </li>
+                                
+                                <li>
+                                    <em>November 6, 2009</em>
+                                    <a href="http://www.albany.edu/news/campus_news_7982.php">Counseling Center Serves as Model for Nation</a>
+                                </li>
+                                
+                                <li>
+                                    <em>November 2, 2009</em>
+                                    <a href="http://www.albany.edu/news/campus_news_7918.php">UAlbany Bus Drivers Promote Madison Shuttle Run</a>
+                                </li>
+                                
+                                </ul>
+                        <strong class="more"><a href="http://www.albany.edu/news/">MORE NEWS</a></strong>
+                    </div><!-- close div "include-box-body" -->
+                </div><!-- close div "include-box-top" -->
+</div><!-- close div "include-box" -->

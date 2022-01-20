@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	<title>CHSR |My Brother's Keeper</title>
+
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+</head>
+
+<body>
+
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+
+<!--main container-->
+
+<div id="main">
+
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+
+  <!-- header end -->
+
+  <!-- content holder -->
+
+  <div id="content">
+
+    <!-- contaner -->
+
+    <div class="contaner">
+
+      <div class="contaner-top">
+
+        <div class="contaner-bottom">
+
+          <!-- content -->
+
+          <div class="content">
+
+            <div class="img"> <img src="../templates_2009/images/random_pagetops/pic-8.jpg" width="587" height="213" alt="University at Albany" />
+
+              <div><span>&nbsp;</span></div>
+
+              <!--close div unnamed-->
+
+            </div>
+
+            <!--close div img-->
+
+            <div class="content-box">
+
+              <!-- text-box -->
+
+              <div class="text-box">
+
+                <div class="txt">
+
+
+
+							<!-- open content box -->
+
+							<div class="white-box">
+
+							  <div class="top">
+
+							    <div class="bottom">
+
+				    <h2>Learn More About:</h2>
+
+												<ul>
+
+                                              <li><A href="http://www.mbkchallenge.org/" target="_blank">My Brother’s Keeper Milestones Challenge</A></li>
+                                              <li><a href="http://www.albanyschools.org" target="_blank">The City School District of Albany</a></li>
+												</ul>
+								</div><!--close div bottom-->
+							  </div><!--close div top-->
+				  </div><!--close content box-->
+
+
+
+						      <h1><strong>My Brother's Keeper</strong></h1>
+
+				              
+				              
+				              <p class="intro">In 2014, President Obama established the My Brother’s Keeper (MBK) Task Force at the federal level. The Task Force was an interagency effort focused on closing and eliminating the opportunity gaps faced by boys and young men of color so that all young people have the chance to reach their full potential.</p>
+                              
+                  <p>At the national level, MBK initiatives are focused on six milestones, ensuring that all children:
+                              <ol><strong><li>Enter school ready to learn</li>
+                              <li>Read at grade level by third grade</li>
+                              <li>Graduate from high school ready for college and career</li>
+                              <li>Complete  postsecondary education or training</li>
+                              <li>Successfully  enter the workforce</li>
+                              <li>Grow  up in safe communities and get a second chance if they make a mistake</li>
+                              </strong></ol></p>
+                              <p>The State Education Department (SED) set allocated $7 million to award up to 70 grants as an incentive and support for school districts to accept the <A href="http://www.mbkchallenge.org/" target="_blank">My Brother’s Keeper Milestones Challenge</A>. This grant is designed to encourage regions and school districts to develop and execute coherent cradle-to-career college strategies that are aimed at improving the life outcomes for boys and young men of color.</p>
+
+<p><a href="http://www.albanyschools.org" target="_blank">The City School District of Albany</a> was awarded a MBKCG and prioritized milestones #1 (enter school ready to learn), #2 (read at grade level by third grade), and #6 (safe communities). 
+
+</p>
+                              
+                  <h2 class="txt">Evaluation &amp; Research</h2>
+
+	              <p class="txt">CHSR worked with the Albany schools to identify performance measures to track both implementation fidelity and outcomes of the MBKCG initiative. The evaluation protocol includes assessing literacy achievement for students in prekindergarten through grade 3, tracking the achievement gap between students of color and their peers, as well as examining frequency and outcomes of Code of Conduct violations in Priority Schools.</p>
+	              
+                  <p class="txt"></p>
+                  <p><strong>Contact:<a href="rgreene.shtml">Rose Greene</a></strong></p>
+			    </div>
+
+                <!--close div txt-->
+
+              </div>
+
+              <!--close div text-box-->
+
+            </div>
+
+            <!--close div content-box-->
+
+          </div>
+
+          <!--close div content-->
+
+          <!-- column -->
+
+          <div class="column">
+
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+
+            <!-- column-box end -->
+
+          </div>
+
+          <!--close div column-->
+
+        </div>
+
+        <!--close div contaner-bottom-->
+
+      </div>
+
+      <!--close div contaner-top-->
+
+    </div>
+
+    <!--close div contaner-->    <div class="sidebar">
+
+      <!-- chsr news inclue begin -->
+
+	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+
+<!-- chsr news inclue end -->
+
+      
+
+      <!--#include virtual="includes/include_contact_us.shtml" -->
+
+    </div>
+
+    <!--close div sidebar-->
+
+  </div><!-- close div id "content" -->
+
+	
+
+	<!--footer-->
+
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+
+
+</div><!--close div main-->
+
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+
+  </body>
+
+</html>

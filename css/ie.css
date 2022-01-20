@@ -1,0 +1,33 @@
+img {behavior:expression((this.runtimeStyle.behavior="none")&&(this.pngSet?this.pngSet=true:(this.nodeName == "IMG" && this.src.toLowerCase().indexOf('.png')>-1?(this.runtimeStyle.backgroundImage = "none",this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', sizingMethod='image')",this.src="../templates_2009/images/none.gif"):(this.origBg = this.origBg? this.origBg :this.currentStyle.backgroundImage.toString().replace('url("','').replace('")',''),this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.origBg + "', sizingMethod='crop')",this.runtimeStyle.backgroundImage = "none")),this.pngSet=true));}
+.tab-box {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/tab-box-top.png', sizingmethod='crop');
+	
+}
+.tab-box-bottom {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/tab-box-bottom.png', sizingmethod='crop');
+}
+.tab-box-body {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/tab-box.png', sizingmethod='scale');
+}
+.featured-box {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/featured-box-top.png', sizingmethod='crop');
+}
+.featured-box .top {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/featured-box.png', sizingmethod='scale');
+}
+.featured-box .bottom {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/featured-box-bottom.png', sizingmethod='crop');
+}
+.column-links-alt li,
+.column-links li {border-style:expression( (this===this.parentNode.childNodes[0]) ? "none" : "auto");} 
+.img span {
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/img-bg.png', sizingmethod='scale');
+	background:none;
+}
+.sidebar .iwant li {border-style:expression( (this===this.parentNode.childNodes[0]) ? "none" : "auto");

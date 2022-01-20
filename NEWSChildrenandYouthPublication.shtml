@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<title>CHSR | Announcements</title>
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+</head>
+<body>
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+<!--main container-->
+<div id="main">  <!-- header start -->  
+  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+  <!-- header end -->
+  <!-- content holder -->
+  <div id="content">
+    <!-- contaner -->
+    <div class="contaner">
+      <div class="contaner-top">
+        <div class="contaner-bottom">
+          <!-- content -->
+          <div class="content">
+
+            <div class="content-box">
+              <!-- text-box -->
+              <div class="text-box" style="margin-top: -10px;">
+                <div class="txt">
+                  <h2>Eunju  Lee, CHSR Senior Research Scientist, published in <em>Children and Youth Services Review </em></h2>
+                  <p><a href="http://www.sciencedirect.com/science/article/pii/S0190740911002568">Hopson, Laura M. and Eunju Lee  (2011). Mitigating the effect of family  poverty on academic and behavioral outcomes: The role of school climate in  middle and high school. <em>Children and  Youth Services Review, 33, </em>2221-2229.</a></p>
+                  <p>Abstract:<br />
+                    The persistent achievement gap  between students from poor families and their peers calls for research that  examines risk factors associated with poverty and strategies for promoting  resilience. Research demonstrates the impact of school climate on behavior and  academic achievement, especially in high-poverty schools. The present study  examines associations between family poverty, social supports, students'  perceptions of school climate, behavior, and grades. Poverty is associated with  poor grades and behavior, while positive perceptions of school climate are  associated with positive grades and behavior. Perceptions of school climate  moderate the association between poverty and behavior, such that students from  poor families who perceive a positive school climate exhibit similar behaviors  to their peers from higher income families. Implications for practice, policy,  and research are discussed.</p>
+                </div></div>
+              <!--close div text-box-->
+            </div>
+            <!--close div content-box-->
+          </div>
+          <!--close div content-->
+          <!-- column -->
+          <div class="column">
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+            <!-- column-box end -->
+          </div>
+          <!--close div column-->
+        </div>
+        <!--close div contaner-bottom-->
+      </div>
+      <!--close div contaner-top-->
+    </div>
+    <!--close div contaner-->    <div class="sidebar">
+      <!-- chsr news inclue begin -->
+      <!-- chsr news inclue end -->
+<!--#include virtual="includes/include_contact_us.shtml" -->
+    </div>
+    <!--close div sidebar-->
+  </div><!-- close div id "content" -->
+	
+	<!--footer-->
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+</div><!--close div main-->
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+  </body>
+</html>

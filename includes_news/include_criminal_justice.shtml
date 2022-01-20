@@ -1,0 +1,27 @@
+<div class="event-box">
+                <div class="event-box-top">
+                    <div class="event-box-body">
+
+                        <h3 style="font-size:1.1em; text-transform:none; line-height:1em; margin-bottom: 12px; height: 30px;">School of Criminal Justice Headlines</h3>
+                            <ul>
+                                
+                                <li>
+                                    <em>October 22, 2009</em>
+                                    <a href="http://www.albany.edu/news/campus_news_7844.php">One Year Later: UAlbany Remembers Richard Bailey</a>
+                                </li>
+                                
+                                <li>
+                                    <em>May 25, 2009</em>
+                                    <a href="http://www.albany.edu/news/campus_news_6363.php">UAlbany Recognizes Faculty, Staff for Excellence</a>
+                                </li>
+                                
+                                <li>
+                                    <em>April 27, 2009</em>
+                                    <a href="http://www.albany.edu/news/campus_news_6104.php">Michael Boots: Bolstering University Support</a>
+                                </li>
+                                
+                                </ul>
+                        <strong class="more"><a href="http://www.albany.edu/news/">MORE NEWS</a></strong>
+                    </div><!-- close div "include-box-body" -->
+                </div><!-- close div "include-box-top" -->
+</div><!-- close div "include-box" -->

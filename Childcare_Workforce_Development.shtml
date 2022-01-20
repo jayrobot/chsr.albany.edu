@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	<title>CHSR | Child Care Workforce Development</title>
+
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+
+</head>
+
+<body>
+
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+
+<!--main container-->
+
+<div id="main">
+
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+
+  <!-- header end -->
+
+  <!-- content holder -->
+
+  <div id="content">
+
+    <!-- contaner -->
+
+    <div class="contaner">
+
+      <div class="contaner-top">
+
+        <div class="contaner-bottom">
+
+          <!-- content -->
+
+          <div class="content">
+
+            <div class="img"> <img src="../templates_2009/images/random_pagetops/pic-8.jpg" width="587" height="213" alt="University at Albany" />
+
+              <div><span>&nbsp;</span></div>
+
+              <!--close div unnamed-->
+
+            </div>
+
+            <!--close div img-->
+
+            <div class="content-box">
+
+              <!-- text-box -->
+
+              <div class="text-box">
+
+                <div class="txt">
+
+
+
+							<!-- open content box -->
+
+							<div class="white-box">
+
+							  <div class="top">
+
+							    <div class="bottom">
+
+				    <h2>Learn More About:</h2>
+
+												<ul>
+
+                                              <li><a href="http://www.ocfs.state.ny.us/main/childcare/daycare_regs.asp" target="_blank">New York State Child Care Regulations</a></li>
+
+                                              <li><a href="http://www.ecetp.pdp.albany.edu/eip.shtm" target="_blank">The Educational Incentive Program</a></li>
+
+                                              <li><a href="http://www.ecetp.pdp.albany.edu/videoconferencing.shtm" target="_blank">Videoconferencing</a></li>
+
+                                              <li><a href="http://www.ecetp.pdp.albany.edu/elearn_catalog.shtm" target="_blank">E-Learning</a></li>
+
+												</ul>
+
+							    </div><!--close div bottom-->
+
+							  </div><!--close div top-->
+
+				  </div><!--close content box-->
+
+
+
+			      <h1>New York State Child Care Workforce Development Evaluation</h1>
+
+			      <p class="intro">CHSR evaluated  three major initiatives designed by the The University at Albany, SUNY’s <a href="http://www.pdp.albany.edu/" target="_blank">Professional Development Program (PDP)</a>
+
+			        <!--close div txt-->
+
+			        offered through  <a href="http://www.ocfs.state.ny.us/main/" target="_blank">New York’s Office of Children and Family Services</a> – <a href="http://www.ocfs.state.ny.us/main/childcare/default.asp" target="_blank">Division of Child  Care Services</a>.</p>
+
+			      <p>PDP oversees programs designed to promote a highly qualified  child care workforce in New York State. Staff work with child care providers  across the state from diverse service modalities such as day care centers, family  day care, and school-age childcare. Among the major initiatives offered by PDP through New York’s Office of  Children and Family Services – Division of Child Care Services are:</p>
+
+                  <ul>
+
+                    <li><strong>Educational Incentive Program (EIP)</strong> - The  EIP is a scholarship program which helps  providers pay for high quality training and the education they need to provide  quality care to children. Child care providers are required to be trained and to provide care for children in a program regulated by the New York  State Office of Children and Family Services or the New York City Department of  Health.</li>
+
+                    <li><strong>Videoconferencing (VC) -</strong> Videoconference  training provides an opportunity to learn from experts and other child care  providers while networking and sharing experience with other professionals. Trainings  consist of live broadcasts, discussions with expert panelists, activities, and  handouts. Co-trainers guide discussions to help participants apply  knowledge and skills.</li>
+
+                    <li><strong>E-Learning</strong> - Launched in 2010, this project  allows providers to take 1-2 hour training courses online at any time. Examples  of course offerings include Keeping Children Safe, Preventing Shaken Baby  Syndrome, and Mandated Reporter Online Training. </li>
+
+                  </ul>
+
+                  <h2><strong class="purple_bold">
+                    Evaluation</strong>
+
+                    &amp; Research<br />
+
+                  </h2>
+
+<p>Major evaluation  responsibilities for each of the training programs described above included                  
+
+summarizing  participation, and designing and developing surveys to assess provider  and trainer needs.
+
+A baseline study of inter-rater reliability among child care  regulators was conducted. Pairs of regulators performed simultaneous  inspections with a single provider; scoring decisions were compared for  percent agreement, and measurement validation analysis was conducted.
+
+<p>
+
+  <strong>Contact: <a href="rgreene.shtml">Rose Greene</a></strong>                </div>
+
+              </div>
+
+              <!--close div text-box-->
+
+            </div>
+
+            <!--close div content-box-->
+
+          </div>
+
+          <!--close div content-->
+
+          <!-- column -->
+
+          <div class="column">
+
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+
+            <!-- column-box end -->
+
+          </div>
+
+          <!--close div column-->
+
+        </div>
+
+        <!--close div contaner-bottom-->
+
+      </div>
+
+      <!--close div contaner-top-->
+
+    </div>
+
+    <!--close div contaner-->    <div class="sidebar">
+
+      <!-- chsr news inclue begin -->
+
+	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+
+<!-- chsr news inclue end -->
+
+    </div>
+
+    <!--close div sidebar-->
+
+  </div><!-- close div id "content" -->
+
+	
+
+	<!--footer-->
+
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+
+
+</div><!--close div main-->
+
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+
+  </body>
+
+</html>

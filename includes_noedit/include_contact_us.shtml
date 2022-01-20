@@ -1,0 +1,30 @@
+<!-- gray-box -->
+	<div class="gray-box">
+		<div class="gray-box-body">
+			<div class="gray-box-text">
+				<ul>
+					<li>
+					<h3>School of </h3>
+					University at Albany, State University of New York
+					</li>
+					<li>
+					<address>
+                    	<span>Insert Office Number</span>
+						<span>1400 Washington Avenue</span>
+						<span>Albany, NY 12222</span>
+						<span>PHONE (518) 555-5555</span>
+						<span>FAX   (518) 555-5556</span>
+					</address>
+					</li>
+				</ul>
+                <ul>
+					<li><a href="#"><span>Faculty/Staff Directory</span></a></li>
+                </ul>
+				
+                
+				<p><strong><a href="mailto:school@uamail.albany.edu">school@uamail.albany.edu</a></strong>
+			  </p>
+              
+</div><!-- close div gray-box-text -->
+		</div><!-- close div gray-box-body -->
+	</div><!-- close div gray-box -->

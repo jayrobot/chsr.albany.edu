@@ -1,0 +1,27 @@
+<div class="event-box">
+                <div class="event-box-top">
+                    <div class="event-box-body">
+
+                        <h3 style="font-size:1.1em; text-transform:none; line-height:1em; margin-bottom: 12px; height: 30px;">Computing and Information Headlines</h3>
+                            <ul>
+                                
+                                <li>
+                                    <em>October 23, 2009</em>
+                                    <a href="http://www.albany.edu/news/campus_news_7858.php">Anthony Cresswell Honored by UAlbany and NYS Forum</a>
+                                </li>
+                                
+                                <li>
+                                    <em>October 12, 2009</em>
+                                    <a href="http://www.albany.edu/news/release_7702.php">CTG Study on Cross-Boundary Information Sharing</a>
+                                </li>
+                                
+                                <li>
+                                    <em>July 8, 2009</em>
+                                    <a href="http://www.albany.edu/news/release_6609.php">Pardo named director of UAlbany CTG</a>
+                                </li>
+                                
+                                </ul>
+                        <strong class="more"><a href="http://www.albany.edu/news/">MORE NEWS</a></strong>
+                    </div><!-- close div "include-box-body" -->
+                </div><!-- close div "include-box-top" -->
+</div><!-- close div "include-box" -->

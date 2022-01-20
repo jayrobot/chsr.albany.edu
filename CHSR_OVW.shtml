@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<title>CHSR | Announcements - JDAI Funding</title>
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+</head>
+<body>
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+<!--main container-->
+<div id="main">  <!-- header start -->  
+  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+  <!-- header end -->
+  <!-- content holder -->
+  <div id="content">
+    <!-- contaner -->
+    <div class="contaner">
+      <div class="contaner-top">
+        <div class="contaner-bottom">
+          <!-- content -->
+          <div class="content">
+
+            <div class="content-box">
+              <!-- text-box -->
+              <div class="text-box" style="margin-top: -10px;">
+                <div class="txt">
+                  <h2>CHSR receives federal grant from the Office of Juvenile Justice and Delinquency Prevention<em></em> </h2>
+                  <p>The Center for Human Services Research has been awarded a grant from the Office of Juvenile Justice and Delinquency Prevention to conduct an evaluability study of the Youth and Police Initiative. The Youth and Police Initiative is a program of the North American Family Institute (NAFI) that brings together at-risk youth and police officers in the same neighborhoods in order to build relationships and develop skills that can prevent future incidences of conflict.  CHSR is working with NAFI to determine the evaluability of the program, which has so far been operating as a pilot program at multiple sites. The study is a first step toward assessing whether or not the collaborative youth-police approach employed by the program is attaining its goals of preventing violence and reducing juvenile crime.   </p>
+</div>
+              </div>
+              <!--close div text-box-->
+            </div>
+            <!--close div content-box-->
+          </div>
+          <!--close div content-->
+          <!-- column -->
+          <div class="column">
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+            <!-- column-box end -->
+          </div>
+          <!--close div column-->
+        </div>
+        <!--close div contaner-bottom-->
+      </div>
+      <!--close div contaner-top-->
+    </div>
+    <!--close div contaner-->    <div class="sidebar">
+      <!-- chsr news inclue begin -->
+      <!-- chsr news inclue end -->
+<!--#include virtual="includes/include_contact_us.shtml" -->
+    </div>
+    <!--close div sidebar-->
+  </div><!-- close div id "content" -->
+	
+	<!--footer-->
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+</div><!--close div main-->
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+  </body>
+</html>

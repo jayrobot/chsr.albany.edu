@@ -1,0 +1,185 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	<title>CHSR | Qualitative Research on Housing Needs of Grandfamilies</title>
+
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+
+</head>
+
+<body>
+
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+
+<!--main container-->
+
+<div id="main">
+
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+
+  <!-- header end -->
+
+  <!-- content holder -->
+
+  <div id="content">
+
+    <!-- contaner -->
+
+    <div class="contaner">
+
+      <div class="contaner-top">
+
+        <div class="contaner-bottom">
+
+          <!-- content -->
+
+          <div class="content">
+
+            <div class="img"> <img src="../templates_2009/images/random_pagetops/pic-8.jpg" width="587" height="213" alt="University at Albany" />
+
+              <div><span>&nbsp;</span></div>
+
+              <!--close div unnamed-->
+
+            </div>
+
+            <!--close div img-->
+
+            <div class="content-box">
+
+              <!-- text-box -->
+
+              <div class="text-box">
+
+                <div class="txt">
+
+
+
+							<!-- open content box -->
+
+							<div class="white-box">
+
+							  <div class="top">
+
+							    <div class="bottom">
+
+				    <h2>Learn More About:</h2>
+
+												<ul>
+
+<li><a href="NYSHCR.shtml">Qualitative Research on Housing Needs of Grandfamilies - Full Project Description</a></li>
+
+
+													
+
+												</ul>
+
+											</div><!--close div bottom-->
+
+										</div><!--close div top-->
+
+									</div><!--close content box-->
+
+
+
+						      <h1>Qualitative Research on Housing Needs of Grandfamilies</h1>
+                
+                  <p class="intro"> The Center for Human Services Research was awarded a contract by the Division of Housing and Community Renewal to conduct a qualitative study on housing in relation to grandparent and elderly relative caregivers of children.</p>
+               <h1>Evaluation &amp; Research</h1>
+                  
+                
+                  <p>This qualitative <a href="NYSHCR.shtml">project</a> endeavored to give substance to NYS data on grandfamilies and housing cost, and to make connections between identified needs in grandfamily housing and existing infrastructures for affordable low-and moderate-income housing in New York State. In order to answer key questions about the needs and desires of individuals living in grandfamily housing the following five tasks were conducted: 
+                  <ol>
+                    <li>Reviewed relevant applied research and scholarly literature on grandparents and grandfamily housing</li>
+                    <li>Conducted interviews with experienced program professionals at statewide, regional and/or local levels of NYS Office of Children and Family Services (OCFS), Office of Temporary and Disability Assistance (OTDA), and the State Office for the Aging (SOFA)</li>
+                    <li> Conducted interviews with directors of local kinship care programs and coalitions across the state</li><li> Administer six focus groups with children and grandparents and elderly relatives caregivers reflecting diverse distribution of grandfamilies around the state</li>
+                    <li>Generated a narrative report summarizing the findings and making recommendations derived from these findings.</li></ol></p>
+                    
+                    <p>Senior Research Scientist Lauren Polvere, Ph.D was the Principal Investigator.  Other members of the team included Rose Greene, Eunju Lee, Sarah Rain, Camille Barnes, Meera Bhat and Cori Robohn                                    
+                  <p>                    
+                    <p>                    
+                    <p><strong>Contact: <a href="rgreene.shtml">Rose Greene</a></p>
+			    </div>                                                                            
+
+                <!--close div txt-->
+
+              </div>
+
+              <!--close div text-box-->
+
+            </div>
+
+            <!--close div content-box-->
+
+          </div>
+
+          <!--close div content-->
+
+          <!-- column -->
+
+          <div class="column">
+
+           <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+
+            <!-- column-box end -->
+
+          </div>
+
+          <!--close div column-->
+
+        </div>
+
+        <!--close div contaner-bottom-->
+
+      </div>
+
+      <!--close div contaner-top-->
+
+    </div>
+
+    <!--close div contaner-->    <div class="sidebar">
+
+      <!-- chsr news inclue begin -->
+
+	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+
+<!-- chsr news inclue end -->
+
+    </div>
+
+    <!--close div sidebar-->
+
+  </div><!-- close div id "content" -->
+
+	
+
+	<!--footer-->
+
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+
+
+</div><!--close div main-->
+
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+
+  </body>
+
+</html>

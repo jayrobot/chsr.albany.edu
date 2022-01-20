@@ -1,0 +1,21 @@
+<div class="event-box">
+				<div class="event-box-top">
+					<div class="event-box-body">
+						<h3>NEWS</h3>
+						<ul>
+							<li>
+								<em>Feb 3 to April 5, 2009</em>
+								<a href="#">Jason Middlebrook: LIve with Less</a>
+							</li>
+							<li>
+								<em>Feb 15, 2009   2 pm</em>
+								<a href="#">Men’s Basketball vs. New Hamphire</a>
+							</li>
+							<li>
+								<em>Feb 26 to 27, 2009</em>
+							<a href="#">The Rhethorics of Plague Symposium</a></li>
+						</ul>
+						<strong class="more"><a href="#">MORE NEWS</a></strong>
+					</div><!-- close div "event-box-body" -->
+				</div><!-- close div "event-box-top" -->
+			</div><!-- close div "event-box" -->

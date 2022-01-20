@@ -1,0 +1,27 @@
+<div class="event-box">
+                <div class="event-box-top">
+                    <div class="event-box-body">
+
+                        <h3 style="font-size:1.1em; text-transform:none; line-height:1em; margin-bottom: 12px; height: 30px;">Arts and Sciences News</h3>
+                            <ul>
+                                
+                                <li>
+                                    <em>November 16, 2009</em>
+                                    <a href="http://www.albany.edu/news/release_8027.php">NYSWI Names First 10 of "25 Uniquely NY Books"</a>
+                                </li>
+                                
+                                <li>
+                                    <em>November 16, 2009</em>
+                                    <a href="http://www.albany.edu/news/release_8019.php">Historians Gather at UAlbany for New York History</a>
+                                </li>
+                                
+                                <li>
+                                    <em>October 30, 2009</em>
+                                    <a href="http://www.albany.edu/news/campus_news_7917.php">UAlbany Students, Alumni Learn from Confinement</a>
+                                </li>
+                                
+                                </ul>
+                        <strong class="more"><a href="http://www.albany.edu/news/">MORE NEWS</a></strong>
+                    </div><!-- close div "include-box-body" -->
+                </div><!-- close div "include-box-top" -->
+</div><!-- close div "include-box" -->

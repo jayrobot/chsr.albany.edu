@@ -1,0 +1,27 @@
+<div class="event-box">
+                <div class="event-box-top">
+                    <div class="event-box-body">
+
+                        <h3 style="font-size:1.1em; text-transform:none; line-height:1em; margin-bottom: 12px; height: 30px;">School of Education News</h3>
+                            <ul>
+                                
+                                <li>
+                                    <em>November 20, 2009</em>
+                                    <a href="http://www.albany.edu/news/release_8041.php">New UAlbany Study on High-Performing Schools</a>
+                                </li>
+                                
+                                <li>
+                                    <em>October 23, 2009</em>
+                                    <a href="http://www.albany.edu/news/campus_news_7858.php">Anthony Cresswell Honored by UAlbany and NYS Forum</a>
+                                </li>
+                                
+                                <li>
+                                    <em>October 12, 2009</em>
+                                    <a href="http://www.albany.edu/news/release_7703.php">$1.1 Million Grant Focuses on Curbing Obesity</a>
+                                </li>
+                                
+                                </ul>
+                        <strong class="more"><a href="http://www.albany.edu/news/">MORE NEWS</a></strong>
+                    </div><!-- close div "include-box-body" -->
+                </div><!-- close div "include-box-top" -->
+</div><!-- close div "include-box" -->

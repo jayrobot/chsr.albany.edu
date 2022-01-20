@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<title>CHSR | Staff - Amy Barasch</title>
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+</head>
+<body>
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+<!--main container-->
+<div id="main">  <!-- header start -->  
+  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+  <!-- header end -->
+  <!-- content holder -->
+  <div id="content">
+    <!-- contaner -->
+    <div class="contaner">
+      <div class="contaner-top">
+        <div class="contaner-bottom">
+          <!-- content -->
+          <div class="content">
+
+            <div class="content-box">
+              <!-- text-box -->
+              <div class="text-box" style="margin-top: -10px;">
+                <div class="txt">
+                  <h1><img src="images/Headshots/abarasch.jpg" alt="Staff Member" name="imgPhoto" width="250" height="168" id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" />Amy Barasch</h1>
+                  <p class="intro">Public Service Professor <br />Research Scientist</p>
+<p><strong>E-mail: </strong><a href="mailto:abarasch@albany.edu">abarasch@albany.edu</a><br />
+  <strong>Telephone: </strong>(518) 442-3887</p>
+<p><strong>Specialization: </strong>Intimate Partner Violence</p>
+<p><strong>Projects: </strong><br />
+<a href="domesticviolenceHP.shtml">Domestic Violence Homicide Prevention Initiative</a><br />
+<a href="csp-dv.shtml">Evaluation of CPS/DV Collocation</a><br />
+<a href="NYC_Anti-Violence_Project.shtml">NYC Anti-Violence Project Evaluation Capacity Building Project </a>
+<br/>
+<p>Amy joined CHSR in 2013 to assist with the CPS/DV Collocation study and expand CSHR’s research and program capacity in the area of intimate partner violence and sexual assault. Prior to joining CSHR, Amy was the Executive Director of the New York State Office for the Prevention of Domestic Violence where she managed the nation’s only executive office dedicated to developing policies and programs to respond to the issue of domestic violence. Prior to her appointment with the State, she spent over a dozen years in government, non-profit, and academic sectors specializing in policy development, creating and piloting innovative intimate partner violence and anti-poverty programs, and creating cross-sector initiatives in the areas of public safety and human services. She has served in an advisory capacity on several research initiatives, has integrated evaluation into the programs she has developed, and practiced as an attorney in civil court on a wide range of matters, including domestic violence and abuse and neglect. Amy has recently co-authored a <a href="https://www.ncjrs.gov/pdffiles1/nij/grants/242131.pdf" target="_blank">report</a> about a study of juvenile orders of protection as a remedy for dating violence.
+<br />
+  </p>
+<p>Amy received her Bachelor’s degree in Art History from Brown University and her J.D. from Columbia University Law School.  </p>
+                </div>
+              </div>
+              <!--close div text-box-->
+            </div>
+            <!--close div content-box-->
+          </div>
+          <!--close div content-->
+          <!-- column -->
+          <div class="column">
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+            <!-- column-box end -->
+          </div>
+          <!--close div column-->
+        </div>
+        <!--close div contaner-bottom-->
+      </div>
+      <!--close div contaner-top-->
+    </div>
+    <!--close div contaner-->    <div class="sidebar">
+      <!-- chsr news inclue begin -->
+      <!-- chsr news inclue end -->
+<!--#include virtual="includes/include_contact_us.shtml" -->
+    </div>
+    <!--close div sidebar-->
+  </div><!-- close div id "content" -->
+	
+	<!--footer-->
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+</div><!--close div main-->
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+  </body>
+</html>

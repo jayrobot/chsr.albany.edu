@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	<title>CHSR | Upstate New York Emergency Department Study</title>
+
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+
+</head>
+
+<body>
+
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+
+<!--main container-->
+
+<div id="main">
+
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+
+  <!-- header end -->
+
+  <!-- content holder -->
+
+  <div id="content">
+
+    <!-- contaner -->
+
+    <div class="contaner">
+
+      <div class="contaner-top">
+
+        <div class="contaner-bottom">
+
+          <!-- content -->
+
+          <div class="content">
+
+            <div class="img"> <img src="../templates_2009/images/random_pagetops/pic-8.jpg" width="587" height="213" alt="University at Albany" />
+
+              <div><span>&nbsp;</span></div>
+
+              <!--close div unnamed-->
+
+            </div>
+
+            <!--close div img-->
+
+            <div class="content-box">
+
+              <!-- text-box -->
+
+              <div class="text-box">
+
+                <div class="txt">
+
+
+
+							<!-- open content box -->
+
+				  <div class="white-box">
+
+							  <div class="top">
+
+							    <div class="bottom">
+
+				    <h2>Learn More About:</h2>
+
+												<ul>
+
+                                              <li><a href="Publications/ER_Study_march_2001.pdf" title="A Study to Improve the Delivery of Services in an Upstate NY Emergency Department" target="_blank">Upstate New York Emergency Department Final  Report </a></li>
+
+													
+
+													
+
+												
+
+												</ul>
+
+								</div><!--close div bottom-->
+
+					</div><!--close div top-->
+
+				  </div><!--close content box-->
+
+
+
+			      <h1>Upstate New York Emergency Department Study</h1>
+
+				  <p class="intro">CHSR conducted a study of the Emergency Department (ED) of  an upstate New York hospital to improve  effectiveness and efficiency in the  delivery of care.</p>
+				  <h2 class="intro">
+				    Evaluation &amp; Research</h2>
+				  <p>The study was designed to answer the following research  questions:</p>
+                  <ul>
+                    <li>What factors contribute to ED bottlenecks?</li>
+                    <li>What factors contribute to patients leaving the  ED before completing the visit?</li>
+                    <li>How can ED operations be streamlined to serve  patients more efficiently? </li>
+                  </ul>
+<p>                    CHSR researchers shadowed 96  patients to examine patient flow within the ED and between the ED and other  departments. During the shadowing, researchers completed data collection  instruments to record the times of activities and services that the patient  received  at admission, with a physician, and at discharge. CHSR also collected and analyzed data on laboratory test times and patient satisfaction.</p><p><span class="txt"><strong>Contact: </strong></span><strong><a href="rgreene.shtml">Rose Greene</a></strong></p>
+
+                </div>
+
+                <!--close div txt-->
+
+              </div>
+
+              <!--close div text-box-->
+
+            </div>
+
+            <!--close div content-box-->
+
+          </div>
+
+          <!--close div content-->
+
+          <!-- column -->
+
+          <div class="column">
+
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+
+            <!-- column-box end -->
+
+          </div>
+
+          <!--close div column-->
+
+        </div>
+
+        <!--close div contaner-bottom-->
+
+      </div>
+
+      <!--close div contaner-top-->
+
+    </div>
+
+    <!--close div contaner-->    <div class="sidebar">
+
+      <!-- chsr news inclue begin -->
+
+	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+
+<!-- chsr news inclue end -->
+
+    </div>
+
+    <!--close div sidebar-->
+
+  </div><!-- close div id "content" -->
+
+	
+
+	<!--footer-->
+
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+
+
+</div><!--close div main-->
+
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+
+  </body>
+
+</html>

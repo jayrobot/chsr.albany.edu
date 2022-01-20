@@ -1,0 +1,175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	<title>CHSR |PATH - Evaluation &amp; Research</title>
+
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+</head>
+
+<body>
+
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+
+<!--main container-->
+
+<div id="main">
+
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+
+  <!-- header end -->
+
+  <!-- content holder -->
+
+  <div id="content">
+
+    <!-- contaner -->
+
+    <div class="contaner">
+
+      <div class="contaner-top">
+
+        <div class="contaner-bottom">
+
+          <!-- content -->
+
+          <div class="content">
+
+            <div class="img"> <img src="../templates_2009/images/random_pagetops/pic-8.jpg" width="587" height="213" alt="University at Albany" />
+
+              <div><span>&nbsp;</span></div>
+
+              <!--close div unnamed-->
+
+            </div>
+
+            <!--close div img-->
+
+            <div class="content-box">
+
+              <!-- text-box -->
+
+              <div class="text-box">
+
+                <div class="txt">
+
+
+
+							<!-- open content box -->
+
+							<div class="white-box">
+
+							  <div class="top">
+
+							    <div class="bottom">
+
+				    <h2>Learn More About:</h2>
+
+												<ul>
+
+                                              <li><a href="PATH.shtml">Evaluation  of People Advancing through Treatment and Housing (PATH)</a> - Full Project Description</li>
+                                              												</ul>
+								</div><!--close div bottom-->
+							  </div><!--close div top-->
+				  </div><!--close content box-->
+
+
+
+						      <h1><strong>Evaluation  of People Advancing through Treatment and Housing (PATH)</strong></h1>
+
+				              
+				              <p class="intro"></p>
+				              <p class="intro">Funded by  the <a href="http://www.samhsa.gov/" target="_blank">Substance Abuse and Mental Health Services Administration (SAMHSA)</a> for five years,  People Advancing through Treatment and Housing (PATH) is a project of the <a href="http://www.theacca.net" target="_blank">Addictions Care Center of Albany (ACCA) </a>to serve the homeless population  with substance abuse and mental health issues. CHSR is working with ACCA  to  assess project implementation and outcomes.</p>                 
+                  <h2 class="txt">Evaluation &amp; Research</h2>
+
+	              <p class="txt">The evaluation is designed to generate data on the  populations served and services offered and to assist ACCA in its efforts to  implement the program. Specifically, CHSR will review performance data to examine program implementation and help  determine if PATH is achieving the goals, objectives, and outcomes as intended. CHSR is conducting a process study and an outcome study:</p>
+	              <p class="txt"><strong>Process Study</strong>: The process study will examine the  implementation of PATH with a focus on identifying the ingredients to  successful practice as well as  barriers to meeting program objectives. The  analysis will explore who is served, how PATH operates, how closely  implementation matches the program plan, types of deviation from the plan, and effects  of deviation from the plan. Additionally, we will examine structural  arrangements, staffing configurations, relationships among providers, and  partnerships that have emerged. &nbsp;&nbsp;&nbsp;&nbsp;</p>
+                  <p class="txt"><strong>Outcome Study</strong>: We will examine whether  PATH clients achieve the following goals: abstain from their primary substance  of abuse, participate in educational and vocational training, engage in  treatment, and have stable housing. Additionally, we will analyze the  contextual and individual factors (i.e. trauma history) that are associated  with outcomes.</p>
+                  <p><strong>Contact:<a href="smcginnis.shtml">Dr. Sandra McGinnis</a></strong></p>
+			    </div>
+
+                <!--close div txt-->
+
+              </div>
+
+              <!--close div text-box-->
+
+            </div>
+
+            <!--close div content-box-->
+
+          </div>
+
+          <!--close div content-->
+
+          <!-- column -->
+
+          <div class="column">
+
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+
+            <!-- column-box end -->
+
+          </div>
+
+          <!--close div column-->
+
+        </div>
+
+        <!--close div contaner-bottom-->
+
+      </div>
+
+      <!--close div contaner-top-->
+
+    </div>
+
+    <!--close div contaner-->    <div class="sidebar">
+
+      <!-- chsr news inclue begin -->
+
+	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+
+<!-- chsr news inclue end -->
+
+      
+
+      <!--#include virtual="includes/include_contact_us.shtml" -->
+
+    </div>
+
+    <!--close div sidebar-->
+
+  </div><!-- close div id "content" -->
+
+	
+
+	<!--footer-->
+
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+
+
+</div><!--close div main-->
+
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+
+  </body>
+
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<title>CHSR | Staff - John Heck</title>
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+</head>
+<body>
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+<!--main container-->
+<div id="main">  <!-- header start -->  
+  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+  <!-- header end -->
+  <!-- content holder -->
+  <div id="content">
+    <!-- contaner -->
+    <div class="contaner">
+      <div class="contaner-top">
+        <div class="contaner-bottom">
+          <!-- content -->
+          <div class="content">
+
+            <div class="content-box">
+              <!-- text-box -->
+              <div class="text-box" style="margin-top: -10px;">
+                <div class="txt">
+                  <h1><img style="float: right; margin: 0px 0px 12px 12px;" src="images/Headshots/JH_big.JPG" alt="Faculty Member" id="imgPhoto" />John Heck</h1>
+                  <p class="intro">Senior Programmer Analyst</p>
+<p><strong>E-mail: </strong><a href="mailto:jheck@albany.edu">jheck@albany.edu</a><br />
+  <strong>Telephone: </strong>(518) 442-5719 </p>
+<p><strong>Specialization: </strong>  Human Services Management Information Systems</p>
+<p> <strong>Projects: </strong><br/>
+  <a href="hfnj.shtml">Healthy Families New  Jersey Evaluation</a><br />
+<a href="hfny.shtml">Healthy Families New York Evaluation</a></p>
+<p>John  primarily works on the Management Information System for the Healthy Families  New York Evaluation. He provides support and training to the users of the  system and works with CHSR programmers to convert the exiting PC/network based  application into a Web application.</p>
+<p>  John joined CHSR  in 1994 when he supervised the Technology Unit of the Neighborhood Based  Alliance Initiative (NBA). Previously, he has worked with state information  systems in the areas of teen pregnancy prevention, crisis intervention, and  case management. John is committed to helping human service agencies use  information to manage program activities, do strategic planning, monitor  performance, have fidelity to evidence based models, inform policy makers, and accurately report to funders. He has fifteen years of experience working in  human service agencies that serve mental health, mental retardation, and  developmental disability populations. <br />
+  </p>
+<p>John received  his Bachelor’s degree in Economics from Wittenberg University and his MSW from  the University at Albany, SUNY. He became a member of the Healthy Families  America Accreditation panel and the Healthy Families America National Advisory  Committee in 2008.</p>
+                </div></div>
+              <!--close div text-box-->
+            </div>
+            <!--close div content-box-->
+          </div>
+          <!--close div content-->
+          <!-- column -->
+          <div class="column">
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+            <!-- column-box end -->
+          </div>
+          <!--close div column-->
+        </div>
+        <!--close div contaner-bottom-->
+      </div>
+      <!--close div contaner-top-->
+    </div>
+    <!--close div contaner-->    <div class="sidebar">
+      <!-- chsr news inclue begin -->
+      <!-- chsr news inclue end -->
+<!--#include virtual="includes/include_contact_us.shtml" -->
+    </div>
+    <!--close div sidebar-->
+  </div><!-- close div id "content" -->
+	
+	<!--footer-->
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+</div><!--close div main-->
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+  </body>
+</html>

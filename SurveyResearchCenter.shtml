@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	<title>CHSR | Albany Survey Research Center</title>
+
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+
+</head>
+
+<body>
+
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+
+<!--main container-->
+
+<div id="main">
+
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+
+  <!-- header end -->
+
+  <!-- content holder -->
+
+  <div id="content">
+
+    <!-- contaner -->
+
+    <div class="contaner">
+
+      <div class="contaner-top">
+
+        <div class="contaner-bottom">
+
+          <!-- content -->
+
+          <div class="content">
+
+            <div class="img"> <img src="images/Banners/banner2 copy.jpg" width="588" height="227" alt="University at Albany" />
+
+              <div><span>&nbsp;</span></div>
+
+              <!--close div unnamed-->
+
+            </div>
+
+            <!--close div img-->
+
+            <div class="content-box">
+
+              <!-- text-box -->
+
+              <div class="text-box">
+
+                <div class="txt">
+
+
+
+							<!-- open content box -->
+
+									<div class="white-box">
+
+										<div class="top">
+
+											<div class="bottom">
+
+												
+                                                Contact:<br/> Rose Greene, Director<br/>tel: (518)442-5774<br/>e-mail:<br/><a href="mailto:rgreene@albany.edu">rgreene@albany.edu</a><br/>web:<br/><a href="http://www.albany.edu/chsr/index.shtml">www.albany.edu/chsr</a><br/>for more information or to schedule a free consultation. <br/>
+                                                <h5><a href="RESEARCHCENTERavailserv.shtml">Our Available Services</a></h5>
+                                                
+
+                                                
+</div><!--close div bottom-->
+
+										</div><!--close div top-->
+
+									</div><!--close content box-->
+
+
+
+						      <h1>Albany Survey Research Center</h1>
+						      <br />
+                              <h2>The University at Albany Survey Research Center offers all UA faculty and staff the resources necessary to conduct large and small-scale studies. The Survey Center is staffed by experienced, multidisciplinary researchers and programmers who can assist with any stage of your research project – from proposal development to data collection and analysis.<br />
+                              The services of the UA Survey Center are available on a fee-for-service basis. As an internal, university-based facility you can use Survey Center services without having to go through competitive bidding to receive the needed research support.</h2>
+                              <h3>Free Consultation</h3>
+                              <p>Survey Center researchers and programmers are available to provide no-cost consultation on survey design, data collection and research methodology. We are well versed in all phases of research and grant applications including sampling, data collection, data storage and security requirements.</p>
+                              <h3>Custom Design</h3>
+                              <p>We can design surveys to meet the specific needs of your research project. We have experience developing and validating instruments, as well as identifying and obtaining existing validated measures. </p>
+                              <h3>Data Collection</h3>
+                              <p>We can provide all types of quantitative and qualitative data collection services that include conducting field interviews, focus groups, mail and phone surveys, case record reviews, administrative database extractions and analyses, observational studies, audio and video recordings. We have a rigorous hiring and training program to ensure quality and timely data collection.</p>
+                              <h3>Custom IT Services</h3>
+                              <p>The UA Survey Center provides a full range of IT data services. We employ full time database developers and web programmers who create new systems to serve the needs of data users. We develop and maintain web-based data systems to collect multi-site program data and custom designed electronic, real-time reports.</p>
+                              <h3>Web and Mobile Data Collection Options</h3>
+                  <p>We have the capacity to design mobile platforms. Survey staff can collect and report field data in real time, using mobile devices. We can develop custom, web-based survey tools that feature complex looping, user tracking, security encryptions and other features not offered by ready-made online survey options.</p>
+                              <h3>Data Maintenance and Analysis</h3>
+                              <p>We design and maintain secure databases that provide regularly scheduled reports showing the progress of data collection, as well as access to live data for the most current view of study results. Our researchers can analyze quantitative and qualitative data using major analysis packages such as Stata, SAS and SPSS.</p>
+<p>
+</p>
+<p>&nbsp;</p>
+                </div>
+
+                <!--close div txt-->
+
+              </div>
+
+              <!--close div text-box-->
+
+            </div>
+
+            <!--close div content-box-->
+
+          </div>
+
+          <!--close div content-->
+
+          <!-- column -->
+
+          <div class="column">
+
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+
+            <!-- column-box end -->
+
+</div>
+
+          <!--close div column-->
+
+        </div>
+
+        <!--close div contaner-bottom-->
+
+      </div>
+
+      <!--close div contaner-top-->
+
+    </div>
+
+    <!--close div contaner-->    <div class="sidebar">
+
+      <!-- chsr news inclue begin -->
+
+	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+
+<!-- chsr news inclue end -->
+
+    </div>
+
+    <!--close div sidebar-->
+
+  </div><!-- close div id "content" -->
+
+	
+
+	<!--footer-->
+
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+
+
+</div><!--close div main-->
+
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+
+</body>
+
+</html>

@@ -1,0 +1,67 @@
+<!--header-->
+	<div id="header">
+		<div class="header-holder">
+			<strong class="logo"><a href="#"><img src="http://www.albany.edu/templates_2009/images/logo-3.gif" alt="University at Albany" /></a></strong>
+			<!-- search start -->
+			<div class="search">
+<!--========== Begin Search ==========-->
+
+<form action="http://www.albany.edu/search/search_results.php" id="cse-search-box" method="get" name="cse-search-box">
+<div class="search-bg">
+            <input type="hidden" name="cx" value="015091508766613755815:egotm6n6law" /> 
+            <input type="hidden" name="cof" value="FORID:11" /> 
+            <input type="hidden" name="ie" value="UTF-8" /> 
+            <input type="text" name="q" class="searchBox2" size="24" /> 
+            <input src="http://www.albany.edu/Images/Header/btnSearch.gif" name="sa" type="image" value="Search" class="searchButton2"  style="padding-left: 2px;"/>
+</div>          
+            <div id="search_labels" style="padding-top: 2px;">
+			<input id="custom" type="radio" name="cx" value="015091508766613755815:egotm6n6law" checked="checked" />
+			<label for="custom" style="padding: 0; margin-left: 0px;font-size: .8em; vertical-align:text-top; font-family: Verdana, Geneva, sans-serif">Full Site</label>
+			  <input id="www" type="radio" name="cx" value="012410581953662217427:22gcuedih0y" />
+			  <label for="www" style="padding: 0; margin-left: 0px;font-size: .8em; vertical-align:text-top; font-family: Verdana, Geneva, sans-serif">School of Education</label>
+            </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+<!--========== End Search ==========-->     
+			</div>
+			<!-- search end -->
+		</div>
+		<!-- header-box start -->
+		<div class="header-box">
+			<ul class="small-nav">
+				<li><a href="http://www.albany.edu/myualbany/">MyUAlbany</a></li>
+				<li><a href="http://ualbany2.custhelp.com/cgi-bin/ualbany2.cfg/php/enduser/std_alp.php?source=home&amp;p_sid=NWg5Pgdj">Ask UAlbany</a></li>
+				<li><a href="http://www.albany.edu/directories.php">Directories</a></li>
+				<li><a href="http://www.albany.edu/about_visiting.php">Visit</a></li>
+				<li><a href="http://www.albany.edu/contact.php">Contact</a></li>
+				<li><a href="http://www.albany.edu/sitemap.php">A-Z Index</a></li>
+			</ul>
+			<div class="nav">
+				<ul>
+					<li><a href="http://www.albany.edu/current.php"><span>Current UAlbany Students</span></a></li>
+					<li><a href="http://www.albany.edu/faculty.php"><span>Faculty &amp; Staff</span></a></li>
+					<li><a href="http://www.albany.edu/alumni/index.php"><span>Alumni</span></a></li>
+					<li><a href="http://www.albany.edu/parent.php"><span>Parents</span></a></li>
+				</ul>
+			</div>
+			<div class="center-box-1">
+				<div class="center-box-2">
+					<div class="center-box-3">
+						<ul class="menu">
+							<li class="active"><a href="http://www.albany.edu/about.php"><span>About</span></a></li>
+							<li><a href="http://www.albany.edu/academics/" title="Academics"><span>Academics</span></a></li>
+							<li><a href="http://www.albany.edu/admissions.php"><span>Admissions</span></a></li>
+							<li><a href="http://library.albany.edu/"><span>Libraries</span></a></li>
+							<li><a href="http://www.albany.edu/research/"><span>Research</span></a></li>
+							<li><a href="http://www.albany.edu/studentlife/"><span>Student Life</span></a></li>
+							<li><a href="http://www.albany.edu/main/sports.html?source=home"><span>Athletics</span></a></li>
+							<li><a href="http://www.albany.edu/news.php"><span>News &amp; Events</span></a></li>
+							<li><a href="http://www.albany.edu/giving.php"><span>Giving</span></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- header-box end -->
+	</div>

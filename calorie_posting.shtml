@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	<title>CHSR | Menu Labeling Evaluation Project</title>
+
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+
+</head>
+
+<body>
+
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+
+<!--main container-->
+
+<div id="main">
+
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+
+  <!-- header end -->
+
+  <!-- content holder -->
+
+  <div id="content">
+
+    <!-- contaner -->
+
+    <div class="contaner">
+
+      <div class="contaner-top">
+
+        <div class="contaner-bottom">
+
+          <!-- content -->
+
+          <div class="content">
+
+            <div class="img"> <img src="../templates_2009/images/random_pagetops/pic-8.jpg" width="587" height="213" alt="University at Albany" />
+
+              <div><span>&nbsp;</span></div>
+
+              <!--close div unnamed-->
+
+            </div>
+
+            <!--close div img-->
+
+            <div class="content-box">
+
+              <!-- text-box -->
+
+              <div class="text-box">
+
+                <div class="txt">
+
+
+
+							<!-- open content box -->
+
+							<div class="white-box">
+
+							  <div class="top">
+
+							    <div class="bottom">
+
+				    <h2>Download Related Articles:</h2>
+
+												<ul>
+
+                                              <li><a href="http://ajph.aphapublications.org/cgi/content/short/100/6/1035" target="_blank">Evaluation of a Voluntary Menu-Labeling Program in Full-Service Restaurants</a></li>
+
+													<li><a href="http://content.healthaffairs.org/cgi/content/full/28/6/w1110" target="_blank">Calorie Labeling and Food Choices: A First Look At the Effects on Low-Income People in New York City</a></li>
+
+													<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/19343015" target="_blank">What People Buy From Fast-food Restaurants: Caloric Content and Menu Item Selection </a></li>
+
+												</ul>
+
+							    </div><!--close div bottom-->
+
+										</div><!--close div top-->
+
+									</div><!--close content box-->
+
+
+
+						      <h1>Menu Labeling Evaluation  Project</h1>
+
+				  <p class="intro">CHSR  worked with <a href="http://www.hrinet.org/" target="_blank">Health Research, Inc.</a> to evaluate the impact of calorie postings  and a media campaign on customer's knowledge, attitudes, and purchasing behavior in select New York State counties.</p>
+
+                 <p> Four counties in New York State (not including New York City)  in various stages of implementing policies  that require chain restaurants to post calorie counts of the food they serve were selected for this study. To amplify  the impact of the calorie postings, the <a href="http://www.health.state.ny.us/" target="_blank">New York State Department of Health</a> launched a public awareness media campaign. The campaign ran in all four counties  and focused on fast food restaurants. The calorie postings and public awareness  campaign were expected to lead customers to purchase food with fewer calories and  to contribute to a decrease in the prevalence of overweight and obesity.</p>
+
+                 <h2>Evaluation &amp; Research</h2>
+
+<p>A three-group quasi-experimental design was used to answer questions about the impact of the media campaign and calorie posting on customers' knowledge, attitudes, and purchasing behavior. The design included two counties in which calorie posting was already implemented and two where implementation was planned to occur during the course of the evaluation; one county without a mandate to calorie post served as a control group. Three waves of data collection were conducted, one in the fall of 2010, one in the spring of 2011 and a final one in the fall of 2012 to evaluate the impact of a media campaign in Albany and Schenectady counties.</p>
+
+<p>More than 2,800 customer surveys and receipts were collected and analyzed. The three-group quasi-experimental design showed the extent of change in the knowledge, attitudes, and beliefs of chain restaurant customers after they were exposed to the calorie postings and the media campaign.</p>
+<p><strong>Contact: <a href="cnoble.shtml">Corinne Noble</a></strong></p>
+
+                </div>
+
+                <!--close div txt-->
+
+              </div>
+
+              <!--close div text-box-->
+
+            </div>
+
+            <!--close div content-box-->
+
+          </div>
+
+          <!--close div content-->
+
+          <!-- column -->
+
+          <div class="column">
+
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+
+            <!-- column-box end -->
+
+          </div>
+
+          <!--close div column-->
+
+        </div>
+
+        <!--close div contaner-bottom-->
+
+      </div>
+
+      <!--close div contaner-top-->
+
+    </div>
+
+    <!--close div contaner-->    <div class="sidebar">
+
+      <!-- chsr news inclue begin -->
+
+	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+
+<!-- chsr news inclue end -->
+
+    </div>
+
+    <!--close div sidebar-->
+
+  </div><!-- close div id "content" -->
+
+	
+
+	<!--footer-->
+
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+
+
+</div><!--close div main-->
+
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+
+  </body>
+
+</html>

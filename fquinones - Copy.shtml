@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<title>CHSR | Staff - Félix Quiñones</title>
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+</head>
+<body>
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+<!--main container-->
+<div id="main">  <!-- header start -->  
+  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+  <!-- header end -->
+  <!-- content holder -->
+  <div id="content">
+    <!-- contaner -->
+    <div class="contaner">
+      <div class="contaner-top">
+        <div class="contaner-bottom">
+          <!-- content -->
+          <div class="content">
+
+            <div class="content-box">
+              <!-- text-box -->
+              <div class="text-box" style="margin-top: -10px;">
+                <div class="txt">
+                  <h1><img src="images/Headshots/fquinones2.jpeg" width="200" height="243" style="float: right;" />Félix Quiñones</h1>    
+                  <p class="intro">Senior Research Support Specialist</p>
+<p><strong>E-mail: </strong><a href="mailto:fquinones2@albany.edu">fquinones2@albany.edu</a><br />
+  <strong>Telephone: </strong><a href="tel:(518)442-5756"> (518)442-5756</a><br/></p>
+
+<p><strong>Specialization:</strong> <br/>
+<strong>Applied Statistics, Program Evaluation, Strategic Planning, Non-Profit Organizational Development, and Youth Development
+</strong><br/>
+</p>
+<p><strong>Projects:</strong> <br/>  
+<a href="albanycountyequity.shtml">Albany County Equity Agenda</a><br/>
+<a href="syep_2019.shtml">Evaluation of the Summer Youth Employment Program</a><br/>
+<a href="VLAND1.shtml">Victim Legal Assistance Network Development</a><br/>
+<a href="wage_center.shtml">The Wage Center</a><br/>	
+	
+  </p>
+  <p>Félix Quiñones started with CHSR as a grad assistant in 2016 and is currently working as a Senior Research Support Specialist. Félix’s career began working with youth development nonprofit organizations in Puerto Rico in the areas of program implementation, evaluation and development, youth development, and data driven organizational decisions. His background includes the development and implementation of community programs focused in the services offered to young individuals, the opportunities youth have available, and the support that is needed to youth success. He also provided program evaluation, training, consultation, and technical assistance to non-profits organizations and religious organizations. 
+  </p>
+  
+<p>Félix has been working with applied statistics, program development and evaluation, youth empowerment, and non-profit organizational development since 2009. Prior to joining CHSR, Félix was a Graduate Student at the Rockefeller College of Public Affairs & Policy at the University at Albany (SUNY). </p>
+<p>Félix completed his bachelor’s degree in Psychology at the Turabo University (Caguas, Puerto Rico) and a Master’s degree in non-profit administration from the Sacred Heart University (San Juan, Puerto Rico). He also received a Certificate of Advance Studies in Educational Research from the University at Albany (SUNY).</p>
+</div>
+ </div>
+              <!--close div text-box-->
+            </div>
+            <!--close div content-box-->
+          </div>
+          <!--close div content-->
+          <!-- column -->
+          <div class="column">
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+            <!-- column-box end -->
+          </div>
+          <!--close div column-->
+        </div>
+        <!--close div contaner-bottom-->
+      </div>
+      <!--close div contaner-top-->
+    </div>
+    <!--close div contaner-->    <div class="sidebar">
+      <!-- chsr news inclue begin -->
+      <!-- chsr news inclue end -->
+<!--#include virtual="includes/include_contact_us.shtml" -->
+    </div>
+    <!--close div sidebar-->
+  </div><!-- close div id "content" -->
+	
+	<!--footer-->
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+</div><!--close div main-->
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+  </body>
+</html>

@@ -1,0 +1,14 @@
+<!-- column-links -->
+	<ul class="column-links-alt">
+		<li><a href="index.shtml">Home</a></li>
+		<li><a href="About_Us.shtml">About Us</a></li>
+		<li><a href="Research_Evaluation.shtml">Evaluation &amp; Research</a></li>
+		<li><a href="Program_Dev_Community_Engage.shtml">Program Development</a></li>
+		<li><a href="Systems_Software_Development.shtml">Systems &amp; Software Development</a></li>
+		<li><a href="project_areas.shtml">Project Areas</a></li>
+		<li><a href="publications.shtml">Publications</a></li>
+		<li><a href="Staff.shtml">Staff Directory</a></li>
+        <li><a href="http://www.albany.edu/SurveyResearchCenter/index.html" target="_blank">Survey Research Center</a></li>
+		<li><a href="CHSRJOBS.shtml">CHSR Employment Opportunities</a></li>
+        <li><a href="Contact_Us.shtml">Contact Us</a></li>
+	</ul>

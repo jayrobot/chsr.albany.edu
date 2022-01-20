@@ -1,0 +1,45 @@
+<!-- header start -->
+	<div id="header">
+		<div class="header-holder">
+			<strong class="logo"><a href="http://www.albany.edu"><img src="http://www.albany.edu/templates_2009/images/Header_UAlbany_Banner_Logo_Standard.gif" alt="University at Albany, State University of New York" width="455" height="63" /></a><a href="#"></a></strong>
+			<!-- search start -->
+			<div class="search">
+              <!--========== Begin Search ==========-->
+              <form action="http://www.albany.edu/search/search_results.php" id="cse-search-box" method="get" name="cse-search-box">
+                <div class="search-bg">
+                  <input type="hidden" name="cx" value="015091508766613755815:egotm6n6law" />
+                  <input type="hidden" name="cof" value="FORID:11" />
+                  <input type="hidden" name="ie" value="UTF-8" />
+                  <input type="text" name="q" class="searchBox2" size="24" />
+                  <input src="http://www.albany.edu/Images/Header/btnSearch.gif" name="sa" type="image" value="Search" class="searchButton2"  style="padding-left: 2px;"/>
+                </div>
+                <div id="search_labels" style="padding-top: 2px;">
+                  <input id="custom" type="radio" name="cx" value="015091508766613755815:egotm6n6law" checked="checked" />
+                  <label for="custom" style="padding: 0; margin-left: 0px;font-size: .8em; vertical-align:text-top; font-family: Verdana, Geneva, sans-serif">Search the CS Department</label>
+                  <input id="www" type="radio" name="cx" value="012410581953662217427:22gcuedih0y" />
+                  <label for="www" style="padding: 0; margin-left: 0px;font-size: .8em; vertical-align:text-top; font-family: Verdana, Geneva, sans-serif">Search UAlbany</label></div>
+              </form>
+			  <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+              <!--========== End Search ==========-->
+            </div>
+			<!-- search end -->
+		</div>
+
+    <!-- header-box start -->
+		<div class="header-box">
+			<ul class="small-nav">
+				<li><a href="#">University Home</a></li>
+				<li><a href="#">Contact the School</a></li>
+			</ul>
+			<div class="nav">
+				<ul>
+				  <li><a href="#"><span>Current Students</span></a></li>
+					<li><a href="#"><span>Faculty &amp; Staff</span></a></li>
+					<li><a href="#"><span>Alumni</span></a></li>
+					<li><a href="#"><span>Community Engagement</span></a></li>
+			  </ul>
+			</div>
+		</div>
+		<!-- header-box end -->
+	</div>
+	<!-- header end -->

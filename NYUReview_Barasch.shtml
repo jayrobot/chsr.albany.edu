@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<title>CHSR | Announcements - N.Y.U. Article</title>
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+</head>
+<body>
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+<!--main container-->
+<div id="main">  <!-- header start -->  
+  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+  <!-- header end -->
+  <!-- content holder -->
+  <div id="content">
+    <!-- contaner -->
+    <div class="contaner">
+      <div class="contaner-top">
+        <div class="contaner-bottom">
+          <!-- content -->
+          <div class="content">
+
+            <div class="content-box">
+              <!-- text-box -->
+              <div class="text-box" style="margin-top: -10px;">
+                <div class="txt">
+                  <h2>Amy Barasch, CHSR Research Scientist, published in <em>N.Y.U. Review of Law & Social Change.</em></h2>
+                  <p align="left"><a href="http://ssrn.com/abstract=2284542" target="blank">Barasch, Amy (2012). Gender bias analysis version 2.0: Shifting the focus to outcomes and legitimacy. N.Y. U. Review of Law & Social Change, 36, 529-553. </a></p>
+                  <p><b> <font color="black">Abstract</b></font> <br />
+                   Twenty-five years ago, the New York State Unified Court System created the New York Task Force on Women in the Courts to study how women fared in the court system, a problem referred to in other contemporaneous reports as “gender bias.” In 1986, the Task Force published their Report (“The Report”). On the 25th anniversary of that report, Ms. Barasch reviews achievements the courts have made since the report’s publication; identifies certain gaps between the goals of the Task Force and its actions and recommendations; and envisions what a gender bias agenda for today might be.  She focuses primarily on two possible areas for future research.  The first is a broad investigation into the possible implicit gender bias reflected in judicial decision-making, how such bias might have affected the development of case law,  and what actions we could take to correct for that bias should it exist.  The second is a question about the legitimacy of the court system as seen by female litigants: given that in 1986 a majority of women reported that the courts were biased against them, it is reasonable to ask if they therefore question the legitimacy of the court’s process and/or outcomes, and if so, how that might change litigant behavior regarding use of the court system and reactions to court orders and decisions. </p>
+                </div>
+              </div>
+              <!--close div text-box-->
+            </div>
+            <!--close div content-box-->
+          </div>
+          <!--close div content-->
+          <!-- column -->
+          <div class="column">
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+            <!-- column-box end -->
+          </div>
+          <!--close div column-->
+        </div>
+        <!--close div contaner-bottom-->
+      </div>
+      <!--close div contaner-top-->
+    </div>
+    <!--close div contaner-->    <div class="sidebar">
+      <!-- chsr news inclue begin -->
+      <!-- chsr news inclue end -->
+<!--#include virtual="includes/include_contact_us.shtml" -->
+    </div>
+    <!--close div sidebar-->
+  </div><!-- close div id "content" -->
+	
+	<!--footer-->
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+</div><!--close div main-->
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+  </body>
+</html>

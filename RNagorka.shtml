@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<title>CHSR | Staff - Roxanne Nagorka</title>
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+</head>
+<body>
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+<!--main container-->
+<div id="main">  <!-- header start -->  
+  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+  <!-- header end -->
+  <!-- content holder -->
+  <div id="content">
+    <!-- contaner -->
+    <div class="contaner">
+      <div class="contaner-top">
+        <div class="contaner-bottom">
+          <!-- content -->
+          <div class="content">
+
+            <div class="content-box">
+              <!-- text-box -->
+              <div class="text-box" style="margin-top: -10px;">
+                <div class="txt">
+                                   <h1><img src="images/Headshots/roxannen1.jpg" width="175" height="175"  style="float: right;" />Roxanne Nagorka</h1>
+                  <p class="intro">Research Interviewer</p>
+<p><strong>E-mail: </strong><a href="mailto:rnagorka@albany.edu">rnagorka@albany.edu</a><br />
+</p>
+<p><strong>Specialization: </strong>Interviewing, Arts and Communications</p>
+<p><strong>Projects: </strong><br />
+  
+  <a href="hfny.shtml">Healthy Families NY Randomized Trial</a><br />
+  <br />
+ 
+  </p>
+<p>Roxanne Nagorka joined CHSR in 2000 as one of the original interviewers for the Healthy Families New York Randomized Trial.  She is currently working on the Healthy Families Year 15 follow-up interviews. In addition, she has worked as a research interviewer on several federally funded research studies aimed at improving the lives of women, children and families nationwide. In the past, she taught art classes and enrichment programs to children in schools, museums, and community centers in the Capital District. </p>  
+<p>Roxanne attended George Washington University for 3 years, moved to Connecticut and received her B.A. In Cultural Anthropology with a minor in Art from Central Connecticut State College. She has a lifelong interest in issues of social and economic justice and strongly supports programs and initiatives which address the needs of vulnerable families and individuals. She enjoys learning and strives to gain a deeper understanding of the problems and situations facing our society. 
+
+In her free time, she enjoys music, art, reading, public radio, yoga and stimulating conversation. </p><br/>
+</div>
+              </div>
+              <!--close div text-box-->
+            </div>
+            <!--close div content-box-->
+          </div>
+          <!--close div content-->
+          <!-- column -->
+          <div class="column">
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+            <!-- column-box end -->
+          </div>
+          <!--close div column-->
+        </div>
+        <!--close div contaner-bottom-->
+      </div>
+      <!--close div contaner-top-->
+    </div>
+    <!--close div contaner-->    <div class="sidebar">
+      <!-- chsr news inclue begin -->
+      <!-- chsr news inclue end -->
+<!--#include virtual="includes/include_contact_us.shtml" -->
+    </div>
+    <!--close div sidebar-->
+  </div><!-- close div id "content" -->
+	
+	<!--footer-->
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+</div><!--close div main-->
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+  </body>
+</html>

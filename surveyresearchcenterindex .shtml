@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	<title>The Center for Human Services Research - University at Albany - SUNY -</title>
+
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+
+</head>
+
+<body>
+
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+
+<!--main container-->
+
+<div id="main">  <!-- header start -->  
+
+  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+
+  <!-- header end --> 
+
+	<!-- content holder -->
+
+	<div id="content">
+
+		<!-- contaner start -->
+
+		<div class="contaner">
+
+			<div class="contaner-top">
+
+				<div class="contaner-bottom">
+
+					<!-- content -->
+
+					<div class="content">
+
+						<div class="img">
+
+						  <img src="images/random_pagetops/banner_mission.jpg" width="587" height="227" alt="University at Albany" />
+
+						  <div><span>&nbsp;</span></div>
+
+			      </div>
+
+						<div class="content-box">
+
+						  <div class="text-box">
+
+						    <h1>Introducing the NEW University at Albany Survery Research Center Campus-Based Support for your Research Needs</h1>
+
+						    <p class="intro">The University at Albany Survey Research Center offers all UA faculty and staff the resources necessary to conduct large and small-scale studies. The Survey Center is staffed by experienced, multidisciplinary researchers and programmers who can assist with any stage of your research project – from proposal development to data collection and analysis.<br />
+					        The services of the UA Survey Center are available on a fee-for-service basis. As an internal, university-based facility you can use Survey Center services without having to go through competitive bidding to receive the needed research support.</p>
+                            
+							
+					      </div>
+                          
+                                         
+                         
+
+						  <!-- tab-bxes -->
+
+						  <div class="tabs">
+
+						    <!-- frame-box -->
+
+						    <div class="frame-box">
+
+						      <div class="frame-box-top">
+
+						        <div class="frame-box-bottom">
+
+						          <!-- tab 1 -->
+
+						          <div id="tab1" class="tab">
+
+						            <ul class="news-list">
+						              <li>
+						                <h3><a href="Research_Evaluation.shtml">Evaluation &amp; Research</a></h3>
+						                <p>CHSR uses multiple research  methods that are the most appropriate for the research areas of inquiry and  populations being studied.</p>
+					                  </li>
+					                  <li>
+					                    <h3><a href="Systems_Software_Development.shtml">Systems &amp; Software Development</a></h3>
+
+                                        <p>CHSR designs customized computer information  solutions to meet the programmatic, administrative, and evaluation needs of  human service providers and government agencies.</p>
+
+					                  </li>
+
+						              <li>
+						                <h3><a href="program_development.shtml">Program Development </a></h3>
+
+                                        <p>CHSR works with service providers to develop logic models, performance targets, and assist in preparing grant applications.</p>
+
+                                      </li>
+
+					                </ul>
+
+						          </div>
+
+						          
+
+						          
+
+						        </div>
+
+					          </div>
+
+					        </div>
+
+					      </div>
+
+					  </div>
+
+					</div>
+
+					<!-- column -->
+
+					<div class="column">
+
+						<!-- column-links -->
+
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+
+            
+
+						<!-- highlight box start -->
+
+						<!-- highlight box end -->
+
+                        <!--  start -->
+
+                        <!-- violet-box end -->
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<!-- contaner end -->
+
+		<!-- sidebar start -->
+
+        <div class="sidebar">
+
+<!-- chsr news inclue begin -->
+
+	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+
+<!-- chsr news inclue end -->
+
+			<!-- gray-box -->
+
+     
+
+		</div>
+
+		<div class="sidebar">
+
+			<!-- i-went start -->
+
+			<!-- i-want end -->
+
+			<!-- gray-box start -->
+
+			<!-- gray-box end -->
+
+    </div>
+
+		<!-- sidebar end -->
+
+	</div>
+
+	<!--footer-->
+
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+
+
+</div><!--close div main-->
+
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+
+  </body>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46988319-1', 'albany.edu');
+  ga('send', 'pageview');
+
+</script>
+
+
+</html>

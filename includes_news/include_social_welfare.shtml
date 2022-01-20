@@ -1,0 +1,27 @@
+<div class="event-box">
+                <div class="event-box-top">
+                    <div class="event-box-body">
+
+                        <h3 style="font-size:1.1em; text-transform:none; line-height:1em; margin-bottom: 12px; height: 30px;">School of Social Welfare Headlines</h3>
+                            <ul>
+                                
+                                <li>
+                                    <em>November 6, 2009</em>
+                                    <a href="http://www.albany.edu/news/release_7980.php">UAlbany Dean Contributes to Aging Education</a>
+                                </li>
+                                
+                                <li>
+                                    <em>October 27, 2009</em>
+                                    <a href="http://www.albany.edu/news/campus_news_7890.php">Africa Study Trip Transformative Experience</a>
+                                </li>
+                                
+                                <li>
+                                    <em>October 15, 2009</em>
+                                    <a href="http://www.albany.edu/news/campus_news_7791.php">UAlbany Coalition Highlights Healthy Eating</a>
+                                </li>
+                                
+                                </ul>
+                        <strong class="more"><a href="http://www.albany.edu/news/">MORE NEWS</a></strong>
+                    </div><!-- close div "include-box-body" -->
+                </div><!-- close div "include-box-top" -->
+</div><!-- close div "include-box" -->

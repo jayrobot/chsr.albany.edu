@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	<title>CHSR | Frequently Asked Questions</title>
+
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+
+</head>
+
+<body>
+
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+
+<!--main container-->
+
+<div id="main">
+
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+
+  <!-- header end -->
+
+  <!-- content holder -->
+
+  <div id="content">
+
+    <!-- contaner -->
+
+    <div class="contaner">
+
+      <div class="contaner-top">
+
+        <div class="contaner-bottom">
+
+          <!-- content -->
+
+          <div class="content">
+
+            <div class="img"> <img src="images/random_pagetops/bannermission2.jpg" width="590" height="213" alt="University at Albany" />
+
+              <div><span>&nbsp;</span></div>
+
+              <!--close div unnamed-->
+
+            </div>
+
+            <!--close div img-->
+
+            <div class="content-box">
+
+              <!-- text-box -->
+
+              <div class="text-box">
+
+                <div class="txt">
+
+
+
+							<!-- open content box -->
+
+									<div class="white-box"><!--close div top-->
+
+						</div><!--close content box-->
+
+
+
+						      <h1>Frequently Asked Questions</h1><br />
+
+				  <p><strong><a name="do" id="do"></a><span class="purple_bold">What  does CHSR do?</span></strong><br />
+
+                  <span class="txt">CHSR conducts program evaluation of human and social service programs in the capital region and greater New York area, providing data analysis of evaluation and informing program and policy decisions that surround  children, families, and community organizations.  CHSR has an IT component that develps systems to managage all the data coming in, so that it is easily accessible for future analysis; CHSR also develops customized management information systems for human service programs in the field.</span></p>
+
+                                    <p><strong><a name="located" id="located"></a><span class="purple_bold">Where  is CHSR located?</span></strong><br />
+
+CHSR is located in Richardson Hall of  the University at Albany’s Historic Downtown Campus. Click for <a href="http://www.albany.edu/about_the_university/visit_us/directions_car.html#downtown"> directions.</a></p>
+
+                                    <p><strong class="purple_bold"><a name="contact" id="contact"></a>How  do I contact CHSR?</strong><br />
+
+                                      There are a number of ways to contact  CHSR staff.  Our  phone number is  <strong>518.442.5762</strong>, our email address is <a href="mailto:chsr@albany.edu">chsr@albany.edu</a>.  You may also contact  a specific staff person responsible for a project by looking at the <a href="project_areas.shtml">Project Areas</a> web page or  <a href="Staff.shtml">Staff Directory</a>.</p>
+
+                                    <p><strong class="purple_bold"><a name="funded" id="funded"></a>How  is CHSR funded?</strong><br />
+
+                                      CHSR is funded entirely by external  contracts.  We have contracts with  various New York State Agencies, City of Albany School District, Orange County  (NYS), Prevent Child Abuse New Jersey to name a few.</p>
+
+                                    <p><strong class="purple_bold"><a name="albany" id="albany"></a>What  is CHSR’s affiliation with the University at Albany?</strong><br />
+
+                                      CHSR is physically located on the  University at Albany’s downtown campus.    We have access to the University Libraries, a vast network of University  researcher’s and specialists, certain University resources, and employ  undergraduate and graduate students during the year.</p>
+
+                                    <p><strong class="purple_bold"><a name="welfare" id="welfare"></a>What  is CHSR’s affiliation with the School of Social Welfare?</strong><br />
+
+                                      Organizationally, CHSR is operates  within the School of Social Welfare. <a href="lwarner.shtml">Dr.  Lynn Warner</a>, Co-Director of CHSR is a associate professor in the School of Social  Welfare.</p>
+
+                                    <p><strong class="purple_bold"><a name="its" id="its"></a>What  does the IT/MIS Department do?</strong><br />
+
+                                      We provide customized computer  information solutions, specializing in human  service organizations. We have grown from a small university-based IT support  unit to a team of professionals designing applications for a broad range of  community-based organizations. Our IT experts have experience in direct service  delivery, which enhances our understanding and commitment to human service  agencies. We have a deep understanding of family dynamics and how to build  applications to capture these complexities.</p>
+
+                                    <p><span class="purple_bold"><strong><a name="costs" id="costs"></a>What  are CHSR’s Facilities and  Administrative (indirect) costs?</strong></span><br />
+
+                  Though the standard F&amp;A rate, formerly known as indirect costs, is set by the  Federal Government at 51%, there is latitude to get that reduced to a  reasonable amount for our partners.</p>
+
+                                    <p><span class="purple_bold"><strong><a name="cover" id="cover"></a>What  does the Facilities and  Administrative cost rate  cover?</strong></span><br />
+
+                  Formerly known as indirect  costs, these are expenses associated with the use of University facilities and  various administrative costs that cannot be directly and uniquely assigned to  any particular project. Examples of F&amp;A costs include administrative support,  workspace, maintenance and utilities.</p>
+
+</div>
+
+                <!--close div txt-->
+
+              </div>
+
+              <!--close div text-box-->
+
+            </div>
+
+            <!--close div content-box-->
+
+          </div>
+
+          <!--close div content-->
+
+          <!-- column -->
+
+          <div class="column">
+
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+
+            <!-- column-box end -->
+
+          </div>
+
+          <!--close div column-->
+
+        </div>
+
+        <!--close div contaner-bottom-->
+
+      </div>
+
+      <!--close div contaner-top-->
+
+    </div>
+
+    <!--close div contaner-->    <div class="sidebar">
+
+      <!-- chsr news inclue begin -->
+
+	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+
+<!-- chsr news inclue end -->
+
+      
+
+      <!--#include virtual="includes/include_contact_us.shtml" -->
+
+    </div>
+
+    <!--close div sidebar-->
+
+  </div><!-- close div id "content" -->
+
+	
+
+	<!--footer-->
+
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+
+
+</div><!--close div main-->
+
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+
+  </body>
+
+</html>

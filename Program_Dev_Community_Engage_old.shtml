@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	<title>CHSR | Program Development</title>
+
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+
+</head>
+
+<body>
+
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+
+<!--main container-->
+
+<div id="main">
+
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+
+  <!-- header end -->
+
+  <!-- content holder -->
+
+  <div id="content">
+
+    <!-- contaner -->
+
+    <div class="contaner">
+
+      <div class="contaner-top">
+
+        <div class="contaner-bottom">
+
+          <!-- content -->
+
+          <div class="content">
+
+            <div class="img"> <img src="images/Banners/banner5.jpg" width="587" height="227" alt="University at Albany" />
+
+              <div><span>&nbsp;</span></div>
+
+              <!--close div unnamed-->
+
+            </div>
+
+            <!--close div img-->
+
+            <div class="content-box">
+
+              <!-- text-box -->
+
+              <div class="text-box">
+
+                <div class="txt">
+
+
+
+							<!-- open content box -->
+
+									<div class="white-box">
+
+										<div class="top">
+
+											<div class="bottom">
+
+												<h2>Learn More About CHSR Services:</h2>
+
+												<ul>
+
+													<li><a href="Research_Evaluation.shtml">Evaluation &amp; Research</a></li>
+
+													<li><a href="Systems_Software_Development.shtml">Systems &amp; Software Development</a></li>
+
+													
+
+											  </ul>
+
+											</div><!--close div bottom-->
+
+										</div><!--close div top-->
+
+									</div><!--close content box-->
+
+
+
+						      <h1>Program Development </h1>
+
+						      <p class="intro">CHSR researchers and staff assist human service and government agencies to meet the expectations that funders and the public have for their programs. Our experienced team:</p>
+
+                                    <ul class="intro">
+
+                                      <li class="purple">                                        <strong>Creates</strong> logic  models </li>
+
+                                      <li class="purple">                                        <strong>Develops</strong> performance  targets,  indicators, and outcome measures</li>
+
+                                      <li class="purple">                                        <strong>Prepares </strong>proposals and grant applications </li>
+
+                  </ul><p><span class="purple_bold"><strong>Logic Models</strong></span><br />
+
+				  A logic model is a  systematic and visual representation of how a program works by linking outcomes  (both short and long term) with program activities and processes. It  incorporates the resources available to operate a program, the sequence of activities involved in service delivery, and it shows how  these activities are linked to the results the program is expected to  achieve. Increasingly, funders are requiring the incorporation of logic models  in proposals. CHSR works with service providers to develop logic models that   specify the program model and also help to describe the  evaluation plan and the types of data that will be collected. Examples of logic models that CHSR has helped develop include:</p>
+<ul>
+  <li><a href="Adirondack_Rural_Health_Network.shtml">Adirondack Rural Health Network Logic Model Development and Technical Assistance Project</a></li>
+  <li><a href="Publications/FTACLM.pdf">Albany County, New York System of Care</a></li>
+  <li><a href="Publications/AMTLM.pdf">Capital Region Child and Adolescent Mobile Team</a></li>
+  <li><a href="Publications/FINAL CPS DV Program Logic Model.pdf"> Evaluation of CPS/DV Collocation</a></li>
+
+  <li><a href="Publications/OC Logic Model 010410.pdf">Orange County, New York System of Care</a></li>
+
+  <li><a href="Publications/FRCLM.pdf">The New York State Family Resource Center Network</a></li>
+  </ul>
+
+<p><strong class="purple_bold">
+  Performance Targets,   Indicators, and Outcome Measures</strong><br />
+
+     Funders  often seek clear descriptions of how programs   demonstrate their effectiveness. Providers must report more than simply  the numbers of participants reached or sessions held. CHSR assists  organizations in: developing performance targets that define progress towards goals, identifying reliable and valid indicators  of a program’s efficacy, and specifying outcome measures to  report on what a program has achieved.</p>
+     	<ul><li><a href="CPRB.shtml">Albany Citizen's Police Review Board (CPRB)</a></li>
+        <li><a href="NYC_Anti-Violence_Project - PD.shtml">NYC Anti-Violence Project Capacity Building Initiative</a></li></ul>
+
+                               <p><strong class="purple_bold">Proposals and Grant Applications</strong><br />
+
+                  CHSR prepares proposals and assists organizations to locate grant opportunities that enhance services and that include evaluation components. CHSR partners with  organizations to prepare and submit grant applications to foundations and to local, state, and federal government agencies.</p>
+
+</div>
+
+                <!--close div txt-->
+
+              </div>
+
+              <!--close div text-box-->
+
+            </div>
+
+            <!--close div content-box-->
+
+          </div>
+
+          <!--close div content-->
+
+          <!-- column -->
+
+          <div class="column">
+
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+
+            <!-- column-box end -->
+
+          </div>
+
+          <!--close div column-->
+
+        </div>
+
+        <!--close div contaner-bottom-->
+
+      </div>
+
+      <!--close div contaner-top-->
+
+    </div>
+
+    <!--close div contaner-->    <div class="sidebar">
+
+      <!-- chsr news inclue begin -->
+
+	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+
+<!-- chsr news inclue end -->
+
+    </div>
+
+    <!--close div sidebar-->
+
+  </div><!-- close div id "content" -->
+
+	
+
+	<!--footer-->
+
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+
+
+</div><!--close div main-->
+
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+
+  </body>
+
+</html>

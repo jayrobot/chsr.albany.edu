@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<title>CHSR | Announcements - Journal of Nutrition</title>
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+</head>
+<body>
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+<!--main container-->
+<div id="main">  <!-- header start -->  
+  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+  <!-- header end -->
+  <!-- content holder -->
+  <div id="content">
+    <!-- contaner -->
+    <div class="contaner">
+      <div class="contaner-top">
+        <div class="contaner-bottom">
+          <!-- content -->
+          <div class="content">
+
+            <div class="content-box">
+              <!-- text-box -->
+              <div class="text-box" style="margin-top: -10px;">
+                <div class="txt">
+                  <h2>Corina Noble, CHSR Research Support Specialist, to be published in the <em>Journal for Nutrition Education and Behavior.</em></h2>
+                  <p align="left">Ian Brissette, Ann Lowenfels, Corina Noble, & Deborah Spicer (Forthcoming). Predictors of total calories purchased at fast-food restaurants: Restaurant characteristics, calorie consciousness and use of calorie information.  </p>
+                  <p><b><font color="black" style="size:16px">Abstract</font></b> <br /><br />
+                   <b><font color="black">Objective</font></b>  <br />
+To examine purchase patterns at fast food restaurants and their relation to restaurant characteristics, customer characteristics and use of calorie information.  
+<br /><br />
+<b><font color="black">Design</font></b> <br />
+Cross-sectional survey.
+<br /><br />
+<b><font color="black">Setting</font></b> <br />
+Fast-food restaurants in New York State.
+<br /><br />
+<b><font color="black">Participants</font></b> <br />
+Adult fast-food restaurant customers (n = 1,094).
+<br /><br />
+<b><font color="black">Variables Measured</font></b> <br />
+Restaurant characteristics (fast food chain type, presence of calorie labels, poverty of location), participant characteristics (demographics, calorie knowledge, awareness and use) and customer purchasing patterns (ordering low calorie or no beverage, small or no fries, or fewer than three items) were used as predictors of total calories purchased.
+<br /><br />
+<b><font color="black">Analysis</font></b> <br />
+Multiple regression.
+<br /><br />
+<b><font color="black">Results</font></b> <br />
+In a regression model including restaurant and customer characteristics, fast food chain, customer age, sex, calorie use and calorie awareness were independently associated with total calories purchased (all P < .05, model R2 = .19). When three purchasing patterns were added to the model, calorie use (P = .005), but not calorie awareness, remained associated with total calories purchased. The three purchase patterns collectively accounted for the majority of variance in calorie totals (model R2 = .40).   
+<br /><br />
+<b><font color="black">Conclusions and Implications</font></b> <br />
+Promoting use of calorie information, purchase strategies and calorie awareness represent complementary ways to support lower calorie choices at fast food chains.
+
+</p>
+                </div>
+              </div>
+              <!--close div text-box-->
+            </div>
+            <!--close div content-box-->
+          </div>
+          <!--close div content-->
+          <!-- column -->
+          <div class="column">
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+            <!-- column-box end -->
+          </div>
+          <!--close div column-->
+        </div>
+        <!--close div contaner-bottom-->
+      </div>
+      <!--close div contaner-top-->
+    </div>
+    <!--close div contaner-->    <div class="sidebar">
+      <!-- chsr news inclue begin -->
+      <!-- chsr news inclue end -->
+<!--#include virtual="includes/include_contact_us.shtml" -->
+    </div>
+    <!--close div sidebar-->
+  </div><!-- close div id "content" -->
+	
+	<!--footer-->
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+</div><!--close div main-->
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+  </body>
+</html>

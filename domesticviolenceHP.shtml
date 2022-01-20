@@ -1,0 +1,187 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+	<title>CHSR | Domestic Violence Homicide Prevention Initiative</title>
+
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+
+</head>
+
+<body>
+
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+
+<!--main container-->
+
+<div id="main">
+
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+
+  <!-- header end -->
+
+  <!-- content holder -->
+
+  <div id="content">
+
+    <!-- contaner -->
+
+    <div class="contaner">
+
+      <div class="contaner-top">
+
+        <div class="contaner-bottom">
+
+          <!-- content -->
+
+          <div class="content">
+
+            <div class="img"> <img src="../templates_2009/images/random_pagetops/pic-8.jpg" width="587" height="213" alt="University at Albany" />
+
+              <div><span>&nbsp;</span></div>
+
+              <!--close div unnamed-->
+
+            </div>
+
+            <!--close div img-->
+
+            <div class="content-box">
+
+              <!-- text-box -->
+
+              <div class="text-box">
+
+                <div class="txt">
+
+
+
+							<!-- open content box -->
+
+							<div class="white-box">
+
+							  <div class="top">
+
+							    <div class="bottom">
+
+				    <h2>Learn More About:</h2>
+
+												<ul>
+						<li><a href="http://www.jeannegeigercrisiscenter.org/dvhrtn.html?pg=03" target="_blank">Domestic Violence High Risk Team Model  </a></li>
+                        <li><a href="http://www.dangerassessment.org/" target="_blank">Jacquelyn Campbell Danger Assessment</a></li>
+						<li><a href="http://mnadv.org/lethality/" target="_blank">Maryland Lethality Assessment Program </a></li>
+                    	<li><a href="http://www.opdv.ny.gov/public_awareness/index.html"target="_blank">Office for the Prevention of Domestic Violence</a></li>						
+
+													
+
+												
+
+												</ul>
+
+											</div><!--close div bottom-->
+
+										</div><!--close div top-->
+
+									</div><!--close content box-->
+
+
+
+						      <h1><strong>Domestic Violence Homicide Prevention Initiative</strong></h1>
+
+				  <p class="intro">The Center for Human Services Research and the Westchester County Office for Women were awarded a federal grant from the <a href="http://www.ovw.usdoj.gov/" target="_blank">Office on Violence Against Women</a> (OVW) to participate in a Domestic Violence Homicide Prevention Demonstration Initiative (DVHP).</p>
+
+								
+
+				  <p>CHSR worked with Westchester County to conduct an assessment of their process, systems, and partnerships that address domestic violence and homicide prevention. The assessment involved the identification of strengths and weaknesses in the community’s response to domestic violence. In partnership with Westchester County, CHSR was one of only twelve sites nationwide to receive funding for the DVHP Initiative.</p>
+
+                  <h2>Evaluation &amp; Research</h2>
+
+                  <p>The Demonstration Initiative was designed to support 12 grantees to conduct a one-year community assessment of their response to domestic violence. The assessment involved the identification of strengths and weaknesses in the community’s response to domestic violence, as well as the collection of a predetermined set of baseline data. The assessment was designed to inform any future use of the Jacquelyn Campbell Danger Assessment Tool and subsequent implementation of the Maryland Lethality Assessment Program or the Greater Newburyport High Risk Team, two models designed to prevent domestic violence homicides and serious injuries.<br />
+
+                  </p>
+
+                  <p><strong>Contact: <a href="sdietzal.shtml">Dr. Susan Ehrhard-Dietzel</a></strong></p>
+
+                </div>
+
+                <!--close div txt-->
+
+              </div>
+
+              <!--close div text-box-->
+
+            </div>
+
+            <!--close div content-box-->
+
+          </div>
+
+          <!--close div content-->
+
+          <!-- column -->
+
+          <div class="column">
+
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+
+            <!-- column-box end -->
+
+          </div>
+
+          <!--close div column-->
+
+        </div>
+
+        <!--close div contaner-bottom-->
+
+      </div>
+
+      <!--close div contaner-top-->
+
+    </div>
+
+    <!--close div contaner-->    <div class="sidebar">
+
+      <!-- chsr news inclue begin -->
+
+	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+
+<!-- chsr news inclue end -->
+
+    </div>
+
+    <!--close div sidebar-->
+
+  </div><!-- close div id "content" -->
+
+	
+
+	<!--footer-->
+
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+
+
+</div><!--close div main-->
+
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+
+  </body>
+
+</html>

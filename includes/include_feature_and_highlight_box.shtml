@@ -1,0 +1,11 @@
+						<div class="featured">
+							<ul>
+								<li>
+									<span><a href="#"><img src="http://www.albany.edu/templates_2009/images/img-6.jpg" alt="alt" /></a></span>
+							    <h3>FEATURED PROGRAM</h3>
+									<a href="#">A few lines to generate interest in reading more about the program</a></li>
+								<li>
+									<h3>RESEARCH HIGHLIGHT</h3>
+									<a href="#">A interesting fact or two about the research</a></li>
+							</ul>
+						</div>

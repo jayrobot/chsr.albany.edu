@@ -1,0 +1,27 @@
+<div class="event-box">
+                <div class="event-box-top">
+                    <div class="event-box-body">
+
+                        <h3 style="font-size:1.1em; text-transform:none; line-height:1em; margin-bottom: 12px; height: 30px;">School of Public Health Headlines</h3>
+                            <ul>
+                                
+                                <li>
+                                    <em>November 10, 2009</em>
+                                    <a href="http://www.albany.edu/news/release_8004.php">Hannan to Study Long-term Cardiac Patient Survival</a>
+                                </li>
+                                
+                                <li>
+                                    <em>November 2, 2009</em>
+                                    <a href="http://www.albany.edu/news/release_7931.php">Study: TV, Aggression Linked in Young Children?</a>
+                                </li>
+                                
+                                <li>
+                                    <em>October 28, 2009</em>
+                                    <a href="http://www.albany.edu/news/release_7900.php">UAlbany Announces New Cancer Research Grants</a>
+                                </li>
+                                
+                                </ul>
+                        <strong class="more"><a href="http://www.albany.edu/news/">MORE NEWS</a></strong>
+                    </div><!-- close div "include-box-body" -->
+                </div><!-- close div "include-box-top" -->
+</div><!-- close div "include-box" -->

@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<title>CHSR | Staff - Mi Jin Choi, LCSW</title>
+	<link rel="stylesheet" type="text/css" href="http://www.albany.edu/templates_2009/css/html_all_2.css" />	
+    <link rel="stylesheet" href="http://www.albany.edu/templates_2009/css/html_all_2_print.css" media="print" type="text/css" />
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/tab.js"></script>
+	<script type="text/javascript" src="http://www.albany.edu/templates_2009/js/main.js"></script>
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+</head>
+<body>
+<noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
+<!--main container-->
+<div id="main">  <!-- header start -->  
+  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+  <!-- header end -->
+  <!-- content holder -->
+  <div id="content">
+    <!-- contaner -->
+    <div class="contaner">
+      <div class="contaner-top">
+        <div class="contaner-bottom">
+          <!-- content -->
+          <div class="content">
+
+            <div class="content-box">
+              <!-- text-box -->
+              <div class="text-box" style="margin-top: -10px;">
+                <div class="txt">
+                  <<h1><img style="float: right; margin: 0px 0px 12px 12px;" src="images/Headshots/Mi Jin Choi.jpg" alt="Faculty Member" id="imgPhoto" width="169" height="214" />Mi Jin Choi</h1>
+                  <p class="intro"> Research Project Assistant</p>
+<p><strong>E-mail: </strong><a href="mailto:mchoi2@albany.edu">mchoi2@albany.edu</a><br />
+  <strong>Telephone: </strong>(518) 437-5745 </p>
+<p><strong>Specialization: </strong> Child welfare, foster care, kinship care, minority children, cultural diversity and program evaluation</p>
+<p><strong>Projects: </strong><br />
+    
+  <a href="kinship navigator.shtml">Kinship Navigator County Collaboration Project Evaluation</a><br />
+  
+  <p>Mijin is currently working on the Kinship Navigator County Collaboration Project, assisting with instrument development and data analysis for the evaluation of the project. She received her Bachelor’s degree and Master’s degree in Social Welfare from Ewha Womans University in Seoul, South Korea. In the Master program, her interest was acculturation of internationally-married female migrants in Korea. She was involved in the project to measure the economic status, acculturative stress, and perceived social support of immigrant women from Southeast Asia.<br />
+  </p>
+<p>She is Licensed Social Worker in South Korea. She is a PhD student in the School of Social Welfare at the University at Albany, SUNY.</p>
+                </div>
+              </div>
+              <!--close div text-box-->
+            </div>
+            <!--close div content-box-->
+          </div>
+          <!--close div content-->
+          <!-- column -->
+          <div class="column">
+            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+            <!--#include file="includes/include_partner_buttons.shtml" -->
+            <!-- column-box end -->
+          </div>
+          <!--close div column-->
+        </div>
+        <!--close div contaner-bottom-->
+      </div>
+      <!--close div contaner-top-->
+    </div>
+    <!--close div contaner-->    <div class="sidebar">
+      <!-- chsr news inclue begin -->
+      <!-- chsr news inclue end -->
+<!--#include virtual="includes/include_contact_us.shtml" -->
+    </div>
+    <!--close div sidebar-->
+  </div><!-- close div id "content" -->
+	
+	<!--footer-->
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+
+</div><!--close div main-->
+<!--#include virtual="/sdc/include_sdc.shtml" -->
+  </body>
+</html>
