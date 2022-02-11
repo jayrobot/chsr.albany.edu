@@ -1,618 +1,774 @@
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="https://www.w3.org/1999/xhtml">
+
 <head>
-<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="Description" content="Research at the University at Albany" />
-<title>Center for Human Services Research - University at Albany - SUNY</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="Description" content="Research at the University at Albany" />
+  <title>Center for Human Services Research - University at Albany - SUNY</title>
 
-<link media="all" rel="stylesheet" type="text/css" href="https://www.albany.edu/hpfiles/homepages-spring-2015.css" />
-<style type="text/css">
-a:link {
-    text-decoration: none;
-}
-.additional-links li a {
-	font-weight:normal;
-	}
-#main {
-	background-repeat: repeat-y;
-}
-.side-menu {
-	margin: 0;
-}
-</style>
+  <link media="all" rel="stylesheet" type="text/css" href="https://www.albany.edu/hpfiles/homepages-spring-2015.css" />
+  <style type="text/css">
+    a:link {
+      text-decoration: none;
+    }
 
-<script type="text/javascript" src="../hpfiles/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="../hpfiles/jquery.main.js"></script>
-    
+    .additional-links li a {
+      font-weight: normal;
+    }
+
+    #main {
+      background-repeat: repeat-y;
+    }
+
+    .side-menu {
+      margin: 0;
+    }
+  </style>
+
+  <script type="text/javascript" src="../hpfiles/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript" src="../hpfiles/jquery.main.js"></script>
+
   </div>
-</div> 
+  </div>
 
-      </head>
-      <body> 
-<!-- wrapper block -->
-<div id="page"> 
-        <!-- holding block -->
-        <div id="wrapper"> 
-    <!-- header -->
-    <div id="header">
-            <div class="holder">
-        <div class="top-section"> 
-                <!-- logo -->
-                <h1 class="logo" title="Center for Human Services Research" style="background-image:url(assets/chsr_logo.jpg); margin-top:5px;height: 60px;width: 400px;"><img src="assets/chsr_logo.jpg" width="400" height="47" alt=""/></h1>
-<div class="side-block">
-            <div class="row"> 
-                    
-                    <!--========== Nav Top Right = = = = = -->
-                    
-                    <ul class="top-menu" style="width: 500px;">
-                <li><a href="https://www.albany.edu/">University Home</a></li>
-                <li><a href="https://www.albany.edu/directories.php">Directories</a></li>
-                <li><a href="https://www.albany.edu/sitemap.php">A-Z Index</a></li>
-                <li><a style="margin-top:-10px;" href="https://www.albany.edu/myualbany"><img src="https://www.albany.edu/hpassets/my-ualbany-icon.png" /></a></li>
-              </ul>
-                    <!--========== Ent Div NAV Top Right = = = = = --> 
-                    
-                    <!--========== Begin Search ==========--> 
-                    <!-- search start -->
-                    <div class="search" style="text-align: right;" > 
-                
+</head>
+
+<body>
+  <!-- wrapper block -->
+  <div id="page">
+    <!-- holding block -->
+    <div id="wrapper">
+      <!-- header -->
+      <div id="header">
+        <div class="holder">
+          <div class="top-section">
+            <!-- logo -->
+            <h1 class="logo" title="Center for Human Services Research"
+              style="background-image:url(assets/chsr_logo.jpg); margin-top:5px;height: 60px;width: 400px;"><img
+                src="assets/chsr_logo.jpg" width="400" height="47" alt="" /></h1>
+            <div class="side-block">
+              <div class="row">
+
+                <!--========== Nav Top Right = = = = = -->
+
+                <ul class="top-menu" style="width: 500px;">
+                  <li><a href="https://www.albany.edu/">University Home</a></li>
+                  <li><a href="https://www.albany.edu/directories.php">Directories</a></li>
+                  <li><a href="https://www.albany.edu/sitemap.php">A-Z Index</a></li>
+                  <li><a style="margin-top:-10px;" href="https://www.albany.edu/myualbany"><img
+                        src="https://www.albany.edu/hpassets/my-ualbany-icon.png" /></a></li>
+                </ul>
+                <!--========== Ent Div NAV Top Right = = = = = -->
+
                 <!--========== Begin Search ==========-->
-                <form action="search_results.php" id="cse-search-box" method="get" name="cse-search-box" >
-                        <div class="search-bg">
-                    <input type="hidden" name="cof" value="FORID:11" />
-                    <input type="hidden" name="ie" value="UTF-8" />
-                    <input type="text" name="q" class="searchBox2" size="24" />
-                    <input src="https://www.albany.edu/Images/Header/btnSearch.gif" name="sa" type="image" value="Search" class="searchButton2"  style="padding-left: 2px;"/>
-                  </div>
-                        <div id="search_labels" style="padding-top: 2px; margin-right: 5px;">
-                    <input id="www" type="radio" name="cx" value="009452333206896616693:cupo60slpd4" checked="checked"/>
-                    <label for="www" style="padding: 0; margin-left: -3px;font-size: .8em; vertical-align:middle; font-family: Verdana, Geneva, sans-serif"> Search Center for Human Services Research</label>
-                    <input id="custom" type="radio" name="cx" value="009452333206896616693:abbjmkl5yry" />
-                    <label for="custom" style="padding: 0px 3px 0px 0px; margin-left: -3px;font-size: .8em; vertical-align:middle; font-family: Verdana, Geneva, sans-serif"> UAlbany</label>
-                  </div>
-                      </form>
-                <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script> 
-                <!--========== End Search ==========--> 
-                
+                <!-- search start -->
+                <div class="search" style="text-align: right;">
+
+                  <!--========== Begin Search ==========-->
+                  <form action="search_results.php" id="cse-search-box" method="get" name="cse-search-box">
+                    <div class="search-bg">
+                      <input type="hidden" name="cof" value="FORID:11" />
+                      <input type="hidden" name="ie" value="UTF-8" />
+                      <input type="text" name="q" class="searchBox2" size="24" />
+                      <input src="https://www.albany.edu/Images/Header/btnSearch.gif" name="sa" type="image"
+                        value="Search" class="searchButton2" style="padding-left: 2px;" />
+                    </div>
+                    <div id="search_labels" style="padding-top: 2px; margin-right: 5px;">
+                      <input id="www" type="radio" name="cx" value="009452333206896616693:cupo60slpd4"
+                        checked="checked" />
+                      <label for="www"
+                        style="padding: 0; margin-left: -3px;font-size: .8em; vertical-align:middle; font-family: Verdana, Geneva, sans-serif">
+                        Search Center for Human Services Research</label>
+                      <input id="custom" type="radio" name="cx" value="009452333206896616693:abbjmkl5yry" />
+                      <label for="custom"
+                        style="padding: 0px 3px 0px 0px; margin-left: -3px;font-size: .8em; vertical-align:middle; font-family: Verdana, Geneva, sans-serif">
+                        UAlbany</label>
+                    </div>
+                  </form>
+                  <script type="text/javascript"
+                    src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+                  <!--========== End Search ==========-->
+
+                </div>
+                <!-- search end -->
+
               </div>
-                    <!-- search end --> 
-                    
+              <!-- DIV row - menu items and search form -->
+
+              <!-- submenu -->
             </div>
-            <!-- DIV row - menu items and search form --> 
-            
-            <!-- submenu -->
           </div>
-              </div>        <div class="main-gallery"  style="position:relative: top: -40px;margin-top: 16px; width: 960px;">
-          <div class="mask" style="height: 264px;">
-            <ul>
- <li style="display:block;"><a href="https://www.albany.edu/chsr/index.shtml" target="_blank">
-  	<img src="hpfiles/chsr_banner_top2.jpg" width="964" height="266"/></a></li>
-</ul>
+          <div class="main-gallery" style="position:relative: top: -40px;margin-top: 16px; width: 960px;">
+            <div class="mask" style="height: 264px;">
+              <ul>
+                <li style="display:block;"><a href="https://www.albany.edu/chsr/index.shtml" target="_blank">
+                    <img src="hpfiles/chsr_banner_top2.jpg" width="964" height="266" /></a></li>
+              </ul>
+            </div>
           </div>
-              </div>
-        
-         
-      </div>
-          </div>
-    <!-- main block -->
-    <div id="main">
-            <div id="twocolumns">
-        <div id="content">
-                <h1>Publications, Reports, &amp; Presentations &nbsp;<span style="font-size:.8em; font-style:italic;font-style: italic;"></span></h1>
-<p style="font-size:14px;">Since 1991, CHSR has produced many publications, reports, and presentations for its funders:</p>
-                <!-- news block -->
-                <STYLE type="text/css">
-   .text-place {
-	   margin-bottom: 20px;
-	   }
- </STYLE>
-          
-<div>
-	</a></div>
-			
 
-<div class="text-place" style="margin-bottom: 10px;">
-</strong>
 
-<p style="font-size:14px;">
-</p>
-				
-<h2> Archived Publications (2001-2015):</h2>			
-
-<ul>
-<li><a href="http://www.slate.com/articles/news_and_politics/jurisprudence/2014/01/supreme_court_hears_castleman_this_insane_suit_would_give_guns_to_domestic.html" target="_blank"><strong>Why Give Violent Domestic Abusers a Gun?  How the Supreme Court’s Definition of Violence Today Will Affect the Number of Gun Injuries Tomorrow.</strong></a> <br />
-Amy Barasch - (<em>Jurisprudence: The Law, Lawyers and the Court, 2014</em>)</li>
-  <br />
-</li>
-                   <li><a href="http://onlinelibrary.wiley.com/doi/10.1111/1475-6773.12137/abstract" target="_blank"><strong>A Statewide Assessment of Electronic Health Record Adoption and Health Information Exchange among Nursing Homes</strong></a> <br />
-                   Erika L. Abramson, Sandra McGinnis, Jean Moore and Rainu Kaushal, HITEC investigators (<em>Health Services Research - 2014</em>)</li>
-  <br />
-</li>
-                  <li><a href="http://www.sciencedirect.com/science/article/pii/S1499404613000535" target="_blank"><strong>Predictors of Total Calories Purchased at Fast-food Restaurants: Restaurant Characteristics, Calorie Awareness, and Use of Calorie Information</strong></a> <br />
-                  Ian Brissette,Ph.D, Ann Lowenfelds,MPH, Corina Noble,MS and Deborah Spicer, RD,MPH (<em>Journal of Nutrition Education and Behavior Sept-Oct 2013</em>)</li>                 
-  <br />
-</li>
-                   <li><a href="http://dx.doi.org/10.1080/10522158.2013.834281" target="_blank"><strong>Diversion and Kinship Care: A Collaborative Approach Between Child Welfare Services and NYS's Kinship Navigator<br />
-                   </strong></a>Gerard William Wallace & Eunju Lee - (<em>Journal of Family Social Work 
-Volume 16, 2013 - Issue 5: Understanding Kinship Care: Implications for Policy and Practice - 2013</em>)</li>
-  <br />
-</li>
-                  <li><a href="http://www.sciencedirect.com/science/article/pii/S0190740913000406" target="_blank"><strong>Organizational climate and burnout among home visitors: Testing mediating effects of empowerment.<br />
-                  </strong></a>Eunju Lee, Nina Esaki, Jeehoon Kim, Rose Greene, Kristen Kirkland, and Susan Mitchell-Herzfeld (<em>Children and Youth Services Review, 2013 </em>)</li>
-  <br />
-</li>
-<li><a href="Publications/Kaye_Lee_Chen_2013.pdf" target="_blank"><strong>Barriers to Food Stamps in New York State: A Perspective from the Field.</strong></a>Lara Kaye and Eunju Lee (<em>Journal of Poverty, Jan 14,2013</em>)</li>
-  <br />
-</li>
-                  <li><a href="http://www.tandfonline.com/doi/abs/10.1080/07418825.2011.582879" target="_blank"><strong>Social  Correlates of Delinquency for Youth in Need of Mental Health Services:  Examining the Scope Conditions of Criminological Theories</strong></a> </li> Matt Vogel and  Steven F. Messner (<em>Justice Quarterly, 2012</em>)<br />
-                  <br />
-                  </li>
-
-                  <li><strong><a href="http://www.tandfonline.com/eprint/NunDwsJkg3qjnecQQSEX/full" target="blank">Barriers to Food Stamps in New York State: Perspective from the Field.</a></strong></li>
-
-                  Lara Kaye, Eunju Lee, and Yi Yi Chen (<em>Journal of Poverty</em>, 2013)<br />
-                  <br />
-                  </li>
-
-                  </li>
-
-                  <li><a href="https://www.ncjrs.gov/pdffiles1/nij/grants/232945.pdf"><strong>Randomized Trial of  Healthy Families New York (HFNY): Does Home Visiting Prevent Child  Maltreatment?</strong></a></li>
-
-                 Kimberly  DuMont,  Kristen Kirkland, Susan Mitchell-Herzfeld, Susan Ehrhard-Dietzel, Monica L.  Rodriguez, Eunju Lee, China Layne, and Rose Greene - (<em>National Institute of Justice, U.S. Department of Justice, 2011</em>)<br />
-                 <br />
-                 <li><strong><a href="http://www.springerlink.com/content/tuu8l4035ll8v12j/">Averting Child  Maltreatment: Individual, Social, and Community Resources</a></strong> </li>
-
-                  Kimberly DuMont,  Susan Ehrhard-Dietzel, and Kristen Kirkland (in Michael Ungar  (Ed.) <em>The Social Ecology of Resilience: A  Handbook of Theory and Practice,</em> 2011)&nbsp;<br />
-                  &nbsp;
-<li><a href="http://www.sciencedirect.com/science/article/pii/S0190740911001460"><strong>Risk  and Protective Factors for Child Neglect During Early Childhood: A Cross-Study  Comparison</strong></a> </li>
-
-                  Kristen Shook-Slack, Lawrence M. Berger, Kimberly DuMont,  Mi-Young Yang, Bomi Kim, Susan Ehrhard-Dietzel, and Jane L. Holl  (<em>Children and Youth Services Review,</em> 2011)<br />
-                  <br />
-                  </li>
-              <li><a href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V7N-512DSY9-2&amp;_user=681852&amp;_coverDate=10/31/2010&amp;_rdoc=1&amp;_fmt=high&amp;_orig=search&amp;_origin=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_acct=C000037358&amp;_version=1&amp;_urlVersion=0&amp;_userid=681852&amp;md5=9e25151c10ae77cd71169f37fe6bf99a&amp;searchtype=a" target="_blank"><strong>Effects of Healthy Families New York on the Promotion of Maternal Parenting Competencies and the Prevention of Harsh Parenting</strong></a> </li>
-
-                  M.L. Rodriguez, K.Dumont, S.D. Mitchell-Herzfeld, N.J. Walden, &amp; R.Greene (<em>Child Abuse and Neglect, 2010)<br />
-                  <br />
-                  </em>
-
-                  <li><strong><a href="http://www.informaworld.com/smpp/content~db=all?content=10.1080/15332560802533612" target="_blank">Collocation: Integrating Child Welfare and Substance Abuse Services</a></strong> </li>
-
-                  E. Lee, N. Esaki, &amp; R. Greene (<em>Journal of Social Work  Practice in the Addictions, </em>2009)<br />
-                  <br /></em>
-
-                  <li><strong><a href="http://www.albany.edu/chsr/Publications/The%20Role%20of%20Nurse%20Practitioners%20in%20Meeting%20the%20Need%20for%20Child%20and%20Adolescent%20Psych%20Services.pdf" target="_blank">The Role of Nurse Practitioners in Meeting the Need for Child and Adolescent Psychiatric Services: A  State-Wide Survey</a></strong> </li>
-
-                  L. Kaye, L. A. Warner, C. A. Lewandowski, R. Greene, J. K. Acker, & N. Chiarella <em>(Journal of Psychosocial Nursing and Mental Health Services, 2009</em>)<br />
-                  <br />
-
-                  <li><strong><a href="http://www.ajpm-online.net/article/S0749-3797(08)00845-3/abstract" target="_blank">Reducing Low Birth Weight Through Home Visitation: A Randomized  Controlled Trial </a></strong></li>
-
-                  E. Lee,  S. Mitchell-Herzfeld, A. Lowenfels, R. Greene, V. Dorabawila, &amp; K. DuMont (<em>American Journal of Preventive Medicine</em>,  2009)<br />
-                  <br />
-
-                  <li><strong><a href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V7N-4S69S7K-6&amp;_user=681852&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_acct=C000037358&amp;_version=1&amp;_urlVersion=0&amp;_userid=681852&amp;md5=bd94286fcf350a6df93eddfb20016131" target="_blank">Healthy Families New York Randomized Trial:  Impacts on Early Child Abuse and Neglect </a></strong></li>
-
-                  K. DuMont, S. Mitchell-Herzfeld, R. Greene, E.  Lee, A. Lowenfels, M. Rodriguez &amp; V. Dorabawila (<em>Child Abuse and Neglect</em>, 2008)
-
-                  </ul>
-
-<p><a href="#" target="_top">Back to top </a></p>
-<h2><a name="reports" id="reports"></a>Archived Reports and Research Briefs (2001-2015):</h2>
-
-<ul>
-<li><strong><a href="Publications/NYS Success Research Brief-Youth Guided Care FINAL (2).pdf" target="_blank">NYS Success Research Brief: Youth Guided Care</a></strong> <br />
-Camille Barnes, Ph.D. &amp; Lauren Polvere, Ph.D.(August 2015)<br />
-<br />
-</li>
-<li><strong><a href="Publications/NYS Grandfamilies Housing Study FINAL REPORT_Mar 31 2015.pdf" target="_blank">NYS Grandfamilies Housing Study FINAL REPORT</a></strong><br />
-(March 2015)<br />
-<br />
-</li>	
-  <li><strong><a href="http://www.albany.edu/news/files/ReportCard_2014-2.pdf" target="_blank">Albany Promise 2014 Report Card</a></strong>( December 2014)<br />
-  </li>&nbsp;
-<li><strong><a href="Publications/YPI_final_OJJDP_2013_PB-FX-0004.pdf" target="_blank">Final Report: Evaluability Assessment of the NAFI Youth and Police Initiative Training&nbsp; (
-  </a></strong>December 2014)
-  <br />
-</li>&nbsp;
-
-<li><strong><a href="Publications/PEM Final Evaluation Report.pdf" target="_blank">Final Evaluation Report: Understanding the Role of Parent Engagement to Enhance Mentoring Outcomes&nbsp;
-</a></strong>(November 2014)
-  <br />
-</li>&nbsp;
-
-<li><strong><a href="Publications/Juvenile Justice Mobile Response Team_final report.pdf" target="_blank">Final Report: Juvenile Justice Mobile Response Team&nbsp;</a></strong>(2014)
-  <br />
-</li>&nbsp;
-
- <li><strong><a href="Publications/CPS_DV Study final report16.pdf" target="_blank">Final Report: Evaluation of CPS/DV Co-Location&nbsp;</a></strong>(2014)
-   <br />
- </li>&nbsp;
-
- <li><strong><a href="Publications/BF Research Brief Final_Final.pdf" target="_blank">Final Evaluation Report: Healthy Families New York Home Visiting Program: Pre- and Postnatal Discussions Foster Breastfeeding Initiation and&nbsp; Continuation&nbsp;&nbsp;</a></strong>(2013)
-   <br />
- </li> &nbsp;
-
-  <li><strong><a href="Publications/Chemung_Final_Report_print.pdf" target="_blank">Chemung County Evaluation Report</a></strong> (2012)
-    <br />
-  </li>&nbsp;
-
-  <li><strong><a href="Publications/CAMT Final Evaluation Study Jan 2011.pdf" target="_blank">The Capital Region Child and Adolescent
-
-Mobile Crisis Team (CAMT)Operated by Parsons Child and Family Center&nbsp;</a></strong>(2011)
-<br />
-  </li>&nbsp;
-
-  <li><strong><a href="Publications/FRC FINAL REPORT 2011.pdf">Family  Resource Center: Service Utilization Report</a></strong> (2011)
-    <br />
-  </li>&nbsp;
-
-
- <li><strong><a href="Publications/Albany SOC Final Report with Mr Breslin letter.pdf" target="_blank">Albany County, NY System of Care:</a></strong><strong><a href="Publications/Albany SOC Final Report with Mr Breslin letter.pdf" target="_blank"> Final Evaluation Report</a></strong> (2010)</li>
-&nbsp;
-  <li><a href="Publications/FRC Community Study 2010.pdf" target="_blank"><strong>Family Resource Center: Community Study</strong> </a>(2010)  </li>
-&nbsp;
-  <li><a href="Publications/FRC Outcome Study 2010.pdf" target="_blank"><strong>Family Resource Center: Outcome Study</strong></a><strong></strong> (2010)</li>
-&nbsp;
-  <li><a href="Publications/AmeriCorps Report - Final.pdf" target="_blank"><strong>Evaluation of AmeriCorps State Programs in New York State: Volunteer Generation</strong></a><strong></strong> (2009)</li>
-&nbsp;
-  <li><strong><a href="Publications/suicide_data_brief_07-06-09.pdf" target="_blank">Teens Thinking About  Suicide When Entering Albany County System of Care</a></strong> (2009)  </li>
-&nbsp;
-  <li> <strong><a href="Publications/final_HFNY_obs_working_paper_7-16-08.pdf" target="_blank">Effects of Healthy Families  New York on Maternal Behaviors: Observational Assessments of Positive and  Negative Parenting</a> </strong>(2008)  </li>
-&nbsp;
-  <li> <strong><a href="Publications/FINAL_REPORT_COUNTY_WIDE_TELEPHONE_SURVEY-6-12-08.pdf" target="_blank">Assessing and Addressing  the Need for Child and Adolescent Psychiatrists in New York State: Report on a  County Wide Telephone Survey </a></strong>(2008)  </li>
-&nbsp;
-  <li> <strong><a href="Publications/FRCreport_2006.pdf" target="_blank">A Study of New York State’s  Family Resource Center Network </a></strong>(2006)</li>
-&nbsp;
-  <li> <strong><a href="Publications/HFNYRandomizedTrialWorkingPaper.pdf" target="_blank">Healthy Families New York  (HFNY) Randomized Trial: Impacts on Parenting after the First Two Years </a></strong>(2006)</li>
-&nbsp;
-  <li><a href="http://www.albany.edu/chsr/Publications/Data%20Analysis%20Report_Albany%20County.pdf"><strong>Data  Analysis Report: Subsidized Legally Exempt Child Care in Albany County</strong></a> (2006)</li>
-&nbsp;
-  <li> <strong><a href="Publications/2005 Integrating County Planning Initiative.pdf" target="_blank">Integrating the Human  Service System: Final Evaluation of the New York State Integrated County  Planning Initiative</a></strong> (2005)</li>
-&nbsp;
-  <li> <strong><a href="Publications/25561_inside_88.qxd.pdf" target="_blank">Evaluation Findings of the  Healthy Families New York (HFNY): First Year Program Impacts </a></strong>(2005)  </li>
-&nbsp;
-  <li> <strong>Evaluation Findings of the  Healthy Families New York Home Visiting Program</strong> (2001)  </li>
-&nbsp;
-  <li> <strong><a href="Publications/ER_Study_march_2001.pdf" target="_blank">A Study to Improve the  Delivery of Services in an Upstate Emergency Department </a></strong>(2001)  </li>
-&nbsp;
-	<li><strong>Evaluation of the Child  Advocacy Resource and Consultation Center (CARCC)</strong> (1999)</li>
-&nbsp;
-	<li><strong><a href="Publications/CCSI_12_98.pdf" target="_blank">Reforming the Delivery of  Children’s Services: A Study of the Implementation and Effects of the New York  State Coordinated Children’s Services Initiative</a></strong> (1998)</li>
-&nbsp;
-	<li><strong><a href="Publications/HFNY_firstyear_4_97.pdf" target="_blank">A Process Study of the New York State Home Visiting Program: First Year Evaluation</a></strong> (1997)</li>
-&nbsp;
-	<li><strong><a href="Publications/Families_helping_familes_6_95.pdf" target="_blank">Evaluation of the Families  helping Families Program </a></strong>(1995)</li>
-&nbsp;
-	<li><strong><a href="Publications/Col_child_care_12_94.pdf" target="_blank">Evaluation of the  Collaborative Child Care Demonstration Project</a></strong> (1994)</li>
-&nbsp;
-	<li><strong>The New York City Paternity  Establishment Demonstration Project: Interim Year Two Evaluation Report </strong>(1994)</li>
-&nbsp;
-	<li><strong>Evaluation of the New York  State Neighborhood Based Initiative: First Year Report </strong>(1993)</li>
-&nbsp;
-	<li><strong>An Evaluation of the  Implementation and the Effects of the Community Optional Preventive Services  Program in New York State </strong>(1993)</li>
-&nbsp;
-	<li><strong>Factors that Influence the  Use of Foster Care and Preventive Services by the Child Welfare System in New  York City</strong> (1993)</li>
-&nbsp;
-	<li><strong>An Evaluation of the New  York State Division for Youth Special Delinquency Prevention Program </strong>(1991)</li>
-  
-</ul>
-
-<p><a href="#" target="_top">Back to top</a></p>
-
-<h2> <a name="presentations" id="presentations"></a>Archived Presentations (2001-2010):</h2>
-
-
-
-<ul>
-
-<li><strong><a href="Publications/NYSPA_BF_Final.ppt" target="_blank">Breastfeeding Promotion Through Home Visits</a></strong> <br />
-  Sandra McGinnis at the NYSPA 28th Annual Perinatal Conference June 5-6, 2014, Albany, NY(Nov 2014)<br />
-  <br />
-</li>
-
-<li><strong><a href="Publications/HFA National Leadership Conference Multi-sitePresentation11.2013.pdf" target="_blank">Presentation for Multi-site Systems Development <br />
-</a></strong> John Heck at the HFA National Leadership Conference, Jacksonville, Florida.(November 2013)<br />
-<br />
-</li> 
-
-	<li><a href="NEWSPaperpresentationat19thnationalconferenceonchildabuseandneglect.shtml" target="_blank"><strong>Evaluating the Implementation and Effects of Co-locating DV Advocates in Child Welfare Offices.</strong></a> <br />
-	  Rose Greene &amp; Ellen Unruh at the 19th National Conference on Child Abuse and Neglect. New Orleans, LA. April/May 2014<br />
-	  <br />
-
-    <li><strong><a href="Publications/HFA National Leadership Conference Multi-sitePresentation11.2013.pdf" target="_blank">Presentation for Multi-site Systems Development <br />
-    </a></strong> John Heck at the HFA National Leadership Conference, Jacksonville, Fla.(Nov 2013)<br />
-    <br />
-    </li>  
-
-  <li><a href="Publications/Promoting_Father_Engagement.ppt"><strong>Promoting Father Engagement: Program Outcomes and Lessons Learned from the Healthy Families New York Experience</strong></a> <br />
-    Matt Vogel, Tom  Dwyer, Corina Allen, and Matt Scot. Prsented at  the 17th Annual New York State Child Abuse Prevention Conference
-
-    April 2012<br />
-    <br />
-  </li>	
-  <li><strong><a href="Publications/AEA_Lessons learned technology handouts.pdf" target="_blank">Lessons Learned from Using Technology to Increase Study Participation Among Child Welfare Service Recipients</a></strong> Lara Kaye, Lynn Warner, Rose Greene, and Corinne Noble.
-    
-    
-    
-    Presented at the 24th Annual Conference of the American Evaluation Association
-    
-    
-    
-    November, 2010<br />
-  </li>
-<p></p>
-<li><strong><a href="Publications/WWTD.pdf" target="_blank">Working with Teen Dads – An Opportunity to Change Futures</a></strong> 
-  
-  China Layne, Tina Williams, Robert Foulks, and Shane Lehman<br />
-  
-  
-  
-  Annual Conference of Prevent Child Abuse New York
-  
-  
-  
-  April, 2010</li>
-
-  <li><strong><a href="Publications/GEOTECHPROGEVAL.pdf" target="_blank">Using Geospatial Techniques to Conduct Program Evaluation and Inform Service Delivery</a></strong> 
-
-    Matt Vogel, Rose Greene, and LuAnn McCormick 
-
-    
-
-    Presented at the 23rd Annual Children's Mental Health Research &amp; Policy Conference<br />
-
-    
-
-    March, 2010</li>
-
-  <li><strong>Correlates  of Delinquency in the Albany County, New York  System of Care </strong>Matt Vogel <br />
-
-    Presented at  the 23rd Annual Children’s Mental Health Research and Policy  Conference <br />
-
-    March 2010  </li>
-
-  <li><strong>Social  Correlates of Delinquency of Youth in Need for Mental Health Services:  Examining the Scope Conditions of Criminological Theories</strong> Matt Vogel and  Steven F.&nbsp; Messner  <br />
-
-    Presented at the Eastern  Sociological Society Annual Meeting <br />
-
-    March 2010  </li>
-
-  <li><a href="Publications/Improving the Food Stamp Program in NYS - Nutrition Outreach and Education Program Findings and Recommendations.pdf" target="_blank"><strong>Improving the Food Stamps Program in New York State: Nutrition Outreach and Education Program Findings and Recommendations</strong></a><strong></strong>
-
-    Dr. Lara Kaye and Dr. Eunju Lee, 
-
-    
-
-    Presented to the Office of Temporary and Disability Assistance<br />
-
-    
-
-    May, 2009</li>
-
-  <li><strong><a href="Publications/FFI.pdf" target="_blank">Fostering Father Involvement: the Healthy Families New York  Experience</a></strong> 
-
-    China Layne, Tina Williams, Fatimah Abdullahai, and Chris  Shortell
-
-    
-
-    Annual Conference of Prevent Child Abuse New York
-
-    
-
-    April, 2009</li>
-
-  <li><strong>Long-Term Effectiveness of Healthy Families New York on Mothers' Observed Positive and Negative Parenting</strong>
-
-    Monica Rodriguez, Kimberly Dumont, Nicole Walden, and Rose Greene<br />
-
-    
-
-    Presented to the Society for Research in Child Development
-
-    
-
-    April, 2009</li>
-
-  <li><strong><a href="Publications/SOC 09 30309.pdf">Factors  Associated With Perceptions Of Need For Child And Adolescent Psychiatry</a></strong> Dr.Cathleen A.  Lewandowski, Dr. Lara Kaye, and Dr. Lynn Warner
-
-    Presented at the 22nd Annual  Research Conference, A System of Care for Children's Mental Health: Expanding  the Research Base
-
-    March 2009</li>
-
-  <li><a href="Publications/OrgClimatenBurnOut.pdf" target="_blank"><strong> Perceived Worker Control and Organizational  Climate on Burnout</strong></strong></a>
-
-    Eunju Lee, Nina Esaki, Jeehoon Kim, and Rose Greene 
-
-    
-
-    Presented to the Society for Social Work and Research 
-
-    
-
-    January  2009</li>
-
-  <li> <strong><a href="Publications/GreenWrkplace.pdf" target="_blank">Creating a Green Workplace: Developing a Non-Toxic Environment to Prevent Home  Visitor Burnout</a></strong> Eunju Lee, Rose Greene, and Ellen Butowsky    
-
-    
-
-    Presented at the Prevent Child Abuse America National Conference
-
-    
-
-    May  2008</li>
-
-  <li> <strong>Linking Research with Practice:  A New York State of Mind</strong> 
-
-    Rose Greene, Joy Griffith, Ann Pitkin,  and Ellen Butowsky      
-
-    
-
-    Presented at the National  Conference of Prevent Child Abuse America 
-
-    
-
-    May 2006  </li>
-
-  <li><strong>Good Cop/Bad Cop: The Contrasting Roles  of Child Welfare Workers and Substance Abuse Counselors in a Collaborative Partnership</strong><br />
-
-    
-
-    Rose Greene and Eunju Lee 
-
-    
-
-    Presented at the 5th International Conference on Evaluation  for Practice<br />
-
-    
-
-    July  2005  </li>
-
-  <li><strong><a href="Publications/TakeThisJob.pdf" target="_blank">Take this Job and  Love It: Findings from a Survey of Home Visitors</a></strong>    Rose Greene, Eunju Lee, Nina Esaki,  and Manrong Chen 
-
-    
-
-    Presented at the 
-
-    
-
-    New York State Child Abuse  Prevention Conference<br />
-
-    
-
-    May 2005</li>
-
-  <li> <a href="Publications/impactofprenatalhome.pdf" target="_blank"><strong>Impact of  Prenatal Home Visitation on Low Birth Weight: A Randomized Trial of the Healthy  Family America Model </strong></a>
-
-    Eunju Lee, Ann  Lowenfels, and Rose Greene 
-
-    
-
-    Presented at the   
-
-    
-
-    132nd Annual Meeting of American Public Health  Association
-
-    
-
-    November 2004  </li>
-
-  <li> <a href="Publications/CollocationSA.pdf" target="_blank"><strong>Co-locating Substance Abuse and Child Welfare  Programs in New York State: The Evolution of Policy to Practice</strong></a><strong> </strong>Eunju Lee, Rose Greene, and Nina  Esaki      
-
-    
-
-    Presented at the 
-
-    
-
-    1st National Conference on Substance Abuse,  Child Welfare and the Dependency Court 
-
-    
-
-    July 2004  </li>
-
-  <li> <strong>Understanding Research  on Home Visitation to Inform Policy and Practice
-
-    
-
-    </strong>Charles Izzo, Susan  Mitchell-Herzfeld, Rose Greene, and Eunju Lee<strong><br />
-
-      
-
-      </strong> Presented at the Prevent Child Abuse   National Conference
-
-    
-
-    May 2004</li>
-
-  <li> <strong>The Politics of Program Evaluation:  Lessons Learned in Conducting Prevention Research</strong><br />
-
-    
-
-    Rose Greene and Eunju Lee 
-
-    
-
-    Presented at the 14th National Conference on Child  Abuse and Neglect<br />
-
-    
-
-    April 2003  </li>
-
-  <li><strong>Reality Programming: Computer  Applications for Child Welfare Workers 
-
-    
-
-    </strong>    Rose Greene, Jeff Luks and John Heck 
-
-    
-
-    Presented at the Child Welfare League  of America Conference 
-
-    
-
-    November 2003  </li>
-
-  <li><strong>Politics of  Program Evaluation: Lessons Learned in Conducting Prevention Research</strong><br />
-
-    
-
-    Rose Greene and Eunju Lee 
-
-    
-
-    Presented at the
-
-    
-
-    14th National Conference on Child  Abuse and Neglect<br />
-
-    
-
-    April 2003</li>
-    <li> <strong>Home Visiting: An Effective Approach to Preventing Child Abuse</strong>       Rose Greene<br />
-      Presented at the New York Public  Welfare Association 
-      February 1999</li>
-    <li> <strong>The Process Behind the Process  Study</strong>       Rose Greene 
-      Presented at the Program Evaluation and Family  Violence Research International  Conference 
-      June 1998</li>
-    <li> <strong>Training for Results: Designing Curricula that Build  Staff Ability</strong>       Barbara Jaklitsch and Rose Greene. 
-      Presented at the Child Welfare League of America,  Mid-Atlantic Training Conference 
-      June 1997</li>
- 
-</ul>
-
-
-
-<p><a href="#" target="_top">Back to top</a></p>
-				
-</div>		  
- </div>
-        <!-- aside -->
-<div class="aside">
-               
-              
-               
-<!-- Pub Date Tuesday, July 16, 2019 4:00 PM -->
-
-
-
-        
-
-
-<!-- RedDot PAGE 87082 -->
-
-
-        <!-- Right Column Begins ---------------------->
-        <!-- Linkedin BOX BEGINS ------------------------------------------------>
-        <div class="box" style="padding-bottom: 16px; margin-top: -10px;">
-        <h2 class="border-gray-top"><a href="https://www.linkedin.com/school/university-at-albany/"><span style="width: 149px; display: inline-block;">FOLLOW CHSR RESEARCH ON Linkedin</span><img width="40" height="40" style="margin: 0px 0px -5px -20px;" alt="Linkedin logo" src="images/linkedIn-logo.png" /></a></h2>        <p><strong>Everyday, CHSR Staff are conducting research, evaluations, data analysis, and much more!</strong></p>
-        <p><strong>Click </strong><a href="https://www.linkedin.com/school/university-at-albany/" title="Division for Research Twitter link"><strong>here</strong></a><strong> to learn more about what's happening!</strong></p>
         </div>
-        <!-- Linkedin BOX ENDS ------------------------------------------------>
-        <!-- SURVEY RESEARCH CENTER BEGIN ----------------------------><!--
+      </div>
+      <!-- main block -->
+      <div id="main">
+        <div id="twocolumns">
+          <div id="content">
+            <h1>Publications, Reports, &amp; Presentations &nbsp;<span
+                style="font-size:.8em; font-style:italic;font-style: italic;"></span></h1>
+            <p style="font-size:14px;">Since 1991, CHSR has produced many publications, reports, and presentations for
+              its funders:</p>
+            <!-- news block -->
+            <STYLE type="text/css">
+              .text-place {
+                margin-bottom: 20px;
+              }
+            </STYLE>
+
+            <div>
+              </a></div>
+
+
+            <div class="text-place" style="margin-bottom: 10px;">
+              </strong>
+
+              <p style="font-size:14px;">
+              </p>
+
+              <h2> Archived Publications (2001-2015):</h2>
+
+              <ul>
+                <li><a
+                    href="http://www.slate.com/articles/news_and_politics/jurisprudence/2014/01/supreme_court_hears_castleman_this_insane_suit_would_give_guns_to_domestic.html"
+                    target="_blank"><strong>Why Give Violent Domestic Abusers a Gun? How the Supreme Court’s Definition
+                      of Violence Today Will Affect the Number of Gun Injuries Tomorrow.</strong></a> <br />
+                  Amy Barasch - (<em>Jurisprudence: The Law, Lawyers and the Court, 2014</em>)</li>
+                <br />
+                </li>
+                <li><a href="http://onlinelibrary.wiley.com/doi/10.1111/1475-6773.12137/abstract"
+                    target="_blank"><strong>A Statewide Assessment of Electronic Health Record Adoption and Health
+                      Information Exchange among Nursing Homes</strong></a> <br />
+                  Erika L. Abramson, Sandra McGinnis, Jean Moore and Rainu Kaushal, HITEC investigators (<em>Health
+                    Services Research - 2014</em>)</li>
+                <br />
+                </li>
+                <li><a href="http://www.sciencedirect.com/science/article/pii/S1499404613000535"
+                    target="_blank"><strong>Predictors of Total Calories Purchased at Fast-food Restaurants: Restaurant
+                      Characteristics, Calorie Awareness, and Use of Calorie Information</strong></a> <br />
+                  Ian Brissette,Ph.D, Ann Lowenfelds,MPH, Corina Noble,MS and Deborah Spicer, RD,MPH (<em>Journal of
+                    Nutrition Education and Behavior Sept-Oct 2013</em>)</li>
+                <br />
+                </li>
+                <li><a href="http://dx.doi.org/10.1080/10522158.2013.834281" target="_blank"><strong>Diversion and
+                      Kinship Care: A Collaborative Approach Between Child Welfare Services and NYS's Kinship
+                      Navigator<br />
+                    </strong></a>Gerard William Wallace & Eunju Lee - (<em>Journal of Family Social Work
+                    Volume 16, 2013 - Issue 5: Understanding Kinship Care: Implications for Policy and Practice -
+                    2013</em>)</li>
+                <br />
+                </li>
+                <li><a href="http://www.sciencedirect.com/science/article/pii/S0190740913000406"
+                    target="_blank"><strong>Organizational climate and burnout among home visitors: Testing mediating
+                      effects of empowerment.<br />
+                    </strong></a>Eunju Lee, Nina Esaki, Jeehoon Kim, Rose Greene, Kristen Kirkland, and Susan
+                  Mitchell-Herzfeld (<em>Children and Youth Services Review, 2013 </em>)</li>
+                <br />
+                </li>
+                <li><a href="Publications/Kaye_Lee_Chen_2013.pdf" target="_blank"><strong>Barriers to Food Stamps in New
+                      York State: A Perspective from the Field.</strong></a>Lara Kaye and Eunju Lee (<em>Journal of
+                    Poverty, Jan 14,2013</em>)</li>
+                <br />
+                </li>
+                <li><a href="http://www.tandfonline.com/doi/abs/10.1080/07418825.2011.582879"
+                    target="_blank"><strong>Social Correlates of Delinquency for Youth in Need of Mental Health
+                      Services: Examining the Scope Conditions of Criminological Theories</strong></a> </li> Matt Vogel
+                and Steven F. Messner (<em>Justice Quarterly, 2012</em>)<br />
+                <br />
+                </li>
+
+                <li><strong><a href="http://www.tandfonline.com/eprint/NunDwsJkg3qjnecQQSEX/full"
+                      target="blank">Barriers to Food Stamps in New York State: Perspective from the Field.</a></strong>
+                </li>
+
+                Lara Kaye, Eunju Lee, and Yi Yi Chen (<em>Journal of Poverty</em>, 2013)<br />
+                <br />
+                </li>
+
+                </li>
+
+                <li><a href="https://www.ncjrs.gov/pdffiles1/nij/grants/232945.pdf"><strong>Randomized Trial of Healthy
+                      Families New York (HFNY): Does Home Visiting Prevent Child Maltreatment?</strong></a></li>
+
+                Kimberly DuMont, Kristen Kirkland, Susan Mitchell-Herzfeld, Susan Ehrhard-Dietzel, Monica L. Rodriguez,
+                Eunju Lee, China Layne, and Rose Greene - (<em>National Institute of Justice, U.S. Department of
+                  Justice, 2011</em>)<br />
+                <br />
+                <li><strong><a href="http://www.springerlink.com/content/tuu8l4035ll8v12j/">Averting Child Maltreatment:
+                      Individual, Social, and Community Resources</a></strong> </li>
+
+                Kimberly DuMont, Susan Ehrhard-Dietzel, and Kristen Kirkland (in Michael Ungar (Ed.) <em>The Social
+                  Ecology of Resilience: A Handbook of Theory and Practice,</em> 2011)&nbsp;<br />
+                &nbsp;
+                <li><a href="http://www.sciencedirect.com/science/article/pii/S0190740911001460"><strong>Risk and
+                      Protective Factors for Child Neglect During Early Childhood: A Cross-Study Comparison</strong></a>
+                </li>
+
+                Kristen Shook-Slack, Lawrence M. Berger, Kimberly DuMont, Mi-Young Yang, Bomi Kim, Susan
+                Ehrhard-Dietzel, and Jane L. Holl  (<em>Children and Youth Services Review,</em> 2011)<br />
+                <br />
+                </li>
+                <li><a
+                    href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V7N-512DSY9-2&amp;_user=681852&amp;_coverDate=10/31/2010&amp;_rdoc=1&amp;_fmt=high&amp;_orig=search&amp;_origin=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_acct=C000037358&amp;_version=1&amp;_urlVersion=0&amp;_userid=681852&amp;md5=9e25151c10ae77cd71169f37fe6bf99a&amp;searchtype=a"
+                    target="_blank"><strong>Effects of Healthy Families New York on the Promotion of Maternal Parenting
+                      Competencies and the Prevention of Harsh Parenting</strong></a> </li>
+
+                M.L. Rodriguez, K.Dumont, S.D. Mitchell-Herzfeld, N.J. Walden, &amp; R.Greene (<em>Child Abuse and
+                  Neglect, 2010)<br />
+                  <br />
+                </em>
+
+                <li><strong><a href="http://www.informaworld.com/smpp/content~db=all?content=10.1080/15332560802533612"
+                      target="_blank">Collocation: Integrating Child Welfare and Substance Abuse Services</a></strong>
+                </li>
+
+                E. Lee, N. Esaki, &amp; R. Greene (<em>Journal of Social Work Practice in the Addictions,
+                </em>2009)<br />
+                <br /></em>
+
+                <li><strong><a
+                      href="http://www.albany.edu/chsr/Publications/The%20Role%20of%20Nurse%20Practitioners%20in%20Meeting%20the%20Need%20for%20Child%20and%20Adolescent%20Psych%20Services.pdf"
+                      target="_blank">The Role of Nurse Practitioners in Meeting the Need for Child and Adolescent
+                      Psychiatric Services: A State-Wide Survey</a></strong> </li>
+
+                L. Kaye, L. A. Warner, C. A. Lewandowski, R. Greene, J. K. Acker, & N. Chiarella <em>(Journal of
+                  Psychosocial Nursing and Mental Health Services, 2009</em>)<br />
+                <br />
+
+                <li><strong><a href="http://www.ajpm-online.net/article/S0749-3797(08)00845-3/abstract"
+                      target="_blank">Reducing Low Birth Weight Through Home Visitation: A Randomized Controlled Trial
+                    </a></strong></li>
+
+                E. Lee, S. Mitchell-Herzfeld, A. Lowenfels, R. Greene, V. Dorabawila, &amp; K. DuMont (<em>American
+                  Journal of Preventive Medicine</em>, 2009)<br />
+                <br />
+
+                <li><strong><a
+                      href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V7N-4S69S7K-6&amp;_user=681852&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_acct=C000037358&amp;_version=1&amp;_urlVersion=0&amp;_userid=681852&amp;md5=bd94286fcf350a6df93eddfb20016131"
+                      target="_blank">Healthy Families New York Randomized Trial: Impacts on Early Child Abuse and
+                      Neglect </a></strong></li>
+
+                K. DuMont, S. Mitchell-Herzfeld, R. Greene, E. Lee, A. Lowenfels, M. Rodriguez &amp; V. Dorabawila
+                (<em>Child Abuse and Neglect</em>, 2008)
+
+              </ul>
+
+              <p><a href="#" target="_top">Back to top </a></p>
+              <h2><a name="reports" id="reports"></a>Archived Reports and Research Briefs (2001-2015):</h2>
+
+              <ul>
+                <li><strong><a href="Publications/NYS Success Research Brief-Youth Guided Care FINAL (2).pdf"
+                      target="_blank">NYS Success Research Brief: Youth Guided Care</a></strong> <br />
+                  Camille Barnes, Ph.D. &amp; Lauren Polvere, Ph.D.(August 2015)<br />
+                  <br />
+                </li>
+                <li><strong><a href="Publications/NYS Grandfamilies Housing Study FINAL REPORT_Mar 31 2015.pdf"
+                      target="_blank">NYS Grandfamilies Housing Study FINAL REPORT</a></strong><br />
+                  (March 2015)<br />
+                  <br />
+                </li>
+                <li><strong><a href="http://www.albany.edu/news/files/ReportCard_2014-2.pdf" target="_blank">Albany
+                      Promise 2014 Report Card</a></strong>( December 2014)<br />
+                </li>&nbsp;
+                <li><strong><a href="Publications/YPI_final_OJJDP_2013_PB-FX-0004.pdf" target="_blank">Final Report:
+                      Evaluability Assessment of the NAFI Youth and Police Initiative Training&nbsp; (
+                    </a></strong>December 2014)
+                  <br />
+                </li>&nbsp;
+
+                <li><strong><a href="Publications/PEM Final Evaluation Report.pdf" target="_blank">Final Evaluation
+                      Report: Understanding the Role of Parent Engagement to Enhance Mentoring Outcomes&nbsp;
+                    </a></strong>(November 2014)
+                  <br />
+                </li>&nbsp;
+
+                <li><strong><a href="Publications/Juvenile Justice Mobile Response Team_final report.pdf"
+                      target="_blank">Final Report: Juvenile Justice Mobile Response Team&nbsp;</a></strong>(2014)
+                  <br />
+                </li>&nbsp;
+
+                <li><strong><a href="Publications/CPS_DV Study final report16.pdf" target="_blank">Final Report:
+                      Evaluation of CPS/DV Co-Location&nbsp;</a></strong>(2014)
+                  <br />
+                </li>&nbsp;
+
+                <li><strong><a href="Publications/BF Research Brief Final_Final.pdf" target="_blank">Final Evaluation
+                      Report: Healthy Families New York Home Visiting Program: Pre- and Postnatal Discussions Foster
+                      Breastfeeding Initiation and&nbsp; Continuation&nbsp;&nbsp;</a></strong>(2013)
+                  <br />
+                </li> &nbsp;
+
+                <li><strong><a href="Publications/Chemung_Final_Report_print.pdf" target="_blank">Chemung County
+                      Evaluation Report</a></strong> (2012)
+                  <br />
+                </li>&nbsp;
+
+                <li><strong><a href="Publications/CAMT Final Evaluation Study Jan 2011.pdf" target="_blank">The Capital
+                      Region Child and Adolescent
+
+                      Mobile Crisis Team (CAMT)Operated by Parsons Child and Family Center&nbsp;</a></strong>(2011)
+                  <br />
+                </li>&nbsp;
+
+                <li><strong><a href="Publications/FRC FINAL REPORT 2011.pdf">Family Resource Center: Service Utilization
+                      Report</a></strong> (2011)
+                  <br />
+                </li>&nbsp;
+
+
+                <li><strong><a href="Publications/Albany SOC Final Report with Mr Breslin letter.pdf"
+                      target="_blank">Albany County, NY System of Care:</a></strong><strong><a
+                      href="Publications/Albany SOC Final Report with Mr Breslin letter.pdf" target="_blank"> Final
+                      Evaluation Report</a></strong> (2010)</li>
+                &nbsp;
+                <li><a href="Publications/FRC Community Study 2010.pdf" target="_blank"><strong>Family Resource Center:
+                      Community Study</strong> </a>(2010) </li>
+                &nbsp;
+                <li><a href="Publications/FRC Outcome Study 2010.pdf" target="_blank"><strong>Family Resource Center:
+                      Outcome Study</strong></a><strong></strong> (2010)</li>
+                &nbsp;
+                <li><a href="Publications/AmeriCorps Report - Final.pdf" target="_blank"><strong>Evaluation of
+                      AmeriCorps State Programs in New York State: Volunteer Generation</strong></a><strong></strong>
+                  (2009)</li>
+                &nbsp;
+                <li><strong><a href="Publications/suicide_data_brief_07-06-09.pdf" target="_blank">Teens Thinking About
+                      Suicide When Entering Albany County System of Care</a></strong> (2009) </li>
+                &nbsp;
+                <li> <strong><a href="Publications/final_HFNY_obs_working_paper_7-16-08.pdf" target="_blank">Effects of
+                      Healthy Families New York on Maternal Behaviors: Observational Assessments of Positive and
+                      Negative Parenting</a> </strong>(2008) </li>
+                &nbsp;
+                <li> <strong><a href="Publications/FINAL_REPORT_COUNTY_WIDE_TELEPHONE_SURVEY-6-12-08.pdf"
+                      target="_blank">Assessing and Addressing the Need for Child and Adolescent Psychiatrists in New
+                      York State: Report on a County Wide Telephone Survey </a></strong>(2008) </li>
+                &nbsp;
+                <li> <strong><a href="Publications/FRCreport_2006.pdf" target="_blank">A Study of New York State’s
+                      Family Resource Center Network </a></strong>(2006)</li>
+                &nbsp;
+                <li> <strong><a href="Publications/HFNYRandomizedTrialWorkingPaper.pdf" target="_blank">Healthy Families
+                      New York (HFNY) Randomized Trial: Impacts on Parenting after the First Two Years
+                    </a></strong>(2006)</li>
+                &nbsp;
+                <li><a
+                    href="http://www.albany.edu/chsr/Publications/Data%20Analysis%20Report_Albany%20County.pdf"><strong>Data
+                      Analysis Report: Subsidized Legally Exempt Child Care in Albany County</strong></a> (2006)</li>
+                &nbsp;
+                <li> <strong><a href="Publications/2005 Integrating County Planning Initiative.pdf"
+                      target="_blank">Integrating the Human Service System: Final Evaluation of the New York State
+                      Integrated County Planning Initiative</a></strong> (2005)</li>
+                &nbsp;
+                <li> <strong><a href="Publications/25561_inside_88.qxd.pdf" target="_blank">Evaluation Findings of the
+                      Healthy Families New York (HFNY): First Year Program Impacts </a></strong>(2005) </li>
+                &nbsp;
+                <li> <strong>Evaluation Findings of the Healthy Families New York Home Visiting Program</strong> (2001)
+                </li>
+                &nbsp;
+                <li> <strong><a href="Publications/ER_Study_march_2001.pdf" target="_blank">A Study to Improve the
+                      Delivery of Services in an Upstate Emergency Department </a></strong>(2001) </li>
+                &nbsp;
+                <li><strong>Evaluation of the Child Advocacy Resource and Consultation Center (CARCC)</strong> (1999)
+                </li>
+                &nbsp;
+                <li><strong><a href="Publications/CCSI_12_98.pdf" target="_blank">Reforming the Delivery of Children’s
+                      Services: A Study of the Implementation and Effects of the New York State Coordinated Children’s
+                      Services Initiative</a></strong> (1998)</li>
+                &nbsp;
+                <li><strong><a href="Publications/HFNY_firstyear_4_97.pdf" target="_blank">A Process Study of the New
+                      York State Home Visiting Program: First Year Evaluation</a></strong> (1997)</li>
+                &nbsp;
+                <li><strong><a href="Publications/Families_helping_familes_6_95.pdf" target="_blank">Evaluation of the
+                      Families helping Families Program </a></strong>(1995)</li>
+                &nbsp;
+                <li><strong><a href="Publications/Col_child_care_12_94.pdf" target="_blank">Evaluation of the
+                      Collaborative Child Care Demonstration Project</a></strong> (1994)</li>
+                &nbsp;
+                <li><strong>The New York City Paternity Establishment Demonstration Project: Interim Year Two Evaluation
+                    Report </strong>(1994)</li>
+                &nbsp;
+                <li><strong>Evaluation of the New York State Neighborhood Based Initiative: First Year Report
+                  </strong>(1993)</li>
+                &nbsp;
+                <li><strong>An Evaluation of the Implementation and the Effects of the Community Optional Preventive
+                    Services Program in New York State </strong>(1993)</li>
+                &nbsp;
+                <li><strong>Factors that Influence the Use of Foster Care and Preventive Services by the Child Welfare
+                    System in New York City</strong> (1993)</li>
+                &nbsp;
+                <li><strong>An Evaluation of the New York State Division for Youth Special Delinquency Prevention
+                    Program </strong>(1991)</li>
+
+              </ul>
+
+              <p><a href="#" target="_top">Back to top</a></p>
+
+              <h2> <a name="presentations" id="presentations"></a>Archived Presentations (2001-2010):</h2>
+
+
+
+              <ul>
+
+                <li><strong><a href="Publications/NYSPA_BF_Final.ppt" target="_blank">Breastfeeding Promotion Through
+                      Home Visits</a></strong> <br />
+                  Sandra McGinnis at the NYSPA 28th Annual Perinatal Conference June 5-6, 2014, Albany, NY(Nov
+                  2014)<br />
+                  <br />
+                </li>
+
+                <li><strong><a href="Publications/HFA National Leadership Conference Multi-sitePresentation11.2013.pdf"
+                      target="_blank">Presentation for Multi-site Systems Development <br />
+                    </a></strong> John Heck at the HFA National Leadership Conference, Jacksonville, Florida.(November
+                  2013)<br />
+                  <br />
+                </li>
+
+                <li><a href="NEWSPaperpresentationat19thnationalconferenceonchildabuseandneglect.shtml"
+                    target="_blank"><strong>Evaluating the Implementation and Effects of Co-locating DV Advocates in
+                      Child Welfare Offices.</strong></a> <br />
+                  Rose Greene &amp; Ellen Unruh at the 19th National Conference on Child Abuse and Neglect. New Orleans,
+                  LA. April/May 2014<br />
+                  <br />
+
+                <li><strong><a href="Publications/HFA National Leadership Conference Multi-sitePresentation11.2013.pdf"
+                      target="_blank">Presentation for Multi-site Systems Development <br />
+                    </a></strong> John Heck at the HFA National Leadership Conference, Jacksonville, Fla.(Nov
+                  2013)<br />
+                  <br />
+                </li>
+
+                <li><a href="Publications/Promoting_Father_Engagement.ppt"><strong>Promoting Father Engagement: Program
+                      Outcomes and Lessons Learned from the Healthy Families New York Experience</strong></a> <br />
+                  Matt Vogel, Tom Dwyer, Corina Allen, and Matt Scot. Prsented at the 17th Annual New York State Child
+                  Abuse Prevention Conference
+
+                  April 2012<br />
+                  <br />
+                </li>
+                <li><strong><a href="Publications/AEA_Lessons learned technology handouts.pdf" target="_blank">Lessons
+                      Learned from Using Technology to Increase Study Participation Among Child Welfare Service
+                      Recipients</a></strong> Lara Kaye, Lynn Warner, Rose Greene, and Corinne Noble.
+
+
+
+                  Presented at the 24th Annual Conference of the American Evaluation Association
+
+
+
+                  November, 2010<br />
+                </li>
+                <p></p>
+                <li><strong><a href="Publications/WWTD.pdf" target="_blank">Working with Teen Dads – An Opportunity to
+                      Change Futures</a></strong>
+
+                  China Layne, Tina Williams, Robert Foulks, and Shane Lehman<br />
+
+
+
+                  Annual Conference of Prevent Child Abuse New York
+
+
+
+                  April, 2010</li>
+
+                <li><strong><a href="Publications/GEOTECHPROGEVAL.pdf" target="_blank">Using Geospatial Techniques to
+                      Conduct Program Evaluation and Inform Service Delivery</a></strong>
+
+                  Matt Vogel, Rose Greene, and LuAnn McCormick
+
+
+
+                  Presented at the 23rd Annual Children's Mental Health Research &amp; Policy Conference<br />
+
+
+
+                  March, 2010</li>
+
+                <li><strong>Correlates of Delinquency in the Albany County, New York  System of Care </strong>Matt Vogel
+                  <br />
+
+                  Presented at the 23rd Annual Children’s Mental Health Research and Policy Conference <br />
+
+                  March 2010 </li>
+
+                <li><strong>Social Correlates of Delinquency of Youth in Need for Mental Health Services: Examining the
+                    Scope Conditions of Criminological Theories</strong> Matt Vogel and Steven F.&nbsp; Messner  <br />
+
+                  Presented at the Eastern Sociological Society Annual Meeting <br />
+
+                  March 2010 </li>
+
+                <li><a
+                    href="Publications/Improving the Food Stamp Program in NYS - Nutrition Outreach and Education Program Findings and Recommendations.pdf"
+                    target="_blank"><strong>Improving the Food Stamps Program in New York State: Nutrition Outreach and
+                      Education Program Findings and Recommendations</strong></a><strong></strong>
+
+                  Dr. Lara Kaye and Dr. Eunju Lee,
+
+
+
+                  Presented to the Office of Temporary and Disability Assistance<br />
+
+
+
+                  May, 2009</li>
+
+                <li><strong><a href="Publications/FFI.pdf" target="_blank">Fostering Father Involvement: the Healthy
+                      Families New York Experience</a></strong>
+
+                  China Layne, Tina Williams, Fatimah Abdullahai, and Chris Shortell
+
+
+
+                  Annual Conference of Prevent Child Abuse New York
+
+
+
+                  April, 2009</li>
+
+                <li><strong>Long-Term Effectiveness of Healthy Families New York on Mothers' Observed Positive and
+                    Negative Parenting</strong>
+
+                  Monica Rodriguez, Kimberly Dumont, Nicole Walden, and Rose Greene<br />
+
+
+
+                  Presented to the Society for Research in Child Development
+
+
+
+                  April, 2009</li>
+
+                <li><strong><a href="Publications/SOC 09 30309.pdf">Factors Associated With Perceptions Of Need For
+                      Child And Adolescent Psychiatry</a></strong> Dr.Cathleen A. Lewandowski, Dr. Lara Kaye, and Dr.
+                  Lynn Warner
+
+                  Presented at the 22nd Annual Research Conference, A System of Care for Children's Mental Health:
+                  Expanding the Research Base
+
+                  March 2009</li>
+
+                <li><a href="Publications/OrgClimatenBurnOut.pdf" target="_blank"><strong> Perceived Worker Control and
+                      Organizational Climate on Burnout</strong></strong></a>
+
+                  Eunju Lee, Nina Esaki, Jeehoon Kim, and Rose Greene
+
+
+
+                  Presented to the Society for Social Work and Research
+
+
+
+                  January 2009</li>
+
+                <li> <strong><a href="Publications/GreenWrkplace.pdf" target="_blank">Creating a Green Workplace:
+                      Developing a Non-Toxic Environment to Prevent Home Visitor Burnout</a></strong> Eunju Lee, Rose
+                  Greene, and Ellen Butowsky
+
+
+
+                  Presented at the Prevent Child Abuse America National Conference
+
+
+
+                  May 2008</li>
+
+                <li> <strong>Linking Research with Practice:  A New York State of Mind</strong>
+
+                  Rose Greene, Joy Griffith, Ann Pitkin, and Ellen Butowsky
+
+
+
+                  Presented at the National Conference of Prevent Child Abuse America
+
+
+
+                  May 2006 </li>
+
+                <li><strong>Good Cop/Bad Cop: The Contrasting Roles of Child Welfare Workers and Substance Abuse
+                    Counselors in a Collaborative Partnership</strong><br />
+
+
+
+                  Rose Greene and Eunju Lee
+
+
+
+                  Presented at the 5th International Conference on Evaluation for Practice<br />
+
+
+
+                  July 2005 </li>
+
+                <li><strong><a href="Publications/TakeThisJob.pdf" target="_blank">Take this Job and Love It: Findings
+                      from a Survey of Home Visitors</a></strong> Rose Greene, Eunju Lee, Nina Esaki, and Manrong Chen
+
+
+
+                  Presented at the
+
+
+
+                  New York State Child Abuse Prevention Conference<br />
+
+
+
+                  May 2005</li>
+
+                <li> <a href="Publications/impactofprenatalhome.pdf" target="_blank"><strong>Impact of Prenatal Home
+                      Visitation on Low Birth Weight: A Randomized Trial of the Healthy Family America Model
+                    </strong></a>
+
+                  Eunju Lee, Ann Lowenfels, and Rose Greene
+
+
+
+                  Presented at the
+
+
+
+                  132nd Annual Meeting of American Public Health Association
+
+
+
+                  November 2004 </li>
+
+                <li> <a href="Publications/CollocationSA.pdf" target="_blank"><strong>Co-locating Substance Abuse and
+                      Child Welfare Programs in New York State: The Evolution of Policy to Practice</strong></a><strong>
+                  </strong>Eunju Lee, Rose Greene, and Nina Esaki
+
+
+
+                  Presented at the
+
+
+
+                  1st National Conference on Substance Abuse, Child Welfare and the Dependency Court
+
+
+
+                  July 2004 </li>
+
+                <li> <strong>Understanding Research on Home Visitation to Inform Policy and Practice
+
+
+
+                  </strong>Charles Izzo, Susan Mitchell-Herzfeld, Rose Greene, and Eunju Lee<strong><br />
+
+
+
+                  </strong> Presented at the Prevent Child Abuse National Conference
+
+
+
+                  May 2004</li>
+
+                <li> <strong>The Politics of Program Evaluation: Lessons Learned in Conducting Prevention
+                    Research</strong><br />
+
+
+
+                  Rose Greene and Eunju Lee
+
+
+
+                  Presented at the 14th National Conference on Child Abuse and Neglect<br />
+
+
+
+                  April 2003 </li>
+
+                <li><strong>Reality Programming: Computer Applications for Child Welfare Workers
+
+
+
+                  </strong> Rose Greene, Jeff Luks and John Heck
+
+
+
+                  Presented at the Child Welfare League of America Conference
+
+
+
+                  November 2003 </li>
+
+                <li><strong>Politics of Program Evaluation: Lessons Learned in Conducting Prevention
+                    Research</strong><br />
+
+
+
+                  Rose Greene and Eunju Lee
+
+
+
+                  Presented at the
+
+
+
+                  14th National Conference on Child Abuse and Neglect<br />
+
+
+
+                  April 2003</li>
+                <li> <strong>Home Visiting: An Effective Approach to Preventing Child Abuse</strong> Rose Greene<br />
+                  Presented at the New York Public Welfare Association
+                  February 1999</li>
+                <li> <strong>The Process Behind the Process Study</strong> Rose Greene
+                  Presented at the Program Evaluation and Family Violence Research International Conference
+                  June 1998</li>
+                <li> <strong>Training for Results: Designing Curricula that Build Staff Ability</strong> Barbara
+                  Jaklitsch and Rose Greene.
+                  Presented at the Child Welfare League of America, Mid-Atlantic Training Conference
+                  June 1997</li>
+
+              </ul>
+
+
+
+              <p><a href="#" target="_top">Back to top</a></p>
+
+            </div>
+          </div>
+          <!-- aside -->
+          <div class="aside">
+
+
+
+            <!-- Pub Date Tuesday, July 16, 2019 4:00 PM -->
+
+
+
+
+
+
+            <!-- RedDot PAGE 87082 -->
+
+
+            <!-- Right Column Begins ---------------------->
+            <!-- Linkedin BOX BEGINS ------------------------------------------------>
+            <div class="box" style="padding-bottom: 16px; margin-top: -10px;">
+              <h2 class="border-gray-top"><a href="https://www.linkedin.com/school/university-at-albany/"><span
+                    style="width: 149px; display: inline-block;">FOLLOW CHSR RESEARCH ON Linkedin</span><img width="40"
+                    height="40" style="margin: 0px 0px -5px -20px;" alt="Linkedin logo"
+                    src="images/linkedIn-logo.png" /></a></h2>
+              <p><strong>Everyday, CHSR Staff are conducting research, evaluations, data analysis, and much
+                  more!</strong></p>
+              <p><strong>Click </strong><a href="https://www.linkedin.com/school/university-at-albany/"
+                  title="Division for Research Twitter link"><strong>here</strong></a><strong> to learn more about
+                  what's happening!</strong></p>
+            </div>
+            <!-- Linkedin BOX ENDS ------------------------------------------------>
+            <!-- SURVEY RESEARCH CENTER BEGIN ---------------------------->
+            <!--
 		<div class="box">
         <h2 class="border-gray-top"><a href="https://www.albany.edu/SurveyResearchCenter/index.html">Survey Research Center</a> <span style="font-size: 12px;"><a href="https://www.albany.edu/SurveyResearchCenter/index.html"></a></span></h2>
         <p><strong>The Survey Research Center, University at Albany offers faculty and staff the resources necessary to conduct large and small-scale studies</strong></p>
@@ -621,17 +777,21 @@ Mobile Crisis Team (CAMT)Operated by Parsons Child and Family Center&nbsp;</a></
 			<li><a href="https://www.albany.edu/SurveyResearchCenter/it_solutions.html" title="Sponsored Programs Administration Page">IT Solutions</a></li>			
 			<li><a href="https://www.albany.edu/SurveyResearchCenter/study_design.html" title="Sponsored Programs Administration Page">Study Design</a></li>
         </ul> </div>	
---><div class="box">
-        <h2 class="border-gray-top"><a href="https://www.albany.edu/chsr/Program_Dev_Community_Engage.shtml">Data Management and Analytics Center (DMAC)</a> <span style="font-size: 12px;"><a href="https://www.albany.edu/chsr/Program_Dev_Community_Engage.shtml"></a></span></h2>
-        <p><strong>DMAC provides customized data management support at the University at Albany within the Center for Human Services Research. DMAC services that are provided free of charge and include:</strong></p>
-        <ul class="additional-links">
-            <li>Data procurement</a> </li>
-			<li>Data management and security</a></li>			
-			<li>File preparation and data cleaning</a></li>
-        </ul> 
-		  </div>	
-        <!-- SURVEY RESEARCH CENTER ENDS ---------------------------->
-        <!-- STUDENT RESEARCH BOX BEGIN ----------------------------
+-->
+            <div class="box">
+              <h2 class="border-gray-top"><a href="https://www.albany.edu/chsr/Program_Dev_Community_Engage.shtml">Data
+                  Management and Analytics Center (DMAC)</a> <span style="font-size: 12px;"><a
+                    href="https://www.albany.edu/chsr/Program_Dev_Community_Engage.shtml"></a></span></h2>
+              <p><strong>DMAC provides customized data management support at the University at Albany within the Center
+                  for Human Services Research. DMAC services that are provided free of charge and include:</strong></p>
+              <ul class="additional-links">
+                <li>Data procurement</a> </li>
+                <li>Data management and security</a></li>
+                <li>File preparation and data cleaning</a></li>
+              </ul>
+            </div>
+            <!-- SURVEY RESEARCH CENTER ENDS ---------------------------->
+            <!-- STUDENT RESEARCH BOX BEGIN ----------------------------
         <div class="box">
         <h2 class="border-gray-top">STUDENT RESEARCH</h2>
         <p><a href="/news/81686.php?WT.source=research" class="boxRightHeadline">Adding Sound to the Ancient Past</a></p>
@@ -639,63 +799,66 @@ Mobile Crisis Team (CAMT)Operated by Parsons Child and Family Center&nbsp;</a></
         <p><a href="/news/81686.php?WT.source=research" class="learnmore">Learn More</a></p>
         </div>
         -- STUDENT RESEARCH BOX ENDS ---------------------------->
- 
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-        <div class="contact box">
-             <h2 style="border-top: 10px solid #e4e2e2;">Contact Us</h2>
-    
-              <p style="margin-top: 20px; padding-bottom: 15px;"> <strong>Center for Human Services Research&nbsp; </strong><br/>
-                135 Western Avenue<br/>
-                Albany, NY 12222</br>                Phone: (518) 442-5762
-<br/>
-                Fax: (518) 442-5732<br/>                <A href="mailto:chsr@albany.edu">Email CHSR</A>
-               
 
-<br /><br /><A href="https://www.albany.edu/chsr/Staff.shtml">Staff Directory</A></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="contact box">
+              <h2 style="border-top: 10px solid #e4e2e2;">Contact Us</h2>
+
+              <p style="margin-top: 20px; padding-bottom: 15px;"> <strong>Center for Human Services Research&nbsp;
+                </strong><br />
+                135 Western Avenue<br />
+                Albany, NY 12222</br> Phone: (518) 442-5762
+                <br />
+                Fax: (518) 442-5732<br /> <A href="mailto:chsr@albany.edu">Email CHSR</A>
+
+
+                <br /><br /><A href="https://www.albany.edu/chsr/Staff.shtml">Staff Directory</A>
+              </p>
+
+            </div>
 
           </div>
-
-              </div>
-        <!-- Aside DIV ENDS --> 
-      </div>
-            <!-- sidebar -->
-            <div id="sidebar">
+          <!-- Aside DIV ENDS -->
+        </div>
+        <!-- sidebar -->
+        <div id="sidebar">
 
 
 
 
-<!-- Getting Started BEGIN -->
+          <!-- Getting Started BEGIN -->
 
-<div class="heading-block">
-<!-- OLD HEADING was background-image:url('includes/include_homepage_research_changes_lives.png -->
-  <h3 class="getting-started-text" 
-            style="background-image:url('https://www.albany.edu');">
-            Getting Started at UAlbany</h3>
-</div>
-<!-- Getting Started END -->
+          <div class="heading-block">
+            <!-- OLD HEADING was background-image:url('includes/include_homepage_research_changes_lives.png -->
+            <h3 class="getting-started-text" style="background-image:url('https://www.albany.edu');">
+              Getting Started at UAlbany</h3>
+          </div>
+          <!-- Getting Started END -->
 
-<!-- Pub Date Monday, January 28, 2019 9:46 AM -->
-
+          <!-- Pub Date Monday, January 28, 2019 9:46 AM -->
 
 
-        
 
 
-<!-- RedDot PAGE 32220 -->        <!-- Left Menu Include Begin -->        <ul class="side-menu">
+
+
+          <!-- RedDot PAGE 32220 -->
+          <!-- Left Menu Include Begin -->
+          <ul class="side-menu">
             <li><a href="index.shtml">Home </a></li>
             <li><a href="About_Us.shtml">About Us </a></li>
             <li><a href="Research_Evaluation.shtml">Evaluation &amp; Research </a></li>
@@ -704,51 +867,52 @@ Mobile Crisis Team (CAMT)Operated by Parsons Child and Family Center&nbsp;</a></
             <li><a href="project_areas.shtml">Projects </a></li>
             <li><a href="publications.shtml">Publications </a></li>
             <li><a href="Staff.shtml">Staff Directory </a></li>
-			<li><a href="Jobs.shtml">Employment Opportunities</a></li>
+
             <li><a href="Contact_Us.shtml">Contact Us </a></li>
-             </ul>
-        <!-- Left Menu Include Ends -->
-        <!-- Left Menu Include Ends --><!-- DIV Support Offices BEGINS RedDot 32220 -->
-        <div class="box" style="padding-bottom: 1px;">
-        <div>
-        </div>
-     <!--   <ul class="additional-links">
+          </ul>
+          <!-- Left Menu Include Ends -->
+          <!-- Left Menu Include Ends -->
+          <!-- DIV Support Offices BEGINS RedDot 32220 -->
+          <div class="box" style="padding-bottom: 1px;">
+            <div>
+            </div>
+            <!--   <ul class="additional-links">
             <li><a href="https://www.albany.edu/orrc/">Data Management and Analytics Center </a> </li>
 			<li><a href="https://www.albany.edu/spa/" title="Sponsored Programs Administration Page">Systems &amp; Software Development</a></li>			
 			<li><a href="https://www.albany.edu/spa/" title="Sponsored Programs Administration Page">Survey Research Center</a></li>
 
         </ul> -->
-        </div>
+          </div>
 
-				
-				
-        <!-- DIV Support Offices Ends-->
-        <div class="box">
-			<div>
-       <!-- <ul class="additional-links">
+
+
+          <!-- DIV Support Offices Ends-->
+          <div class="box">
+            <div>
+              <!-- <ul class="additional-links">
             <li>Data procurement</li>
             <li>Data management and security</li>
             <li>File preparation and data cleaning</li>
             <li>Other Analytic support</li>
         </ul> -->
-        </div> 
-			
-			
-        </div> 
-    
-         <div class="box">
-			<div>
-       <!-- <ul class="additional-links">
+            </div>
+
+
+          </div>
+
+          <div class="box">
+            <div>
+              <!-- <ul class="additional-links">
             <li>Data procurement</li>
             <li>Data management and security</li>
             <li>File preparation and data cleaning</li>
             <li>Other Analytic support</li>
         </ul> -->
-        </div> 
-			
-			
-        </div>             
-        <!-- END Research Showcase Begin -- 
+            </div>
+
+
+          </div>
+          <!-- END Research Showcase Begin -- 
         <div class="box">
         <h2 class="border-gray-top">Data Management and Analytics Center</h2>
 			<h4>DMAC provides customized data management support at the University at Albany. Our services are provided free of charge and include:</h4>
@@ -763,35 +927,43 @@ Mobile Crisis Team (CAMT)Operated by Parsons Child and Family Center&nbsp;</a></
         </div>
     
              
-        <!-- END Research Showcase Begin --> 
+        <!-- END Research Showcase Begin -->
+        </div>
       </div>
-          </div>
-    <!-- footer -->
-    <div id="footer">
-      <address>
-        <strong>University at Albany</strong>, State University of New York · 1400 Washington Ave., · Albany, NY 12222 · Phone (518) 442-3300
-      </address>
-      <ul class="additional-menu">
-        <li><a href="https://www.albany.edu/contact.shtml">Contact Us</a></li>
-        <li><a href="https://www.albany.edu/main/employment.shtml">Jobs</a></li>
-        <!--<li><a href="https://www.albany.edu/emergency/index.php">SUNY NY-Alert</a></li>-->
-        <li><a href="https://police.albany.edu/ASR.shtml">Annual Security and Fire Safety Report</a></li>
-        <li><a href="https://wiki.albany.edu/x/IR7-AQ">Internet Privacy Policy</a></li>
-        <li><a href="https://www.albany.edu/emergency/index.php">UAlbany Alert</a></li>
-        <li><a href="https://www.albany.edu/veterans/">Veterans Affairs</a></li>
-        <li><a href="https://wiki.albany.edu/display/middlestates/Home">Middle States Self-Study</a></li>
-      </ul>
-      <a href="https://www.albany.edu/gogreen/index.shtml?WT.source=home" class="green-label">UAlbany is Green!</a> <span>&copy;&nbsp;2020 University at Albany</span></div>
+      <!-- footer -->
+      <div id="footer">
+        <address>
+          <strong>University at Albany</strong>, State University of New York · 1400 Washington Ave., · Albany, NY 12222
+          · Phone (518) 442-3300
+        </address>
+        <ul class="additional-menu">
+          <li><a href="https://www.albany.edu/contact.shtml">Contact Us</a></li>
+          <li><a href="https://www.albany.edu/main/employment.shtml">Jobs</a></li>
+          <!--<li><a href="https://www.albany.edu/emergency/index.php">SUNY NY-Alert</a></li>-->
+          <li><a href="https://police.albany.edu/ASR.shtml">Annual Security and Fire Safety Report</a></li>
+          <li><a href="https://wiki.albany.edu/x/IR7-AQ">Internet Privacy Policy</a></li>
+          <li><a href="https://www.albany.edu/emergency/index.php">UAlbany Alert</a></li>
+          <li><a href="https://www.albany.edu/veterans/">Veterans Affairs</a></li>
+          <li><a href="https://wiki.albany.edu/display/middlestates/Home">Middle States Self-Study</a></li>
+        </ul>
+        <a href="https://www.albany.edu/gogreen/index.shtml?WT.source=home" class="green-label">UAlbany is Green!</a>
+        <span>&copy;&nbsp;2020 University at Albany</span>
+      </div>
     </div>
-      </div>
-    <!--Google Analytics-->
-     <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WNRD5G"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WNRD5G');</script>
-<!-- End Google Tag Manager --></body>
+  </div>
+  <!--Google Analytics-->
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WNRD5G" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WNRD5G');</script>
+  <!-- End Google Tag Manager -->
+</body>
+
 </html>
