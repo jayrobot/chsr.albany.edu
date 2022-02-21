@@ -25,6 +25,10 @@
     .side-menu {
       margin: 0;
     }
+
+    .text-place {
+      margin-bottom: 10px;
+    }
   </style>
 
   <script type="text/javascript" src="file:///T|/chsr_website/hpfiles/jquery-1.7.2.min.js"></script>
@@ -101,7 +105,8 @@
             </div>
           </div>
 
-          <div class="main-gallery" style="position:relative: top: -40px;margin-top: 16px; width: 960px;">
+          <div class="main-gallery">
+            <!-- style="position:relative: top: -40px;margin-top: 16px; width: 960px;" -->
             <div class="mask" style="height: 264px;">
               <ul>
                 <li style="display:block;"><a href="https://www.albany.edu/chsr/dmac/about.shtml" target="_blank">
@@ -120,11 +125,6 @@
             <h1>Data Management &amp; Analytics Center<span
                 style="font-size:.8em; font-style:italic;font-style: italic;"></span></h1>
             <!-- news block -->
-            <STYLE type="text/css">
-              .text-place {
-                margin-bottom: 20px;
-              }
-            </STYLE>
             <!--         -->
             <h2>Contact Us</h2>
 
