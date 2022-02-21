@@ -29,10 +29,6 @@
 
   <script type="text/javascript" src="../hpfiles/jquery-1.7.2.min.js"></script>
   <script type="text/javascript" src="../hpfiles/jquery.main.js"></script>
-
-  </div>
-  </div>
-
 </head>
 
 <body>
@@ -100,7 +96,8 @@
               <!-- submenu -->
             </div>
           </div>
-          <div class="main-gallery" style="position:relative: top: -40px;margin-top: 16px; width: 960px;">
+          <div class="main-gallery">
+            <!-- style="position:relative: top: -40px;margin-top: 16px; width: 960px;" -->
             <div class="mask" style="height: 264px;">
               <ul>
                 <li style="display:block;"><a href="https://www.albany.edu/chsr/index.shtml" target="_blank">
@@ -435,7 +432,7 @@
               <p style="margin-top: 20px; padding-bottom: 15px;"> <strong>Center for Human Services Research&nbsp;
                 </strong><br />
                 135 Western Avenue<br />
-                Albany, NY 12222</br> Phone: (518) 442-5762
+                Albany, NY 12222</br> Phone: (518) 591-8615
                 <br />
                 Fax: (518) 442-5732<br /> <A href="mailto:chsr@albany.edu">Email CHSR</A>
 

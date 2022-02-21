@@ -13,8 +13,43 @@
     <link media="all" rel="stylesheet" type="text/css"
         href="https://www.albany.edu/chsr/Publications/css/chsr_css.css" />
     <style type="text/css">
-        a:link {
-            text-decoration: none;
+        .paragraph-text-link:link {
+            text-decoration: underline;
+            border-bottom: 3px solid #34075f;
+            font-size: 0.9em;
+            transition: all 0.25s linear;
+            position: relative;
+        }
+
+        .paragraph-text-link:hover {
+            background-color: #9c870e;
+            transition: cubic-bezier(0.785, 0.135, 0.15, 0.86);
+        }
+
+        .paragraph-text-link:before {
+            content: "";
+            display: block;
+            width: 100%;
+            height: 3px;
+            background-color: #9c870e;
+            position: absolute;
+            left: 0;
+            bottom: -3px;
+            /* this is to match where the border is */
+            transform-origin: center;
+            transform: scale(0);
+            transition: 0.25s linear;
+            /*   will-change: transform; */
+        }
+
+        .paragraph-text-link:hover:before {
+            transform: scale(1);
+        }
+
+        p {
+            font-size: 1.1em;
+            font-weight: 400;
+            margin-bottom: 20px;
         }
 
         .additional-links li a {
@@ -28,14 +63,14 @@
         .side-menu {
             margin: 0;
         }
+
+        .text-place {
+            margin-bottom: 10px;
+        }
     </style>
 
     <script type="text/javascript" src="../hpfiles/jquery-1.7.2.min.js"></script>
     <script type="text/javascript" src="../hpfiles/jquery.main.js"></script>
-
-    </div>
-    </div>
-
 </head>
 
 <body>
@@ -50,7 +85,8 @@
                         <!-- logo -->
                         <h1 class="logo" title="Center for Human Services Research"
                             style="background-image:url(assets/chsr_logo.jpg); margin-top:5px;height: 60px;width: 400px;">
-                            <img src="assets/chsr_logo.jpg" width="400" height="47" alt="" /></h1>
+                            <img src="assets/chsr_logo.jpg" width="400" height="47" alt="" />
+                        </h1>
                         <div class="side-block">
                             <div class="row">
 
@@ -106,7 +142,8 @@
                             <!-- submenu -->
                         </div>
                     </div>
-                    <div class="main-gallery" style="position:relative: top: -40px;margin-top: 16px; width: 960px;">
+                    <div class="main-gallery">
+                        <!-- style="position: relative; top: -40px; margin-top: 16px; width: 960px;" -->
                         <div class="mask" style="height: 264px;">
                             <ul>
                                 <li style="display:block;"><a href="https://www.albany.edu/chsr/index.shtml"
@@ -123,272 +160,62 @@
             <div id="main">
                 <div id="twocolumns">
                     <div id="content">
-                        <h2>Center For Human Services Research<span
-                                style="font-size:.8em; font-style:italic;font-style: italic;"></span></h2>
-                        <!-- news block -->
-                        <STYLE type="text/css">
-                            .text-place {
-                                margin-bottom: 20px;
-                            }
-                        </STYLE>
-                        <ul class="news-block">
+                        <h2>Center For Human Services Research
+                            <span style="font-size:.8em; font-style:italic;font-style: italic;"></span>
+                        </h2>
+
+                        <h3>&nbsp;</h3>
+                        <p>
+                            The Center for Human Services Research (CHSR) has over 30 years of experience in social
+                            service research and evaluation.
+                            CHSR is dedicated to developing empirically-based knowledge to improve the design and
+                            delivery of services that address
+                            social issues and meet community needs in the Capital region, across New York State, and
+                            across the United States. We
+                            conduct evaluation research and design information systems to inform policymakers and
+                            service providers across a broad
+                            spectrum of fields serving vulnerable and marginalized populations using our
+                            sophisticated research, technical, and
+                            management skills. CHSR values integrity in its work and is dedicated to providing
+                            timely, accurate, and non-partisan
+                            information to guide best practice in the human services.
+                        </p>
+                        <p>
+                            CHSR also houses the Data Management and Analytics Center (DMAC), which supports
+                            University at Albany researchers by
+                            providing consulting and more extensive services for analytical, survey design and
+                            implementation, research and
+                            methodology, and research technology needs. For more information about DMAC, please
+                            visit
+                            <a class="paragraph-text-link" href="https://www.albany.edu/chsr/dmac/about.shtml">DMAC</a>.
+                        </p>
+                        <p>&nbsp;</p>
+                        <h2>OUR WORK</h2>
+                        <h3>&nbsp;</h3>
+                        <p>
+                            CHSR areas of inquiry and expertise cover a wide range of topics including education and
+                            early childhood development;
+                            children, family, and elder services; health behavior and services; economic and
+                            community development; and criminal and
+                            juvenile justice; for more information, see Content Areas. Our staff are skilled at
+                            qualitative and quantitative
+                            evaluation and research, program development, and system and software development; for
+                            more information, see Skills &
+                            Expertise. CHSR has developed significant partnerships with several University entities
+                            and with government offices and
+                            non-profit service providers throughout New York State, and has written successful grant
+                            applications for local, state,
+                            and federal funding.
+                        </p>
+                        <p>
+                            For more information on CHSR’s past and current projects, please visit our
+                            <a class="paragraph-text-link" href="project_areas.shtml">project archive</a>.
+                        </p>
+                        <p>&nbsp;</p>
 
-                            <h3>&nbsp;</h3>
-                            <h3> The Center for Human Services Research (CHSR) has nearly 30 years of experience writing
-                                grants, conducting evaluation research, designing information systems and informing
-                                policy and program development for a broad spectrum of agencies that serve vulnerable
-                                populations.</h3>
-                            <p>&nbsp;</p>
-                            <h2>NEWS</h2>
-
-                            <li>
-                                <div>
-                                    <a href="https://www.albany.edu/chsr/Publications/HFNY_CE_Research_Brief_Y1.pdf"><img
-                                            src="images/reports/HFNY_CE_Research_Brief_Y1.png" width="179" height="232"
-                                            alt="" />
-                                    </a>
-                                </div>
-
-                                <div class="text-place" style="margin-bottom: 10px;">
-
-                                    <strong class="subject" style="text-transform:uppercase;">
-
-                                        Research (April 2021)
-
-                                    </strong>
-
-                                    <h3><a
-                                            href="https://www.albany.edu/chsr/Publications/HFNY_CE_Research_Brief_Y1.pdf">
-                                            <p>Healthy Families New York: Findings from a Pilot Study of Enrollment
-                                                Processes (April 2021)</p>
-                                        </a>
-                                    </h3>
-
-
-                                    <p>
-                                    </p>
-                                </div>
-                            </li>
-
-                            <li>
-                                <div>
-                                    <a href="https://www.albany.edu/chsr/Publications/HFW_Medicaid_RB.pdf"><img
-                                            src="images/reports/HFW_Medicaid_RB.png" width="179" height="232" alt="" />
-                                    </a>
-                                </div>
-
-                                <div class="text-place" style="margin-bottom: 10px;">
-
-                                    <strong class="subject" style="text-transform:uppercase;">
-
-                                        Research (December 2020)
-
-                                    </strong>
-
-                                    <h3><a href="https://www.albany.edu/chsr/Publications/HFW_Medicaid_RB.pdf">
-                                            <p>Family Outcomes &amp; Medicaid Research Brief: High Fidelity Wraparound
-                                                Participation Significantly Reduces Residencial Treatment Facility
-                                                Spending (December 2020)</p>
-                                        </a>
-                                    </h3>
-
-
-                                    <p>
-                                    </p>
-                                </div>
-                            </li>
-
-                            <li>
-                                <div class="text-place" style="margin-bottom: 10px;">
-
-                                    <strong class="subject" style="text-transform:uppercase;">
-
-                                        Publication (Winter 2020)
-
-                                    </strong>
-
-                                    <h3><a href="https://www.albany.edu/chsr/Publications/BHN-Winter2020_p18.pdf">
-                                            <p>Early Findings From a Tri-County Collaborative Approach to Addressing the
-                                                Opioid Crisis (Winter 2020, p.18)</p>
-                                        </a>
-                                    </h3>
-                                    <div>
-                                        <a href="https://www.albany.edu/chsr/Publications/BHN-Winter2020_p18.pdf"><img
-                                                src="Publications/BHN-Winter2020_p18.png" width="497" height="310"
-                                                alt="" />
-                                        </a>
-                                    </div>
-
-                                    <div class="text-place" style="margin-bottom: 10px;">
-
-                                    </div>
-                            </li>
-
-                            <li>
-                                <div>
-                                    <a
-                                        href="https://www.albany.edu/chsr/Publications/Kinship_Navigator_Infographic_7_27_2020.pdf"><img
-                                            src="images/Kinship_Navigator_Infographic_7_27_2020.jpg" width="179"
-                                            height="232" alt="" />
-                                    </a>
-                                </div>
-
-                                <div class="text-place" style="margin-bottom: 10px;">
-
-                                    <strong class="subject" style="text-transform:uppercase;">
-
-                                        Evaluation (June 2020)
-
-                                    </strong>
-
-                                    <h3><a
-                                            href="https://www.albany.edu/chsr/Publications/Kinship_Navigator_Infographic_7_27_2020.pdf">
-                                            <p>New York State (NYS) Kinship Navigator System of Care Evaluation (June
-                                                2020)</p>
-                                        </a>
-                                    </h3>
-
-
-                                    <p>
-                                    </p>
-                                </div>
-                            </li>
-
-
-                            <!--
-<li>
-<div>
-	<a href="https://www.albany.edu/chsr/Publications/Kinship_Navigator_Infographic_7_27_2020.pdf"><img src="images/psmbmg0304sp.jpg" width="210" height="130" alt=""/>
-    </a></div>
-
-<div class="text-place" style="margin-bottom: 10px;">
-
-<strong class="subject" style="text-transform:uppercase;">
-
-     Presentations (March 2020)
-
-</strong>          
-</strong>          
-<h3><a href="https://www.albany.edu/chsr/Publications/Survey_Presentation_March_2020.pdf">
-<p>Survey Tips and Tricks: Considerations for Survey Design and Integration of Technology</p></a></h3>
-
-<p>
-</p>
-</div>
-</li>
--->
-
-                            <!--
-<li>
-<div>
-	<a href="https://www.albany.edu/chsr/Publications/NYS SOC Year 3 Report 2020.pdf"><img src="images/reports/NYS_SOC_Year_3_Report_2020.png" width="170" height="220" alt=""/>
-    </a></div>
-
-<div class="text-place" style="margin-bottom: 10px;">
-
-<strong class="subject" style="text-transform:uppercase;">
-
-     Evaluation (February 2020)
-
-</strong>
--->
-                            <!--
-
-<h3><a href="https://www.albany.edu/chsr/Publications/NYS SOC Year 3 Report 2020.pdf">
-<p>New York State System of Care Wraparound Evaluation Report (Third Year)</p>
-</a>
-</h3>
-
-
-<p>
-</p>
-</div>
-</li>
-					
-					
-<li>
-<div>
-	<a href="https://www.albany.edu/chsr/Publications/Albany%20County%20Equity%20Agenda%202019_Strategic%20Planning%20Full%20Report_Final.pdf"><img src="images/albanyequity_report.jpg" width="170" height="220" alt=""/>
-    </a></div>
-
-<div class="text-place" style="margin-bottom: 10px;">
-
-<strong class="subject" style="text-transform:uppercase;">
-
-     Strategic Planning (February 2020)
-
-</strong>
-
-<h3><a href="https://www.albany.edu/chsr/reports/Albany%20County%20Equity%20Agenda%202019_Strategic%20Planning%20Full%20Report_Final.pdf">
-<p>2020-2025 Equity Agenda Strategic Planning Report (Albany County, New York)</p>
-</a>
-</h3>
-
-
-<p>
-</p>
-</div>
-</li>
--->
-
-                            <!--
-           
-<li style="padding-bottom:0px;">
-<div>
-
-<a href="https://www.albany.edu/chsr/Publications/TWDRB_january_2020.pdf"><img src="images/reports/TWDRB__January_2020.png" width="170" height="220" alt=""/>
-    </a></div>
-
-<div class="text-place">
-
-
-<strong class="subject" style="text-transform:uppercase;">
-Research Brief (January 2020)
-</strong>
-
-
-
-
-
-<h3><a href="https://www.albany.edu/chsr/Publications/TWDRB_january_2020.pdf">
-    <p>Identifying Enhancements to HFW Training, Coaching, and Supervision</p></a>
-    </h3>
-
-
-<p>
-</p>
-
-</div>
-</li>
--->
-
-
-
-
-
-
-                        </ul>
-
-                        <!--         -->
-                        <strong><a href="https://www.albany.edu/chsr/publications.shtml" class="more-link">
-                                <font size="3">See all Our Publications</font>
-                            </a></strong>
                     </div>
                     <!-- aside -->
                     <div class="aside">
-
-
-
-                        <!-- Pub Date Tuesday, July 16, 2019 4:00 PM -->
-
-
-
-
-
-
-                        <!-- RedDot PAGE 87082 -->
-
-
                         <!-- Right Column Begins ---------------------->
                         <!-- Linkedin BOX BEGINS ------------------------------------------------>
                         <div class="box" style="padding-bottom: 16px; margin-top: -10px;">
@@ -405,18 +232,6 @@ Research Brief (January 2020)
                         </div>
                         <!-- Linkedin BOX ENDS ------------------------------------------------>
                         <!-- SURVEY RESEARCH CENTER BEGIN ---------------------------->
-
-                        <!--
-		<div class="box">
-        <h2 class="border-gray-top"><a href="https://www.albany.edu/SurveyResearchCenter/index.html">Survey Research Center</a> <span style="font-size: 12px;"><a href="https://www.albany.edu/SurveyResearchCenter/index.html"></a></span></h2>
-        <p><strong>The Survey Research Center, University at Albany offers faculty and staff the resources necessary to conduct large and small-scale studies</strong></p>
-        <ul class="additional-links">
-            <li><a href="https://www.albany.edu/SurveyResearchCenter/datacollection.html">Data Collection</a> </li>
-			<li><a href="https://www.albany.edu/SurveyResearchCenter/it_solutions.html" title="Sponsored Programs Administration Page">IT Solutions</a></li>			
-			<li><a href="https://www.albany.edu/SurveyResearchCenter/study_design.html" title="Sponsored Programs Administration Page">Study Design</a></li>
-        </ul> </div>	
--->
-
                         <div class="box">
                             <h2 class="border-gray-top"><a href="https://www.albany.edu/chsr/dmac/about.shtml">Data
                                     Management and Analytics Center (DMAC)</a> <span style="font-size: 12px;"><a
@@ -427,29 +242,6 @@ Research Brief (January 2020)
                                 services include: consulting, research partnerships, and workshops.</p>
                         </div>
                         <!-- SURVEY RESEARCH CENTER ENDS ---------------------------->
-                        <!-- STUDENT RESEARCH BOX BEGIN ----------------------------
-        <div class="box">
-        <h2 class="border-gray-top">STUDENT RESEARCH</h2>
-        <p><a href="/news/81686.php?WT.source=research" class="boxRightHeadline">Adding Sound to the Ancient Past</a></p>
-        <p>UAlbany Doctoral Student Kristy Primeau is a pioneer in acoustic archaeology, the study of how sounds would have been heard by people moving through their landscape in ancient times.</p>
-        <p><a href="/news/81686.php?WT.source=research" class="learnmore">Learn More</a></p>
-        </div>
-        -- STUDENT RESEARCH BOX ENDS ---------------------------->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
                         <div class="contact box">
                             <h2 style="border-top: 10px solid #e4e2e2;">Contact Us</h2>
@@ -457,112 +249,36 @@ Research Brief (January 2020)
                             <p style="margin-top: 20px; padding-bottom: 15px;"> <strong>Center for Human Services
                                     Research&nbsp; </strong><br />
                                 135 Western Avenue<br />
-                                Albany, NY 12222</br> Phone: (518) 442-5762
+                                Albany, NY 12222</br> Phone: (518) 591-8615
                                 <br />
                                 Fax: (518) 442-5732<br /> <A href="mailto:chsr@albany.edu">Email CHSR</A>
 
-
                                 <br /><br /><A href="https://www.albany.edu/chsr/Staff.shtml">Staff Directory</A>
                             </p>
-
                         </div>
-
                     </div>
                     <!-- Aside DIV ENDS -->
                 </div>
                 <!-- sidebar -->
                 <div id="sidebar">
-
-
-
-
                     <!-- Getting Started BEGIN -->
-
                     <div class="heading-block">
                         <!-- OLD HEADING was background-image:url('includes/include_homepage_research_changes_lives.png -->
                         <h3 class="getting-started-text" style="background-image:url('https://www.albany.edu');">
                             Getting Started at UAlbany</h3>
                     </div>
                     <!-- Getting Started END -->
-
-                    <!-- Pub Date Monday, January 28, 2019 9:46 AM -->
-
-
-
-
-
-
                     <!-- RedDot PAGE 32220 -->
                     <!-- Left Menu Include Begin -->
                     <ul class="side-menu">
-                        <li><a href="index.shtml">Home </a></li>
-                        <li><a href="About_Us.shtml">About Us </a></li>
-                        <li><a href="Research_Evaluation.shtml">Evaluation &amp; Research </a></li>
-                        <li><a href="program_development.shtml">Program Development </a></li>
-                        <li><a href="Systems_Software_Development.shtml">Systems &amp; Software Development </a></li>
-                        <li><a href="project_areas.shtml">Projects </a></li>
-                        <li><a href="publications.shtml">Publications </a></li>
-                        <li><a href="Staff.shtml">Staff Directory </a></li>
-
+                        <li><a href="index.shtml">Home</a></li>
+                        <li><a href="skills_expertise.shtml">Skills &amp; Expertise</a></li>
+                        <li><a href="content_areas.shtml">Content Areas</a></li>
+                        <li><a href="publications.shtml">Publications</a></li>
+                        <li><a href="Staff.shtml">Staff Directory</a></li>
                         <li><a href="Contact_Us.shtml">Contact Us </a></li>
                     </ul>
                     <!-- Left Menu Include Ends -->
-                    <!-- Left Menu Include Ends -->
-                    <!-- DIV Support Offices BEGINS RedDot 32220 -->
-                    <div class="box" style="padding-bottom: 1px;">
-
-                        <!--   <ul class="additional-links">
-            <li><a href="https://www.albany.edu/orrc/">Data Management and Analytics Center </a> </li>
-			<li><a href="https://www.albany.edu/spa/" title="Sponsored Programs Administration Page">Systems &amp; Software Development</a></li>			
-			<li><a href="https://www.albany.edu/spa/" title="Sponsored Programs Administration Page">Survey Research Center</a></li>
-
-        </ul> -->
-                    </div>
-
-
-
-                    <!-- DIV Support Offices Ends-->
-                    <div class="box">
-                        <div>
-                            <!-- <ul class="additional-links">
-            <li>Data procurement</li>
-            <li>Data management and security</li>
-            <li>File preparation and data cleaning</li>
-            <li>Other Analytic support</li>
-        </ul> -->
-                        </div>
-
-
-                    </div>
-
-                    <div class="box">
-                        <div>
-                            <!-- <ul class="additional-links">
-            <li>Data procurement</li>
-            <li>Data management and security</li>
-            <li>File preparation and data cleaning</li>
-            <li>Other Analytic support</li>
-        </ul> -->
-                        </div>
-
-
-                    </div>
-                    <!-- END Research Showcase Begin -- 
-        <div class="box">
-        <h2 class="border-gray-top">Data Management and Analytics Center</h2>
-			<h4>DMAC provides customized data management support at the University at Albany. Our services are provided free of charge and include:</h4>
-			<div>
-        <ul class="additional-links">
-            <li>Data procurement</li>
-            <li>Data management and security</li>
-            <li>File preparation and data cleaning</li>
-            <li>Other Analytic support</li>
-        </ul>
-        </div>
-        </div>
-    
-             
-        <!-- END Research Showcase Begin -->
                 </div>
             </div>
             <!-- footer -->
@@ -575,11 +291,13 @@ Research Brief (January 2020)
                     <li><a href="https://www.albany.edu/contact.shtml">Contact Us</a></li>
                     <li><a href="https://www.albany.edu/main/employment.shtml">Jobs</a></li>
                     <!--<li><a href="https://www.albany.edu/emergency/index.php">SUNY NY-Alert</a></li>-->
-                    <li><a href="https://police.albany.edu/ASR.shtml">Annual Security and Fire Safety Report</a></li>
+                    <li><a href="https://police.albany.edu/ASR.shtml">Annual Security and Fire Safety Report</a>
+                    </li>
                     <li><a href="https://wiki.albany.edu/x/IR7-AQ">Internet Privacy Policy</a></li>
                     <li><a href="https://www.albany.edu/emergency/index.php">UAlbany Alert</a></li>
                     <li><a href="https://www.albany.edu/veterans/">Veterans Affairs</a></li>
-                    <li><a href="https://wiki.albany.edu/display/middlestates/Home">Middle States Self-Study</a></li>
+                    <li><a href="https://wiki.albany.edu/display/middlestates/Home">Middle States Self-Study</a>
+                    </li>
                 </ul>
                 <a href="https://www.albany.edu/gogreen/index.shtml?WT.source=home" class="green-label">UAlbany is
                     Green!</a> <span>&copy;&nbsp;2020 University at Albany</span>
@@ -588,16 +306,21 @@ Research Brief (January 2020)
     </div>
     <!--Google Analytics-->
     <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WNRD5G" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function (w, d, s, l, i) {
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WNRD5G" height="0" width="0"
+            style="display:none;visibility:hidden">
+        </iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
             w[l] = w[l] || []; w[l].push({
                 'gtm.start':
                     new Date().getTime(), event: 'gtm.js'
             }); var f = d.getElementsByTagName(s)[0],
                 j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
                     '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-WNRD5G');</script>
+        })(window, document, 'script', 'dataLayer', 'GTM-WNRD5G');
+    </script>
     <!-- End Google Tag Manager -->
 </body>
 
