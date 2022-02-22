@@ -267,12 +267,12 @@
           <!-- Getting Started END -->
           <!-- Left Menu Include Begin -->
           <ul class="side-menu">
-            <li><a href="index.shtml">Home</a></li>
-            <li><a href="skills_expertise.shtml">Skills &amp; Expertise</a></li>
-            <li><a href="content_areas.shtml">Content Areas</a></li>
-            <li><a href="publications.shtml">Publications</a></li>
-            <li><a href="Staff.shtml">Staff Directory</a></li>
-            <li><a href="Contact_Us.shtml">Contact Us </a></li>
+            <li><a href="../index.shtml">Home</a></li>
+            <li><a href="../skills_expertise.shtml">Skills &amp; Expertise</a></li>
+            <li><a href="../content_areas.shtml">Content Areas</a></li>
+            <li><a href="../publications.shtml">Publications</a></li>
+            <li><a href="../Staff.shtml">Staff Directory</a></li>
+            <li><a href="../Contact_Us.shtml">Contact Us </a></li>
           </ul>
           <!-- Left Menu Include Ends -->
           <!-- DIV Support Offices BEGINS RedDot 32220 -->
