@@ -9,6 +9,7 @@
   <title>Center for Human Services Research - University at Albany - SUNY</title>
 
   <link media="all" rel="stylesheet" type="text/css" href="https://www.albany.edu/hpfiles/homepages-spring-2015.css" />
+
   <style type="text/css">
     a:link {
       text-decoration: none;
@@ -26,14 +27,14 @@
       margin: 0;
     }
 
-    .center {}
-
-    .black {}
+    .bios_list {}
   </style>
 
   <script type="text/javascript" src="../hpfiles/jquery-1.7.2.min.js"></script>
   <script type="text/javascript" src="../hpfiles/jquery.main.js"></script>
-
+  <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+  <script type="text/javascript" src="https://www.albany.edu/js/tab.js"></script>
+  <script type="text/javascript" src="https://www.albany.edu/js/main.js"></script>
   </div>
   </div>
 
@@ -116,15 +117,13 @@
 
         </div>
       </div>
-
       <!-- main block -->
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <p style="font-size:26px;"><span class="intro"><strong>Coordinated Children’s Service Initiative Evaluation
-            </p></strong>
+            <h1>Margaret Gullick</h1>
+            <h1><img src="images/Headshots/mgullick.jpg" width="260" height="162" style="float: right;" /></h1>
             <!-- news block -->
-
             <STYLE type="text/css">
               .text-place {
                 margin-bottom: 20px;
@@ -138,93 +137,45 @@
             <div class="text-place" style="margin-bottom: 10px;">
               </strong>
 
+              <p class="intro">Director</p>
+              <p><strong>E-mail: </strong><a href="mailto:mgullick@albany.edu">mgullick@albany.edu</a><br />
+                <strong>Telephone: </strong><a href="tel:(518)591-8749"> (518)591-8749</a><br />
+              </p>
+              <p>&nbsp;</p>
+              <p><strong>Specialization:<br />
+                </strong> <br />
+                Cognitive Neuroscience<br />
+                Cognitive Psychology
+                <br />
+              </p>
+              <p><strong>Projects:</strong><br />
+                <br />
+                <a href="echo.shtml">ECHO Collaborative</a><br />
+                <a href="HerJustice.shtml">Her Justice</a><br />
+                <a href="hfny.shtml">Healthy Families New York Evaluation</a><br />
+                <a href="MRT.shtml">MRT Supportive Housing Initiative</a></strong><br />
+                <a href="achieve.shtml">SAMHSA System of Care Expansion Grants</a></strong><br />
 
-              <p style="font-size:14px;"><span class="intro">The Coordinated Children’s Service Initiative (CCSI) began
-                  in the 1990s as a multi-agency approach to reduce out-of-home placements of children with emotional
-                  disabilities by creating locally coordinated systems of care. CHSR conducted an implementation and
-                  outcome study of CCSI in 1998.</p>
+              </p>
 
-              <p style="font-size:18px;"><strong><span class="intro">Evaluation &amp; Research</span></strong></p>
-
-
-              <p style="font-size:14px;">The CCSI study consisted of a combination of qualitative and quantitative
-                methods. For the qualitative component, CHSR conducted on-site structured interviews with participants
-                in eight counties that implemented CCSI in its earliest stages. In the quantitative component, we
-                analyzed placement data from the child welfare, education, juvenile justice, and mental health
-                residential placement systems. We compared CCSI counties with non-CCSI counties and examined changes in
-                placements over time, changes in placements by service system, and the potential cost savings of averted
-                placements. The study culminated in a report to the <a href="http://ccf.ny.gov/" target="_blank">New
-                  York State Council on Children and Families</a> that described CCSI’s strengths and challenges,
-                provided some evidence that CCSI contributed to declines in out-of-home placements for participating
-                children, and offered a series of recommendations to guide future practice. </p>
+              <p>Margaret joined CHSR in 2017 as a researcher on the Healthy Families New York project. Before making
+                her way to CHSR, Margaret was a postdoctoral research associate for the Developmental Cognitive
+                Neuroscience Lab at Northwestern University and the Brain Development Lab at the University of Texas at
+                Austin. Her previous research focused on examining how children’s educational outcomes are impacted and
+                predicted by individual differences in brain structure and function, socio-economic status, and skill,
+                using behavioral and brain imaging methodologies. This work has been published in journals such as
+                Developmental Science, Journal of Cognitive Neuroscience, and Learning and Individual Differences.</p>
+              <p>Margaret received her Bachelor’s degree in Psychology and History from Wesleyan University and her PhD
+                in Cognitive Neuroscience from Dartmouth College.</p>
 
 
-              <p style="font-size:14px;">For more information, contact <a href="rgreene.shtml">Rose
-                  Greene</a></strong><a href="rgreene.shtml"> &nbsp; </p>
+              <p>&nbsp;</p>
 
+              <ul
+                style="margin-left: 0px; margin-right: 10px; padding-right: 10px; padding-left: 0px; list-style-type: none; margin-top:-10px;">
 
+              </ul>
             </div>
-
-            <!--
-                              <h2><a name="PartnerLinks" id="PartnerLinks"></a>Partner Links</h2>
-                              <h3><a name="Local" id="Local"></a>Local Partners</h3>                              
-                              <ul
-			   				  <li><a href="http://www.albanyschools.org/" target="_blank">Addictions Care  Center of Albany, Inc.  </a></li>
-                              <li><a href="http://www.arhn.org/" target="_blank">Adirondack Rural Health Network</a></li>
-                              <li><a href="http://www.albanycounty.com/cyf/" target="_blank">Albany County  Department for Children, Youth and Families</a>  </li>
-                              <li><a href="http://www.albanyny.gov/Government/Departments/PublicSafety/PoliceDepartment.aspx" target="_blank">Albany Police Department</a></li>
-                              <li><a href="http://www.albanyfamilyeducationalliance.org/" target="_blank">Albany Family  Education Alliance  </a></li>
-                               <li><a href="http://www.capbigs.org/" target="_blank">Big Brothers Big  Sisters of the Capital Region</a>  </li>
-                              <li><a href="http://www.albanyschools.org/" target="_blank">City School  District of Albany</a></li>
-                              <li><a href="http://www.communityfund.org/" target="_blank">Community  Foundation of Elmira-Corning and the Finger Lakes</a></li>
-                                 <li><a href="http://www.glensfallshospital.org/" target="_blank">Glens Falls Hospital</a></li>
-                              <li><a href="http://www.homewardboundadirondacks.org/" target="_blank">Homeward Bound Adirondacks</a></li>
-                              <li><a href="HFMIScrobohn2.shtml" target="_blank">HF ONLINE</a></li>
-                              <li><a href="http://www.avp.org/index.php" target="_blank">New York City Anti-Violence Project </a>  </li>
-                              <li><a href="http://www.neparentchild.org/" target="_blank">Northeast Parent  and Child Society</a>  </li>
-                              <li><a href="http://www.albany.edu/gogreen/" target="_blank">The Office of Environmental Sustainability</a></li> 
-                             <li><a href="http://www.co.orange.ny.us/content/124/1348/" target="_blank">Orange County Department of Mental Health</a></li> 
-                             <li><a href="http://mysystemofcare.com/" target="_blank">Orange County System of Care</a>  </li>
-                             <li><a href="http://www.parsonscenter.org/site/PageServer?pagename=home_index" target="_blank">Parsons Child and  Family Center</a></li>
-                              <li><a href="http://www.albany.edu/scj/" target="_blank">University at Albany, State University of New York - School of Criminal Justice </a></li>
-                              <li><a href="http://www.albany.edu/ssw/" target="_blank">University at Albany, State University of New York - School of Social Welfare</a></li>
-                             <li><a href="http://women.westchestergov.com/" target="_blank">Westchester County Office for Women</a></li> 
-                            <li><a href="http://www.wmht.org/splash.php" target="_blank">WMHT Educational  Telecommunications</a></li>              
-                              </ul>
-                              
-                             <h3><a name="State" id="State"></a>State Partners</h3>
-							<ul	  
-                            <li><a href="http://www.ftnys.org/" target="_blank">Families Together of New York State</a></li>
-                            <li><a href="http://www.healthresearch.org/" target="_blank">Health Research  Inc.</a>  </li>
-                            <li><a href="http://hungersolutionsny.org/" target="_blank">Hunger Solutions New York</a></li>
-                            <li><a href="http://www.clmhd.org/" target="_blank">New York  Conference of Local Mental Hygiene Directors</a> &nbsp;<a href="http://www.clmhd.org/"></a> </li>
-                            <li><a href="http://www.newyorkersvolunteer.org/" target="_blank">New York State AmeriCorps</a></li>
-                            <li><a href="http://www.health.state.ny.us/" target="_blank">New York State Department of  Health</a></li>
-                            <li><a href="http://www.nysnavigator.org/" target="_blank">New York State Kinship Navigator </a>  </li>
-                            <li><a href="http://www.ocfs.state.ny.us/main/" target="_blank">New York State Office of  Children and Family Services</a></li>
-                            <li><a href="http://www.opwdd.ny.gov/" target="_blank">New York State Office for People with Developmental Disabilities</a></li>                            
-                            <li><a href="http://www.opdv.ny.gov/" target="_blank">New York State Office for the Prevention of Domestic Violence</a></li>
-                             <li><a href="http://nyspha.roundtablelive.org/" target="_blank">New York State Public Health  Association</a></li>
-                           <li><a href="http://www.nutritionconsortium.org/" target="_blank">Nutrition  Consortium of New York State</a></li>                             
-                           <li><a href="http://www.preventchildabusenj.org/" target="_blank">Prevent Child  Abuse New Jersey</a>  </li>
-                           <li><a href="http://www.preventchildabuseny.org/" target="_blank">Prevent Child  Abuse New York</a></li> 
-                           <li><a href="http://www.visn2.va.gov/" target="_blank">Veteran’s Administration Health Care Upstate New York</a></li> 
-                            </ul>  
-                              
-                              
-                              
-                              		<h3><a name="National" id="National"></a>National Partners</h3>
-								  <ul>
-                                  <li><a href="http://www.nafi.com/nafinfi/" target="_blank">North American Family Institute</a></li>
-                                  <li><a href="http://www.ed.gov/" target="_blank">U.S. Department of  Education</a></li>
-                                  <li><a href="http://www.ojjdp.gov/" target="_blank">U.S. Office of  Juvenile Justice and Delinquency Prevention</a>  </li>
-                                  <li><a href="http://www.ovw.usdoj.gov/" target="_blank">U.S. Office on Violence Against Women </a></li>
-                                  <li><a href="http://www.samhsa.gov/" target="_blank">U.S. Substance  Abuse and Mental Health Services Administration</a></li>
-                                  
--->
-
-            <p>&nbsp;</p>
-
           </div>
           <!-- aside -->
           <div class="aside">
@@ -256,24 +207,6 @@
             </div>
             <!-- Linkedin BOX ENDS ------------------------------------------------>
             <!-- SURVEY RESEARCH CENTER BEGIN ---------------------------->
-            <!--
-		<div class="box">
-        <h2 class="border-gray-top"><a href="https://www.albany.edu/SurveyResearchCenter/index.html">Survey Research Center</a> <span style="font-size: 12px;"><a href="https://www.albany.edu/SurveyResearchCenter/index.html"></a></span></h2>
-        <p><strong>The Survey Research Center, University at Albany offers faculty and staff the resources necessary to conduct large and small-scale studies</strong></p>
-        <ul class="additional-links">
-            <li><a href="https://www.albany.edu/SurveyResearchCenter/datacollection.html">Data Collection</a> </li>
-			<li><a href="https://www.albany.edu/SurveyResearchCenter/it_solutions.html" title="Sponsored Programs Administration Page">IT Solutions</a></li>			
-			<li><a href="https://www.albany.edu/SurveyResearchCenter/study_design.html" title="Sponsored Programs Administration Page">Study Design</a></li>
-        </ul> </div>	
--->
-            <div class="box">
-              <h2 class="border-gray-top"><a href="https://www.albany.edu/chsr/dmac/about.shtml">Data Management and
-                  Analytics Center (DMAC)</a> <span style="font-size: 12px;"><a
-                    href="https://www.albany.edu/chsr/Program_Dev_Community_Engage.shtml"></a></span></h2>
-              <p>DMAC provides data management and analytics support to researchers at the University at Albany within
-                the Center for Human Services Research. Our customized research support services include: consulting,
-                research partnerships, and workshops.</p>
-            </div>
             <!-- SURVEY RESEARCH CENTER ENDS ---------------------------->
             <!-- STUDENT RESEARCH BOX BEGIN ----------------------------
         <div class="box">
@@ -343,46 +276,7 @@
           </ul>
           <!-- Left Menu Include Ends -->
           <!-- DIV Support Offices BEGINS RedDot 32220 -->
-          <div class="box" style="padding-bottom: 1px;">
-            <div>
-            </div>
-
-            <!--   <ul class="additional-links">
-            <li><a href="https://www.albany.edu/orrc/">Data Management and Analytics Center </a> </li>
-			<li><a href="https://www.albany.edu/spa/" title="Sponsored Programs Administration Page">Systems &amp; Software Development</a></li>			
-			<li><a href="https://www.albany.edu/spa/" title="Sponsored Programs Administration Page">Survey Research Center</a></li>
-
-        </ul> -->
-          </div>
-
           <!-- DIV Support Offices Ends-->
-          <div class="box">
-
-            <div>
-              <!-- <ul class="additional-links">
-            <li>Data procurement</li>
-            <li>Data management and security</li>
-            <li>File preparation and data cleaning</li>
-            <li>Other Analytic support</li>
-        </ul> -->
-            </div>
-
-
-          </div>
-
-          <div class="box">
-
-            <div>
-              <!-- <ul class="additional-links">
-            <li>Data procurement</li>
-            <li>Data management and security</li>
-            <li>File preparation and data cleaning</li>
-            <li>Other Analytic support</li>
-        </ul> -->
-            </div>
-
-
-          </div>
           <!-- END Research Showcase Begin -- 
         <div class="box">
         <h2 class="border-gray-top">Data Management and Analytics Center</h2>
