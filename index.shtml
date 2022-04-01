@@ -50,7 +50,8 @@
                         <!-- logo -->
                         <h1 class="logo" title="Center for Human Services Research"
                             style="background-image:url(assets/chsr_logo.jpg); margin-top:5px;height: 60px;width: 400px;">
-                            <img src="assets/chsr_logo.jpg" width="400" height="47" alt="" /></h1>
+                            <img src="assets/chsr_logo.jpg" width="400" height="47" alt="" />
+                        </h1>
                         <div class="side-block">
                             <div class="row">
 
@@ -141,6 +142,32 @@
                             <p>&nbsp;</p>
                             <h2>NEWS</h2>
 
+                            <li>CHSR is thrilled to share the results of our evaluation of New York State's Medicaid
+                                Redesign Team Supportive Housing
+                                Initiative! The full suite of reports can be found
+                                <a href="MRT.shtml">here</a>, but we've also created three short Research Briefs that
+                                summarize this work.
+                                <ol>
+                                    <li>
+                                        First: we found reductions in Medicaid spending and service utilization after
+                                        enrollment in MRT Supportive Housing.
+                                        <a href="Publications/Research Brief 1_mar22.pdf">Research Brief 1</a>
+                                    </li>
+                                    <li>
+                                        Second: Enrollment in MRT Supportive Housing was found to reduce Medicaid
+                                        spending
+                                        and service utilization significantly
+                                        more than for a matched comparison group.
+                                        <a href="Publications/Research Brief 2_mar22.pdf">Research Brief 2</a>
+                                    </li>
+                                    <li>
+                                        Finally: Enrollment in MRT Supportive Housing resulted in significantly greater
+                                        cross-sector cost savings than
+                                        “treatment as usual.” (post link to RB3)
+                                        <a href="Publications/Research Brief 3_mar22.pdf">Research Brief 3</a>
+                                    </li>
+                                </ol>
+                            </li>
                             <li>
                                 <div>
                                     <a href="https://www.albany.edu/chsr/Publications/HFNY_CE_Research_Brief_Y1.pdf"><img
