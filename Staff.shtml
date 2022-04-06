@@ -223,7 +223,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/mgullick.shtml">
-                      <IMG src="images/headshots/mgullick.jpg" alt="Margaret Gullick,Ph.D."></A>
+                      <IMG src="./images/headshots/mgullick.jpg" alt="Margaret Gullick,Ph.D."></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/mgullick.shtml">Margaret Gullick</A>
                       <BR><SPAN class="staff-position">Director</SPAN>
@@ -240,7 +240,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/rgreene.shtml">
-                      <IMG src="images/headshots/RG_big.JPG" alt="Rose Greene" /></A>
+                      <IMG src="./images/headshots/RG_big.JPG" alt="Rose Greene" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/rgreene.shtml">Rose Greene </A>
                       <BR><SPAN class="staff-position">Director Emeritus</SPAN>
@@ -255,7 +255,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/eberical.shtml">
-                      <IMG src="images/headshots/eberical_new.jpg" alt="Erin Berical" /></A>
+                      <IMG src="./images/headshots/eberical_new.jpg" alt="Erin Berical" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/eberical.shtml">Erin
                         Berical&nbsp;&nbsp;</A>
@@ -272,7 +272,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/dcarner.shtml">
-                      <IMG src="images/headshots/dcarner_new.jpg" alt="Denise Carner" /></A>
+                      <IMG src="./images/headshots/dcarner_new.jpg" alt="Denise Carner" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/dcarner.shtml">Denise Carner</A>
                       <BR><SPAN class="staff-position">Finance Manager</SPAN></P>
@@ -295,7 +295,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/cbarnes.shtml">
-                      <IMG src="images/headshots/CBarnes.JPG" alt="Camille Barnes" /></A>
+                      <IMG src="./images/headshots/CBarnes.JPG" alt="Camille Barnes" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/cbarnes.shtml">Camille Barnes&nbsp;
                         &nbsp; </A>
@@ -313,7 +313,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/tbellick.shtml">
-                      <IMG src="images/headshots/tbellick_staffprofile.jpg" alt="Tyler Bellick" /></A>
+                      <IMG src="./images/headshots/tbellick_staffprofile.jpg" alt="Tyler Bellick" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/tbellick.shtml">Tyler
                         Bellick&nbsp;</A>
@@ -330,7 +330,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/mlbreen.shtml">
-                      <IMG src="images/headshots/mbreen_new2.jpg" alt="Mandi Breen" /></A>
+                      <IMG src="./images/headshots/mbreen_new2.jpg" alt="Mandi Breen" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/mlbreen.shtml">Mandi Breen</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
@@ -346,7 +346,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/christine_callahan.shtml">
-                      <IMG src="images/headshots/ccallahan.jpg" alt="Christine Callahan, PhD" /></A>
+                      <IMG src="./images/headshots/ccallahan.jpg" alt="Christine Callahan, PhD" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/christine_callahan.shtml">Christine
                         Callahan</A>
@@ -364,7 +364,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/jciccone.shtml">
-                      <IMG src="images/headshots/jenny2.jpg" alt="Jennifer Ciccone" /></A>
+                      <IMG src="./images/headshots/jenny2.jpg" alt="Jennifer Ciccone" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/jciccone.shtml">Jennifer Ciccone</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
@@ -380,7 +380,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/sdrazek.shtml">
-                      <IMG src="images/headshots/sarahprofiledrazek2.jpg" alt="Sarah Drazek" /></A>
+                      <IMG src="./images/headshots/sarahprofiledrazek2.jpg" alt="Sarah Drazek" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/sdrazek.shtml">Sarah Drazek</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
@@ -397,7 +397,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/sdietzel.shtml">
-                      <IMG src="images/headshots/sdietzel2.jpg" alt="Susan Ehrhard-Dietzel, Ph.D." /></A>
+                      <IMG src="./images/headshots/sdietzel2.jpg" alt="Susan Ehrhard-Dietzel, Ph.D." /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/sdietzel.shtml">Susan
                         Ehrhard-Dietzel&nbsp;</A>
@@ -414,7 +414,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/sam_gerken.shtml">
-                      <IMG src="images/headshots/sam_gerken.png" alt="Samantha Gerken, M.S." /></A>
+                      <IMG src="./images/headshots/sam_gerken.png" alt="Samantha Gerken, M.S." /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/sam_gerken.shtml">Samantha
                         Gerken</A>
@@ -434,7 +434,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/tlaporte.shtml">
-                      <IMG src="images/headshots/tlaporte_staffprofile.jpg" alt="Thomas LaPorte, PhD." /></A>
+                      <IMG src="./images/headshots/tlaporte_staffprofile.jpg" alt="Thomas LaPorte, PhD." /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/tlaporte.shtml">Thomas LaPorte</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
@@ -451,7 +451,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/rlindenfelser.shtml">
-                      <IMG src="images/headshots/rlindenfelser_spp.jpg" alt="Ruth Lindenfelser, LMSW" /></A>
+                      <IMG src="./images/headshots/rlindenfelser_spp.jpg" alt="Ruth Lindenfelser, LMSW" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/rlindenfelser.shtml">Ruth
                         Lindenfelser</A>
@@ -470,7 +470,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/smcginnis.shtml">
-                      <IMG src="images/headshots/SMcGinnis_spp.jpg" alt="Sandra McGinnis, Ph.D" /></A>
+                      <IMG src="./images/headshots/SMcGinnis_spp.jpg" alt="Sandra McGinnis, Ph.D" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/smcginnis.shtml">Sandra McGinnis</A>
                       <BR><SPAN class="staff-position">Senior Research Scientist</SPAN></P>
@@ -487,7 +487,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/hmeredith.shtml">
-                      <IMG src="images/headshots/hmeredith2.jpg" alt="Holly Meredith, M.S." /></A>
+                      <IMG src="./images/headshots/hmeredith2.jpg" alt="Holly Meredith, M.S." /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/hmeredith.shtml">Holly Meredith</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
@@ -504,7 +504,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/nmahmud.shtml">
-                      <IMG src="images/headshots/nahidwebsite4.jpg" alt="Mir Nahid Mahmud" /></A>
+                      <IMG src="./images/headshots/nahidwebsite4.jpg" alt="Mir Nahid Mahmud" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/nmahmud.shtml">Mir Nahid Mahmud</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
@@ -521,7 +521,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/cnoble.shtml">
-                      <IMG src="images/headshots/Corinne_Noble.JPG" alt="Corinne Noble" /></A>
+                      <IMG src="./images/headshots/Corinne_Noble.JPG" alt="Corinne Noble" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/cnoble.shtml">Corinne Noble
                         &nbsp;</A>
@@ -539,7 +539,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/srain.shtml">
-                      <IMG src="images/headshots/SR_big.JPG" alt="Sarah Rain" /></A>
+                      <IMG src="./images/headshots/SR_big.JPG" alt="Sarah Rain" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/srain.shtml">Sarah Rain</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
@@ -556,7 +556,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/maileray.shtml">
-                      <IMG src="images/headshots/maileyray2.jpg" alt="Maile Ray, D.Sc." /></A>
+                      <IMG src="./images/headshots/maileyray2.jpg" alt="Maile Ray, D.Sc." /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/maileray.shtml">Maile Ray</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
@@ -573,7 +573,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/mriley.shtml">
-                      <IMG src="images/headshots/mriley2.jpg" alt="Moira Riley, Ph.D." /></A>
+                      <IMG src="./images/headshots/mriley2.jpg" alt="Moira Riley, Ph.D." /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/mriley.shtml">Moira Riley, Ph.D.</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
@@ -590,7 +590,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/ARózsavölgyi.shtml">
-                      <IMG src="images/headshots/amanda2.jpeg" alt="Amanda Rózsavölgyi" /></A>
+                      <IMG src="./images/headshots/amanda2.jpeg" alt="Amanda Rózsavölgyi" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/ARózsavölgyi.shtml">Amanda
                         Rózsavölgyi</A>
@@ -610,7 +610,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/absiskind.shtml">
-                      <IMG src="images/headshots/absiskind.jpg" alt="Amy B. Siskind" /></A>
+                      <IMG src="./images/headshots/absiskind.jpg" alt="Amy B. Siskind" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/absiskind.shtml">Amy B. Siskind</A>
                       <BR><SPAN class="staff-position">Senior Research Support Specialist</SPAN></P>
@@ -633,7 +633,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/cpapas.shtml">
-                      <IMG src="images/headshots/cpapas.jpg" alt="Chris Papas" /></A>
+                      <IMG src="./images/headshots/cpapas.jpg" alt="Chris Papas" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/cpapas.shtml">Chris Papas</A>
                       <BR><SPAN class="staff-position">IT Manager/Senior Programmer</SPAN></P>
@@ -651,7 +651,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/jrobohn.shtml">
-                      <IMG src="images/headshots/JR_big.JPG" alt="Jay Robohn" /></A>
+                      <IMG src="./images/headshots/JR_big.JPG" alt="Jay Robohn" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/jrobohn.shtml">Jay Robohn</A>
                       <BR><SPAN class="staff-position">Senior Web Developer</SPAN></P>
@@ -668,7 +668,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/bobrien.shtml">
-                      <IMG src="images/headshots/bobrien4.JPG" alt="Bill O'Brien" /></A>
+                      <IMG src="./images/headshots/bobrien4.JPG" alt="Bill O'Brien" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/bobrien.shtml">William O'Brien</A>
                       <BR><SPAN class="staff-position">Programmer/Analyst</SPAN></P>
@@ -686,7 +686,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/bsimmons.shtml">
-                      <IMG src="images/headshots/ben1.jpg" alt="Ben Simmons" /></A>
+                      <IMG src="./images/headshots/ben1.jpg" alt="Ben Simmons" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/bsimmons.shtml">Ben Simmons</A>
                       <BR><SPAN class="staff-position">Programmer/Analyst</SPAN></P>
@@ -704,7 +704,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/crobohn.shtml">
-                      <IMG src="images/headshots/crobohn0.jpg" alt="Cori Robohn" /></A>
+                      <IMG src="./images/headshots/crobohn0.jpg" alt="Cori Robohn" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/crobohn.shtml">Cori Robohn</A>
                       <BR><SPAN class="staff-position">IT Tech Specialist</SPAN></P>
@@ -726,7 +726,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/Hburns.shtml">
-                      <IMG src="images/headshots/HBurnspic2.jpg" alt="Helen Burns" /></A>
+                      <IMG src="./images/headshots/HBurnspic2.jpg" alt="Helen Burns" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/Hburns.shtml">Helen Burns</A>
                       <BR><SPAN class="staff-position">Research Analyst/Interviewer</SPAN></P>
@@ -743,7 +743,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/fcolon.shtml">
-                      <IMG src="images/headshots/francis_colon2.jpg" alt="Francis Colon" /></A>
+                      <IMG src="./images/headshots/francis_colon2.jpg" alt="Francis Colon" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/fcolon.shtml">Francis Colon</A>
                       <BR><SPAN class="staff-position">Research Interviewer</SPAN></P>
@@ -760,7 +760,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/sguiffrida.shtml">
-                      <IMG src="images/headshots/sguiffrida2.jpg" alt="Shana Guiffrida" /></A>
+                      <IMG src="./images/headshots/sguiffrida2.jpg" alt="Shana Guiffrida" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/sguiffrida.shtml">Shana Guiffrida,
                         B.A.</A>
@@ -779,7 +779,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/falzonewe.shtml">
-                      <IMG src="images/headshots/wendyfal2.jpg" alt="Wendy Falzone" /></A>
+                      <IMG src="./images/headshots/wendyfal2.jpg" alt="Wendy Falzone" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/wfalzone.shtml">Wendy Falzone,
                         M.A.</A>
@@ -802,7 +802,7 @@
                 <li>
                 <div class="card">
                 <A href="https://www.albany.edu/chsr/ckramer.shtml">
-                    <IMG src="images/headshots/ckramer2.jpg" alt="Catherine Kramer" /></A>
+                    <IMG src="./images/headshots/ckramer2.jpg" alt="Catherine Kramer" /></A>
                 <div class="bio-nametitle">
                   <a class="staff-name" href="https://www.albany.edu/chsr/ckramer.shtml">Catherine Kramer</A>
                   <BR><SPAN class="staff-position">Research Assistant, PhD Candidate</SPAN></P>
@@ -829,7 +829,7 @@
                   href="https://www.linkedin.com/company/center-for-human-services-research"><span
                     style="width: 149px; display: inline-block;">FOLLOW CHSR RESEARCH ON
                     Linkedin</span><img width="40" height="40" style="margin: 0px 0px -5px -20px;" alt="Linkedin logo"
-                    src="images/linkedIn-logo.png" /></a></h2>
+                    src="./images/linkedIn-logo.png" /></a></h2>
               <p><strong></strong><a href="https://www.linkedin.com/company/center-for-human-services-research/"
                   <strong></a><strong>Click here to learn more about our recent research, evaluations,
                   analyses, and activities.</strong></p>

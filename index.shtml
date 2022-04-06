@@ -13,6 +13,77 @@
     <link media="all" rel="stylesheet" type="text/css"
         href="https://www.albany.edu/chsr/Publications/css/chsr_css.css" />
     <style type="text/css">
+        /*news block*/
+        .chsr-news-block {
+            margin: 0 0 7px;
+            padding: 0;
+        }
+
+        .chsr-news-block li {
+            font-size: 1.1em;
+            list-style: none;
+            overflow: hidden;
+            padding: 7px 0 6px;
+            /* border-top: 1px solid #adadad; */
+            border-bottom: #EEB111 dashed 1px;
+        }
+
+        .chsr-news-block li:first-child {
+            padding-top: 0;
+            border-bottom: #EEB111 dashed 1px;
+        }
+
+        /* Added .chsr-news-block li>div>img below Aug 2012 */
+        .chsr-news-block li>img,
+        .chsr-news-block li>.visual-box,
+        .chsr-news-block li>div>img,
+        .chsr-news-block li>div>a>img {
+            float: left;
+            margin: 1px 10px 8px 0;
+        }
+
+        .chsr-news-block li>.visual-box {
+            margin-bottom: 1px;
+        }
+
+        .chsr-news-block .text-place {
+            overflow: hidden;
+        }
+
+        .chsr-news-block .subject {
+            display: block;
+            margin: 0 0 1px;
+            font-size: 10px;
+            line-height: 12px;
+            color: #666;
+        }
+
+        .chsr-news-block h3 {
+            margin: 0 0 4px;
+            /* OLD Pre May 2015 font-size: 14px; */
+            font-size: 1.1em;
+            line-height: 17px;
+            color: #001058;
+        }
+
+        .chsr-news-block h3 a {
+            text-decoration: none;
+            color: #57357E;
+        }
+
+        .chsr-news-block h3 a:hover {
+            text-decoration: underline;
+        }
+
+        .chsr-news-block p {
+            margin: 0 0 5px;
+        }
+
+        .chsr-news-block .chsr-news-item {
+            font-size: 1.1 em;
+            border-bottom: #EEB111 dashed 1px;
+        }
+
         .paragraph-text-link:link {
             text-decoration: underline;
             border-bottom: 3px solid #34075f;
@@ -160,11 +231,7 @@
             <div id="main">
                 <div id="twocolumns">
                     <div id="content">
-                        <h2>Center For Human Services Research
-                            <span style="font-size:.8em; font-style:italic;font-style: italic;"></span>
-                        </h2>
-
-                        <h3>&nbsp;</h3>
+                        <h2>Center For Human Services Research</h2>
                         <p>
                             The Center for Human Services Research (CHSR) has over 30 years of
                             experience in social service research and evaluation. CHSR is dedicated to
@@ -186,16 +253,14 @@
                             DMAC, please visit
                             <a class="paragraph-text-link" href="https://www.albany.edu/chsr/dmac/about.shtml">DMAC</a>.
                         </p>
-                        <p>&nbsp;</p>
                         <h2>OUR WORK</h2>
-                        <h3>&nbsp;</h3>
                         <p>
                             CHSR areas of inquiry and expertise cover a wide range of topics including education and
                             early childhood development;
                             children, family, and elder services; health behavior and services; economic and
                             community development; and criminal and
                             juvenile justice; for more information, see
-                            <a class="paragraph-text-link" href="projects.shtml">Projects</a> page. Our staff are
+                            <a class="paragraph-text-link" href="project_areas.shtml">Projects</a> page. Our staff are
                             skilled at
                             qualitative and quantitative
                             evaluation and research, program development, and system and software development; for
@@ -206,16 +271,15 @@
                             applications for local, state,
                             and federal funding.
                         </p>
-                        <p>&nbsp;</p>
                         <h2>NEWS</h2>
-                        <ul class="news-block">
-                            <li>CHSR is thrilled to share the results of our evaluation of New York State's Medicaid
+                        <ul class="chsr-news-block">
+                            <p>CHSR is thrilled to share the results of our evaluation of New York State's Medicaid
                                 Redesign Team Supportive Housing
                                 Initiative! The full suite of reports can be found
                                 <a class="paragraph-text-link" href="MRT.shtml">here</a>, but we've also created three
                                 short Research Briefs that
                                 summarize this work.
-                            </li>
+                            </p>
                             <li>
                                 <div>
                                     <a href="Publications/Research Brief 1_mar22.pdf"><img
