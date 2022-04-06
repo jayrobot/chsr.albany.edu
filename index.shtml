@@ -273,13 +273,13 @@
                         </p>
                         <h2>NEWS</h2>
                         <ul class="chsr-news-block">
-                            <p>CHSR is thrilled to share the results of our evaluation of New York State's Medicaid
+                            <li>CHSR is thrilled to share the results of our evaluation of New York State's Medicaid
                                 Redesign Team Supportive Housing
                                 Initiative! The full suite of reports can be found
                                 <a class="paragraph-text-link" href="MRT.shtml">here</a>, but we've also created three
                                 short Research Briefs that
                                 summarize this work.
-                            </p>
+                            </li>
                             <li>
                                 <div>
                                     <a href="Publications/Research Brief 1_mar22.pdf"><img
