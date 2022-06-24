@@ -155,7 +155,9 @@
             <h1>Publications, Reports, &amp; Presentations &nbsp;<span
                 style="font-size:.8em; font-style:italic;font-style: italic;"></span></h1>
             <p style="font-size:14px;">Since 1991, CHSR has produced many publications, reports, and presentations for
-              its funders:</p>
+              its funders. Our more recent work can also be found in our
+              <a href="https://scholarsarchive.library.albany.edu/chsr/" target="_blank">Scholars Archive</a> page.
+            </p>
             <!-- news block -->
             <div class="text-place">
               </strong>
@@ -643,6 +645,19 @@ Camille Barnes, Ph.D. &amp; Lauren Polvere, Ph.D.(August 2015)<br />
                 research partnerships, and workshops.</p>
             </div>
             <!-- SURVEY RESEARCH CENTER ENDS ---------------------------->
+
+            <!-- Scholar's Archive begins ---------------------------->
+            <div class="box">
+              <h2 class="border-gray-top">
+                <a href="https://scholarsarchive.library.albany.edu/chsr/">
+                  Scholar's Archive
+                </a>
+              </h2>
+              <p>Find all of CHSR’s reports, research briefs, and publications in our Scholars Archive
+                page.</p>
+            </div>
+            <!-- Scholar's Archive ends ---------------------------->
+
             <div class="contact box">
               <h2 style="border-top: 10px solid #e4e2e2;">Contact Us</h2>
 

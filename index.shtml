@@ -350,6 +350,18 @@
                         </div>
                         <!-- SURVEY RESEARCH CENTER ENDS ---------------------------->
 
+                        <!-- Scholar's Archive begins ---------------------------->
+                        <div class="box">
+                            <h2 class="border-gray-top">
+                                <a href="https://scholarsarchive.library.albany.edu/chsr/">
+                                    Scholar's Archive
+                                </a>
+                            </h2>
+                            <p>Find all of CHSR’s reports, research briefs, and publications in our Scholars Archive
+                                page.</p>
+                        </div>
+                        <!-- Scholar's Archive ends ---------------------------->
+
                         <div class="contact box">
                             <h2 style="border-top: 10px solid #e4e2e2;">Contact Us</h2>
 
