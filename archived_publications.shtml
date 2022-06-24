@@ -780,17 +780,15 @@
         </ul> </div>	
 -->
             <div class="box">
-              <h2 class="border-gray-top"><a href="https://www.albany.edu/chsr/Program_Dev_Community_Engage.shtml">Data
+              <h2 class="border-gray-top"><a href="https://www.albany.edu/chsr/dmac/about.shtml">Data
                   Management and Analytics Center (DMAC)</a> <span style="font-size: 12px;"><a
-                    href="https://www.albany.edu/chsr/Program_Dev_Community_Engage.shtml"></a></span></h2>
-              <p><strong>DMAC provides customized data management support at the University at Albany within the Center
-                  for Human Services Research. DMAC services that are provided free of charge and include:</strong></p>
-              <ul class="additional-links">
-                <li>Data procurement</a> </li>
-                <li>Data management and security</a></li>
-                <li>File preparation and data cleaning</a></li>
-              </ul>
+                    href="https://www.albany.edu/chsr/Program_Dev_Community_Engage.shtml"></a></span>
+              </h2>
+              <p>DMAC provides data management and analytics support to researchers at the University at
+                Albany within the Center for Human Services Research. Our customized research support
+                services include: consulting, research partnerships, and workshops.</p>
             </div>
+
             <!-- SURVEY RESEARCH CENTER ENDS ---------------------------->
             <!-- STUDENT RESEARCH BOX BEGIN ----------------------------
         <div class="box">
