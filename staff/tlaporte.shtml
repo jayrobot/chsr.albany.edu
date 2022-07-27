@@ -121,8 +121,9 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="../images/headshots/tlaporte.jpg" width="192" height="192" style="float: right;" />Thomas
-              LaPorte
+            <h1>
+              <img src="../images/headshots/tlaporte.png" width="192" height="192" style="float: right;" />
+              Thomas LaPorte
             </h1>
             <!-- news block -->
             <STYLE type="text/css">
@@ -142,26 +143,18 @@
               <p><strong>E-mail: </strong><a href="mailto:tlaporte@albany.edu">tlaporte@albany.edu</a><br />
                 <strong>Telephone: </strong><a href="tel:(518)437-3696"> (518)437-3696</a><br />
               </p>
-              <p>&nbsp;</p>
-              <p><strong>Specialization:</strong><br />
-                <br />
-                <strong>Youth and Family Development and Service Cooridination
-                </strong><br />
+              <p>
+                Tom joined CHSR in 2017. He is experienced in mixed methods, meta-analysis/evaluation, and behavioral
+                health
+                intervention evaluation and community-based participatory action research. Previously, Tom conducted
+                evaluations of
+                programs for transition-age youth with mental health needs.
               </p>
-
-
-              <p>&nbsp;</p>
-
-              <p>Tom joined CHSR in 2017. He currently leads the New York City Department of Health and Mental Hygiene
-                High Fidelity Wraparound project and works on the Greater Rochester Health Foundation opioid prevention
-                project. Tom has been involved in a number of other CHSR projects, including SAMHSA System of Care
-                Expansion projects, the Partnership for Success project, and the Small Scale Time and Motion Study with
-                OPWDD. He is experienced in mixed methods, community-based participatory action research, and
-                meta-analysis/evaluation.</p>
-              <p>Tom received his Bachelor’s degree in Psychology and Policy Studies from Syracuse University. He
-                completed a Master’s degree in Clinical and Community Psychology, a Ph.D.&nbsp;in Health Psychology with
-                a concentration in Community Psychology, and a Graduate Certificate in Nonprofit Management from the
-                University of North Carolina at Charlotte.</p>
+              <p>
+                Tom received his Ph.D. in Health Psychology with a concentration in Community Psychology from the
+                University of North
+                Carolina at Charlotte.
+              </p>
 
 
               <p>&nbsp;</p>

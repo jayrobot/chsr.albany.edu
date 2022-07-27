@@ -121,8 +121,8 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="../images/headshots/Corinne_Noble.JPG" alt="Faculty Member" name="imgPhoto" width="240"
-                height="160" id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" />Corinne Noble</h1>
+            <h1><img src="../images/headshots/cnoble.jpg" alt="Faculty Member" name="imgPhoto" width="240" height="160"
+                id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" />Corinne Noble</h1>
             <!-- news block -->
             <STYLE type="text/css">
               .text-place {
@@ -141,26 +141,20 @@
               <p><strong>E-mail: </strong><a href="mailto:cnoble@albany.edu">cnoble@albany.edu</a><br />
                 <strong>Telephone: </strong><a href="tel:518-591-8785">518-591-8785</a>
               </p>
-              <p>&nbsp;</p>
-              <p><strong>Specialization: </strong>Data Collection and Management</p>
-
-              <p>Corinne Noble joined CHSR in 2005. She is currently involved in Healthy Families New York, where she
-                provides support and training to HFNY staff. Corinne has been involved in a number of other CHSR
-                projects, including the HFNY Randomized Controlled Trial and the Menu Labeling Evaluation. She is
-                experienced in qualitative methods, including focus groups and interviews.
-
-                <br />
+              <p>
+                Corinne joined CHSR in 2005. She is experienced in qualitative data collection, including focus groups
+                and interviews.
+                Corinne leads quality assurance, technical assistance, and program implementation efforts for Healthy
+                Families New York.
+                She develops and delivers trainings on the use of the Management Information System (MIS). Previously,
+                Corinne worked on
+                the HFNY Randomized Controlled Trial and the Menu Labeling Evaluation.
               </p>
-              <p>Corinne received her Bachelor’s and Master’s degree in Psychology from the Universidad Argentina J. F.
-                Kennedy- Buenos Aires, Argentina.</p>
-
-
-              <p>&nbsp;</p>
-
-              <ul
-                style="margin-left: 0px; margin-right: 10px; padding-right: 10px; padding-left: 0px; list-style-type: none; margin-top:-10px;">
-
-              </ul>
+              <p>
+                Corinne received her Master’s degree in Psychology from the Universidad Argentina J. F. Kennedy- Buenos
+                Aires,
+                Argentina.
+              </p>
             </div>
           </div>
           <!-- aside -->

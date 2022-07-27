@@ -143,48 +143,20 @@
               <p><strong>E-mail: </strong><a href="mailto:jrobohn@albany.edu">jrobohn@albany.edu</a><br />
                 <strong>Telephone: </strong><a href="tel:518-442-5424">518-442-5424</a>
               </p>
-              <p>&nbsp;</p>
-              <p><strong>Specialization:</strong> Web development,
-                Database design and implementation, and<br>
-                programming tools and platforms <br>
-              </p>
-              <p> <strong>Projects:</strong><br />
-                <a href="../hfny.shtml">Healthy Families New York Evaluation</a><br>
-                <a href="../hfnj.shtml">Healthy Families New Jersey Evaluation</a><br>
-                <a href="../calorie_posting.shtml">Menu Labeling Evaluation Project</a><br>
-                <a href="../system_care_albany.shtml">Albany County, New York System of Care
-                  Evaluation</a><br>
-
-              </p>
-              <p>Jay works on systems and software development projects. His experience at the center includes
+              <p>
+                Jay joined CHSR in 2007. He works on systems and software development projects and specializes in web
+                development, database design and implementation, and
+                programming tools and platforms. His experience at the center includes
                 application design and development, primarily to facilitate entry of forms and measurement of program
                 outcomes, and maintenance and technical assistance of multi-user and county and statewide Management
-                Information System (MIS) applications. Jay is currently involved in several .NET programming projects at
-                CHSR, most significantly the Healthy Families New York (HFNY) web-based application. Jay is primarily
-                responsible for the reporting interface and features and for the database schema used by the
-                application, which also includes conversion of the previous FoxPro-based system’s data. He is also the
-                resident utilities guy, which entails maintenance and upgrades of the Git source code repository and
-                related tools. He is the chief web crawler for jQuery and other Javascript libraries used in our
-                application framework.<br>
-              </p>
-              <p>Jay provides phone and internet-based technical support for statewide users of the MIS. He also works
-                on the Healthy Families New Jersey FamSys web-based data collection system. Previously, he was involved
-                in the Albany County, New York System of Care Evaluation, assisting in the creation of several new
-                features of the software created for the project. Prior to joining CHSR, Jay worked for a forensic CPA
+                Information System (MIS) applications. Prior to joining CHSR, Jay worked for a forensic CPA
                 firm for five years and then switched careers to be employed by two IT/Database consulting firms in New
                 York City for almost fifteen years.</p>
-              <p> Jay received his Bachelor’s degree in Business Administration from Pace University. He has
+              <p>
+                Jay received his Bachelor’s degree in Business Administration from Pace University. He has
                 participated in various training and self-study activities to keep abreast of the latest technology in
-                the application development field. </p>
-
+                the application development field.
               </p>
-
-              <p>&nbsp;</p>
-
-              <ul
-                style="margin-left: 0px; margin-right: 10px; padding-right: 10px; padding-left: 0px; list-style-type: none; margin-top:-10px;">
-
-              </ul>
             </div>
           </div>
           <!-- aside -->

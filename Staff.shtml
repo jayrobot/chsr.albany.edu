@@ -85,8 +85,8 @@
 
     .card img {
       border: 2px 0;
-      width: 150px;
-      height: 100px;
+      width: 125px;
+      height: 125px;
       margin-right: 22px;
       margin-top: 2px;
       /* vertical-align: middle; */
@@ -295,7 +295,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/cbarnes.shtml">
-                      <IMG src="./images/headshots/CBarnes.JPG" alt="Camille Barnes" /></A>
+                      <IMG src="./images/headshots/cbarnes.jpg" alt="Camille Barnes" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/cbarnes.shtml">Camille Barnes&nbsp;
                         &nbsp; </A>
@@ -313,14 +313,14 @@
                 <li>
                   <div class="card">
                     <A href="./staff/tbellick.shtml">
-                      <IMG src="./images/headshots/tbellick_staffprofile.jpg" alt="Tyler Bellick" /></A>
+                      <IMG src="./images/headshots/tbellick.jpg" alt="Tyler Bellick" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/tbellick.shtml">Tyler
                         Bellick&nbsp;</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
-                      <P class="bio-info">Richardson Hall, Room 315
+                      <P class="bio-info">Richardson Hall, Room 390
                         <BR>(518) 442-3870
-                        <BR><a style="font-weight:normal;" href="mailto:tbelick@albany.edu">tbellick@albany.edu
+                        <BR><a style="font-weight:normal;" href="mailto:tbellick@albany.edu">tbellick@albany.edu
                         </A>
                     </div><!-- DIV bio-nametitle ENDS -->
 
@@ -330,31 +330,13 @@
                 <li>
                   <div class="card">
                     <A href="./staff/mlbreen.shtml">
-                      <IMG src="./images/headshots/mbreen_new2.jpg" alt="Mandi Breen" /></A>
+                      <IMG src="./images/headshots/mlbreen.jpg" alt="Mandi Breen" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/mlbreen.shtml">Mandi Breen</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
                       <P class="bio-info">Richardson Hall, Room 383
                         <BR>(518) 591-5765
                         <BR><a style="font-weight:normal;" href="mailto:mlbreen@albany.edu">mlbreen@albany.edu
-                        </A>
-                    </div><!-- DIV bio-nametitle ENDS -->
-
-                  </DIV><!-- DIV bio_list ENDS -->
-                </li>
-                <p>&nbsp;</p>
-                <li>
-                  <div class="card">
-                    <A href="./staff/christine_callahan.shtml">
-                      <IMG src="./images/headshots/ccallahan.jpg" alt="Christine Callahan, PhD" /></A>
-                    <div class="bio-nametitle">
-                      <a class="staff-name" href="./staff/christine_callahan.shtml">Christine
-                        Callahan</A>
-                      <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
-                      <P class="bio-info">Richardson Hall, Room 312&nbsp;&nbsp;
-                        <BR>
-                        (518) 442-5736&nbsp;<BR><a style="font-weight:normal;" href="mailto: ccallahan@albany.edu">
-                          ccallahan@albany.edu
                         </A>
                     </div><!-- DIV bio-nametitle ENDS -->
 
@@ -429,12 +411,28 @@
                 </li>
                 <p>&nbsp;</p>
 
+                <li>
+                  <div class="card">
+                    <A href="./staff/grlacy.shtml">
+                      <IMG src="./images/headshots/grlacy.png" alt="Griffin Lacy" /></A>
+                    <div class="bio-nametitle">
+                      <a class="staff-name" href="./staff/grlacy.shtml">Griffin
+                        Lacy</A>
+                      <BR><SPAN class="staff-position">Senior Research Support Specialist</SPAN></P>
+                      <P class="bio-info">Richardson Hall, Room 388
+                        <BR>(518) 442-5762
+                        <BR><a style="font-weight:normal;" href="mailto:grlacy@albany.edu">grlacy@albany.edu
+                        </A>
+                    </div><!-- DIV bio-nametitle ENDS -->
 
+                  </DIV><!-- DIV bio_list ENDS -->
+                </li>
+                <p>&nbsp;</p>
 
                 <li>
                   <div class="card">
                     <A href="./staff/tlaporte.shtml">
-                      <IMG src="./images/headshots/tlaporte_staffprofile.jpg" alt="Thomas LaPorte, PhD." /></A>
+                      <IMG src="./images/headshots/tlaporte.png" alt="Thomas LaPorte, PhD." /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/tlaporte.shtml">Thomas LaPorte</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
@@ -451,7 +449,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/rlindenfelser.shtml">
-                      <IMG src="./images/headshots/rlindenfelser_spp.jpg" alt="Ruth Lindenfelser, LMSW" /></A>
+                      <IMG src="./images/headshots/rlindenfelser.jpg" alt="Ruth Lindenfelser, LMSW" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/rlindenfelser.shtml">Ruth
                         Lindenfelser</A>
@@ -486,31 +484,14 @@
 
                 <li>
                   <div class="card">
-                    <A href="./staff/hmeredith.shtml">
-                      <IMG src="./images/headshots/hmeredith2.jpg" alt="Holly Meredith, M.S." /></A>
+                    <A href="./staff/ynam3.shtml">
+                      <IMG src="./images/headshots/ynam3.jpg" alt="Youngeun Nam" /></A>
                     <div class="bio-nametitle">
-                      <a class="staff-name" href="./staff/hmeredith.shtml">Holly Meredith</A>
+                      <a class="staff-name" href="./staff/ynam3.shtml">Youngeun Nam</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
-                      <P class="bio-info">Richardson Hall, Room 390
-                        <BR>(518) 442-1429
-                        <BR><a style="font-weight:normal;" href="mailto:hmeredith@albany.edu">hmeredith@albany.edu
-                        </A>
-                    </div><!-- DIV bio-nametitle ENDS -->
-
-                  </DIV><!-- DIV bio_list ENDS -->
-                </li>
-                <p>&nbsp;</p>
-
-                <li>
-                  <div class="card">
-                    <A href="./staff/nmahmud.shtml">
-                      <IMG src="./images/headshots/nahidwebsite4.jpg" alt="Mir Nahid Mahmud" /></A>
-                    <div class="bio-nametitle">
-                      <a class="staff-name" href="./staff/nmahmud.shtml">Mir Nahid Mahmud</A>
-                      <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
-                      <P class="bio-info">Richardson Hall, Room 313
-                        <BR>(518) 442-5731
-                        <BR><a style="font-weight:normal;" href="mailto:nmahmud@albany.edu">nmahmud@albany.edu
+                      <P class="bio-info">Richardson Hall, Room 312
+                        <BR>(518) 437-3696
+                        <BR><a style="font-weight:normal;" href="mailto:tlaporte@albany.edu">tlaporte@albany.edu
                         </A>
                     </div><!-- DIV bio-nametitle ENDS -->
 
@@ -521,7 +502,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/cnoble.shtml">
-                      <IMG src="./images/headshots/Corinne_Noble.JPG" alt="Corinne Noble" /></A>
+                      <IMG src="./images/headshots/cnoble.jpg" alt="Corinne Noble" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/cnoble.shtml">Corinne Noble
                         &nbsp;</A>
@@ -539,7 +520,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/srain.shtml">
-                      <IMG src="./images/headshots/SR_big.JPG" alt="Sarah Rain" /></A>
+                      <IMG src="./images/headshots/SRain.png" alt="Sarah Rain" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/srain.shtml">Sarah Rain</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
@@ -555,8 +536,8 @@
 
                 <li>
                   <div class="card">
-                    <A href="./staff/maileray.shtml">
-                      <IMG src="./images/headshots/maileyray2.jpg" alt="Maile Ray, D.Sc." /></A>
+                    <A href="./staff/mray2.shtml">
+                      <IMG src="./images/headshots/mray2.jpg" alt="Maile Ray, D.Sc." /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/maileray.shtml">Maile Ray</A>
                       <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
@@ -590,7 +571,7 @@
                 <li>
                   <div class="card">
                     <A href="./staff/ARózsavölgyi.shtml">
-                      <IMG src="./images/headshots/amanda2.jpeg" alt="Amanda Rózsavölgyi" /></A>
+                      <IMG src="./images/headshots/ARozsavolgyi.jpg" alt="Amanda Rózsavölgyi" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/ARózsavölgyi.shtml">Amanda
                         Rózsavölgyi</A>
@@ -623,6 +604,40 @@
                   </DIV><!-- DIV bio_list ENDS -->
                 </li>
                 <p>&nbsp;</p>
+
+                <li>
+                  <div class="card">
+                    <A href="./staff/hmeredith.shtml">
+                      <IMG src="./images/headshots/hmeredith.jpg" alt="Holly Torres, M.S." /></A>
+                    <div class="bio-nametitle">
+                      <a class="staff-name" href="./staff/hmeredith.shtml">Holly Torres</A>
+                      <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
+                      <P class="bio-info">Richardson Hall, Room 390
+                        <BR>(518) 442-1429
+                        <BR><a style="font-weight:normal;" href="mailto:hmeredith@albany.edu">hmeredith@albany.edu
+                        </A>
+                    </div><!-- DIV bio-nametitle ENDS -->
+
+                  </DIV><!-- DIV bio_list ENDS -->
+                </li>
+                <p>&nbsp;</p>
+
+                <li>
+                  <div class="card">
+                    <A href="./staff/jwartts.shtml">
+                      <IMG src="./images/headshots/jwartts.jpg" alt="Jordyn Wartts" /></A>
+                    <div class="bio-nametitle">
+                      <a class="staff-name" href="./staff/jwartts.shtml">Jordyn Wartts</A>
+                      <BR><SPAN class="staff-position">Research Scientist</SPAN></P>
+                      <P class="bio-info">Remotely
+                        <BR>(518) 591-5769
+                        <BR><a style="font-weight:normal;" href="mailto:absiskind@albany.edu"> absiskind@albany.edu
+                        </A>
+                    </div><!-- DIV bio-nametitle ENDS -->
+
+                  </DIV><!-- DIV bio_list ENDS -->
+                </li>
+                <p>&nbsp;</p>
               </ul>
 
               <h2> IT STAFF</h2>
@@ -647,7 +662,6 @@
                 </li>
                 <p>&nbsp;</p>
 
-
                 <li>
                   <div class="card">
                     <A href="./staff/jrobohn.shtml">
@@ -667,28 +681,10 @@
 
                 <li>
                   <div class="card">
-                    <A href="./staff/bobrien.shtml">
-                      <IMG src="./images/headshots/bobrien4.JPG" alt="Bill O'Brien" /></A>
+                    <A href="./staff/brsimmons.shtml">
+                      <IMG src="./images/headshots/brsimmons.jpg" alt="Ben Simmons" /></A>
                     <div class="bio-nametitle">
-                      <a class="staff-name" href="./staff/bobrien.shtml">William O'Brien</A>
-                      <BR><SPAN class="staff-position">Programmer/Analyst</SPAN></P>
-                      <P class="bio-info">Richardson Hall, Room 388
-                        <BR>(518) 442-5039
-                        <BR><a style="font-weight:normal;" href="mailto:wobrien2@albany.edu">wobrien2@albany.edu
-                        </A>
-                    </div><!-- DIV bio-nametitle ENDS -->
-
-                  </DIV><!-- DIV bio_list ENDS -->
-                </li>
-                <p>&nbsp;</p>
-
-
-                <li>
-                  <div class="card">
-                    <A href="./staff/bsimmons.shtml">
-                      <IMG src="./images/headshots/ben1.jpg" alt="Ben Simmons" /></A>
-                    <div class="bio-nametitle">
-                      <a class="staff-name" href="./staff/bsimmons.shtml">Ben Simmons</A>
+                      <a class="staff-name" href="./staff/brsimmons.shtml">Ben Simmons</A>
                       <BR><SPAN class="staff-position">Programmer/Analyst</SPAN></P>
                       <P class="bio-info">Richardson Hall, Room 381
                         <BR>(518) 442-5761
@@ -700,7 +696,6 @@
                 </li>
                 <p>&nbsp;</p>
 
-
                 <li>
                   <div class="card">
                     <A href="./staff/crobohn.shtml">
@@ -711,6 +706,23 @@
                       <P class="bio-info">Richardson Hall, Room 385
                         <BR>(518) 591-8610
                         <BR><a style="font-weight:normal;" href="mailto:crobohn@albany.edu">crobohn@albany.edu
+                        </A>
+                    </div><!-- DIV bio-nametitle ENDS -->
+
+                  </DIV><!-- DIV bio_list ENDS -->
+                </li>
+                <p>&nbsp;</p>
+
+                <li>
+                  <div class="card">
+                    <A href="./staff/mjcampito.shtml">
+                      <IMG src="./images/headshots/mjcampito.jpg" alt="Michael Campito" /></A>
+                    <div class="bio-nametitle">
+                      <a class="staff-name" href="./staff/mjcampito.shtml">Michael Campito</A>
+                      <BR><SPAN class="staff-position">Programmer/Analyst</SPAN></P>
+                      <P class="bio-info">Richardson Hall, Room 381
+                        <BR>(518) 591-5762
+                        <BR><a style="font-weight:normal;" href="mailto:mjcampito@albany.edu">mjcampito@albany.edu
                         </A>
                     </div><!-- DIV bio-nametitle ENDS -->
 
@@ -778,8 +790,8 @@
 
                 <li>
                   <div class="card">
-                    <A href="./staff/falzonewe.shtml">
-                      <IMG src="./images/headshots/wendyfal2.jpg" alt="Wendy Falzone" /></A>
+                    <A href="./staff/wfalzone.shtml">
+                      <IMG src="./images/headshots/wfalzone.jpg" alt="Wendy Falzone" /></A>
                     <div class="bio-nametitle">
                       <a class="staff-name" href="./staff/wfalzone.shtml">Wendy Falzone,
                         M.A.</A>
@@ -792,31 +804,30 @@
                   </DIV><!-- DIV bio_list ENDS -->
                 </li>
                 <p>&nbsp;</p>
+              </ul>
 
-                <!--
-                <h2> Graduate &amp; Research Assistants</h2>
 
-                  <p>&nbsp;</p>	
-                <ul style= "margin-left: 0px; margin-right: 10px; padding-right: 10px; padding-left: 0px; list-style-type: none; margin-top:-10px;"> 
-                <!-- 
+              <h2> Graduate &amp; Research Assistants</h2>
+              <p>&nbsp;</p>
+              <ul class="bios-list"
+                style="margin-left: 0px; margin-right: 10px; padding-right: 10px; padding-left: 0px; list-style-type: none; margin-top:-10px;">
+
                 <li>
-                <div class="card">
-                <A href="https://www.albany.edu/chsr/ckramer.shtml">
-                    <IMG src="./images/headshots/ckramer2.jpg" alt="Catherine Kramer" /></A>
-                <div class="bio-nametitle">
-                  <a class="staff-name" href="https://www.albany.edu/chsr/ckramer.shtml">Catherine Kramer</A>
-                  <BR><SPAN class="staff-position">Research Assistant, PhD Candidate</SPAN></P>
-                <P class="bio-info">Richardson Hall, Room 308 
-                <BR>(518) 442-5759
-                <BR><a style="font-weight:normal;" href="mailto:jwartts@albany.edu">cpapas@albany.edu
-                </A>
-                </div><!-- DIV bio-nametitle ENDS -->
-                <!--
-                </DIV><!-- DIV bio_list ENDS -->
-                <!--
-                </li>
-              -->
+                  <div class="card">
+                    <A href="./staff/mmadison.shtml">
+                      <IMG src="./images/headshots/mmadison.jpg" alt="Morgan Madison" /></A>
+                    <div class="bio-nametitle">
+                      <a class="staff-name" href="./staff/mmadison.shtml">Morgan Madison</A>
+                      <BR><SPAN class="staff-position">Graduate Assistant</SPAN></P>
+                      <P class="bio-info">Richardson Hall, Room 315
+                        <BR>(518) 442-5762
+                        <BR><a style="font-weight:normal;" href="mailto:mmadison@albany.edu">mmadison@albany.edu
+                        </A>
+                    </div><!-- DIV bio-nametitle ENDS -->
 
+                  </DIV><!-- DIV bio_list ENDS -->
+                </li>
+                <p>&nbsp;</p>
               </ul>
             </div>
           </div>

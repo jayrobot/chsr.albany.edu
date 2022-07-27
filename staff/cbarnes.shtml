@@ -121,7 +121,7 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="../images/headshots/CBarnes.JPG" alt="Faculty Member" name="imgPhoto" width="220" height="200"
+            <h1><img src="../images/headshots/cbarnes.jpg" alt="Faculty Member" name="imgPhoto" width="220" height="200"
                 id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" /><strong>Camille Barnes</strong></h1>
             <!-- news block -->
             <STYLE type="text/css">
@@ -145,28 +145,14 @@
               </p>
               <p><strong>Telephone: </strong><a href="tel:(518)442-3798"> (518)442-3798</a><br />
               </p>
-
-              <p><strong>Specialization: </strong>Children’s Mental Health, Social/Personality Psychology</p>
-              <p>&nbsp;</p>
-              <p>&nbsp;</p>
-              <p>Camille joined CHSR in 2011. She is currently leading the evaluation for SAMHSA System of Care
-                Expansion Grants for New York State (NYS SOC) and Cayuga County (Cayuga County FAST). Camille has been
-                involved in a number of other CHSR projects, including NYS Success, Albany Citizen's Police Review
-                Board, and Qualitative Research on Housing Needs of Grandfamilies. She is experienced in quantitative
-                and qualitative data collection and analysis.<br />
+              <p>
+                Camille joined CHSR in 2011. She is experienced in quantitative and qualitative data collection and
+                analysis, network
+                analyses, and project management.
               </p>
-              <p> Camille received her Bachelor’s degree in Psychology and a Concentration in Environmental Studies from
-                Villanova University. She completed her Ph.D. in Social/Personality Psychology at the University at
-                Albany, SUNY.</p>
+              <p>
+                Camille received her PhD in Social/Personality Psychology from the University at Albany, SUNY.
               </p>
-
-
-              <p>&nbsp;</p>
-
-              <ul
-                style="margin-left: 0px; margin-right: 10px; padding-right: 10px; padding-left: 0px; list-style-type: none; margin-top:-10px;">
-
-              </ul>
             </div>
           </div>
           <!-- aside -->
