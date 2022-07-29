@@ -30,7 +30,7 @@
 
 <div id="main">
 
-  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.html" -->
 
   <!-- header end -->
 
@@ -100,7 +100,7 @@
 									<h2 class="txt"><strong>Evaluation &amp; Research</strong></h2>
 
 									<p>The Nutrition Consortium of New York received funding from the <a href="http://www.rsclark.org/" target="_blank">Robert Sterling Clark Foundation</a> to analyze existing data. Staff  at the Nutrition Consortium and CHSR researchers worked together to develop a plan  for analyzing data from  quarterly  and annual reports compiled  by community based organizations from 2004 to 2008. Qualitative and quantitative data from the  reports were  analyzed, and the findings were presented to the Nutrition Consortium and stakeholders at the New York State Office of Temporary  Disability Assistance. </p>
-<span class="txt"><strong>Contact:</strong></span><strong> <a href="elee.shtml">Dr. Eunju Lee</a></strong>
+<span class="txt"><strong>Contact:</strong></span><strong> <a href="elee.html">Dr. Eunju Lee</a></strong>
 </div>
 
                 <!--close div txt-->
@@ -121,9 +121,9 @@
 
           <div class="column">
 
-            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+            <!--#include virtual="includes_navleft/include_navleft.html" -->
 
-            <!--#include file="includes/include_partner_buttons.shtml" -->
+            <!--#include file="includes/include_partner_buttons.html" -->
 
             <!-- column-box end -->
 
@@ -145,7 +145,7 @@
 
       <!-- chsr news inclue begin -->
 
-	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+	<!--#include virtual="/chsr/includes/include_chsr_news.html" -->
 
 <!-- chsr news inclue end -->
 
@@ -159,13 +159,13 @@
 
 	<!--footer-->
 
-	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.html" -->
 
 
 
 </div><!--close div main-->
 
-<!--#include virtual="/sdc/include_sdc.shtml" -->
+<!--#include virtual="/sdc/include_sdc.html" -->
 
   </body>
 

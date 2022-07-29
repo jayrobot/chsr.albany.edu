@@ -30,7 +30,7 @@
 
 <div id="main">
 
-  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+  <!-- header start -->  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.html" -->
 
   <!-- header end -->
 
@@ -124,7 +124,7 @@
 
 <p>Available parent and provider survey data was also analyzed to explore multiple dimensions of system efficacy. To measure the impact of early childhood services offered through the Chemung County SRP, data collection and analysis protocols were as consistent as possible across time. </p>
 
-<p><strong>Contact:</strong> <a href="rgreene.shtml"><strong> Rose Greene</strong></a></p>
+<p><strong>Contact:</strong> <a href="rgreene.html"><strong> Rose Greene</strong></a></p>
 
                 </div>
 
@@ -146,9 +146,9 @@
 
           <div class="column">
 
-            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
+            <!--#include virtual="includes_navleft/include_navleft.html" -->
 
-            <!--#include file="includes/include_partner_buttons.shtml" -->
+            <!--#include file="includes/include_partner_buttons.html" -->
 
             <!-- column-box end -->
 
@@ -170,7 +170,7 @@
 
       <!-- chsr news inclue begin -->
 
-	<!--#include virtual="/chsr/includes/include_chsr_news.shtml" -->
+	<!--#include virtual="/chsr/includes/include_chsr_news.html" -->
 
 <!-- chsr news inclue end -->
 
@@ -184,13 +184,13 @@
 
 	<!--footer-->
 
-	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.html" -->
 
 
 
 </div><!--close div main-->
 
-<!--#include virtual="/sdc/include_sdc.shtml" -->
+<!--#include virtual="/sdc/include_sdc.html" -->
 
   </body>
 

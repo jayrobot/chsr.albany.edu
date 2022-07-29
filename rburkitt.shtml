@@ -14,7 +14,7 @@
 <noscript><div class="noscript">You need JavaScript enabled to correct display page</div></noscript>
 <!--main container-->
 <div id="main">  <!-- header start -->  
-  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.shtml" -->
+  <!--#include virtual="../templates_2009/includes_headers_chsr/include_header_standard.html" -->
   <!-- header end -->
   <!-- content holder -->
   <div id="content">
@@ -43,11 +43,11 @@
 
 <p><strong>E-mail: </strong><a href="mailto:rburkitt@uamail.albany.edu">rburkitt@uamail.albany.edu</a><br />
 <strong>Telephone: </strong>(518) 591-8610 </p>
-<p><strong>Specialization: </strong><a href="Systems_Software_Development.shtml">Software Development</a></p>
+<p><strong>Specialization: </strong><a href="Systems_Software_Development.html">Software Development</a></p>
  <p><strong>Projects:</strong><br />
 			Family Resource Centers<br />
-   			<a href="SSHS.shtml">Safe  Schools/Healthy Students</a><br />
-   			<a href="hfnj.shtml">Healthy Families New Jersey</a></p>
+   			<a href="SSHS.html">Safe  Schools/Healthy Students</a><br />
+   			<a href="hfnj.html">Healthy Families New Jersey</a></p>
  <p>After  working hard as an archaeologist (or was it hardly working?), Ray was amazed to  find that people would pay him to goof off with computers all day. He spends  most of his time with ASP.NET and SQL Server, but likes to keep involved with a  variety of other technologies, including Java, PHP, and Ruby on Rails. He has  worked as both a consultant and a contractor in both the private and public  sectors. Ray is particularly interested in best practices and human factors in  software development.</p>
  <p>Ray  received a BA in Anthropology from Buffalo State College, and completed his  Master’s at the college of Saint Rose. His master’s thesis focused on data  warehousing and business intelligence. </p></div>
                 <!--close div txt-->
@@ -59,8 +59,8 @@
           <!--close div content-->
           <!-- column -->
           <div class="column">
-            <!--#include virtual="includes_navleft/include_navleft.shtml" -->
-            <!--#include file="includes/include_partner_buttons.shtml" -->
+            <!--#include virtual="includes_navleft/include_navleft.html" -->
+            <!--#include file="includes/include_partner_buttons.html" -->
             <!-- column-box end -->
           </div>
           <!--close div column-->
@@ -71,17 +71,17 @@
     </div>
     <!--close div contaner-->    
     <div class="sidebar">
-      <!--#include file="../templates_2009/includes_news/include_all_news.shtml" -->
+      <!--#include file="../templates_2009/includes_news/include_all_news.html" -->
       
-      <!--#include virtual="includes/include_contact_us.shtml" -->
+      <!--#include virtual="includes/include_contact_us.html" -->
     </div>
     <!--close div sidebar-->
   </div><!-- close div id "content" -->
 	
 	<!--footer-->
-	<!--#include virtual="../templates_2009/includes_noedit/include_footer.shtml" -->
+	<!--#include virtual="../templates_2009/includes_noedit/include_footer.html" -->
 
 </div><!--close div main-->
-<!--#include virtual="/sdc/include_sdc.shtml" -->
+<!--#include virtual="/sdc/include_sdc.html" -->
   </body>
 </html>

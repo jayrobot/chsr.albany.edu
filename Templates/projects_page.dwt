@@ -91,15 +91,15 @@ a:link {
         <div class="main-gallery"  style="position:relative: top: -40px;margin-top: 16px; width: 960px;">
           <div class="mask" style="height: 264px;">
             <ul>
- <li style="display:block;"><a href="https://www.albany.edu/chsr/index.shtml">
+ <li style="display:block;"><a href="https://www.albany.edu/chsr/index.html">
   	<img src="../hpfiles/banner-location.jpg" alt="Location"/></a></li>
-  <li style="display:block;"><a href="https://www.albany.edu/chsr/Contact_Us.shtml">
+  <li style="display:block;"><a href="https://www.albany.edu/chsr/Contact_Us.html">
   	<img src="../hpfiles/banner-impactful-research.jpg" alt="Contact Us"/></a></li>
-  <li style="display:block;"><a href="https://www.albany.edu/chsr/Research_Evaluation.shtml">
+  <li style="display:block;"><a href="https://www.albany.edu/chsr/Research_Evaluation.html">
   	<img src="../hpfiles/banner-impactful-engagement.jpg" alt="Research Evaluation"/></a></li>
-  <li style="display:block;"><a href="https://www.albany.edu/chsr/project_areas.shtml">
+  <li style="display:block;"><a href="https://www.albany.edu/chsr/project_areas.html">
   	<img src="../hpfiles/banner-impactful-learning.jpg" alt="Project Areas"/></a></li>
-  <li style="display:block;"><a href="https://www.albany.edu/chsr/publications.shtml">
+  <li style="display:block;"><a href="https://www.albany.edu/chsr/publications.html">
   	<img src="../hpfiles/banner-location.jpg" alt="Location"/></a></li>
 </ul>            <div class="pagination-block"> <a href="#" class="prev">previous</a>
                     <div class="pagination"> 
@@ -153,7 +153,7 @@ a:link {
                     <li style="font-size:14px;"><strong>Deaf/hard of hearing</strong></ul>	
 
             <p style="font-size:14px;">These populations were identified as underserved (and in need of services) in an earlier <a href="https://www.albany.edu/chsr/Publications/Civil%20Legal%20Needs%20booklet%202017_pages.pdf" target="_blank">needs assessment</a> of crime victims in New York State and after consultation with the <a href="https://ovs.ny.gov/" target="_blank">NYS OVS</a>. The CHSR conducted a literature review of programs and practices, followed by interviews with jurisdictions where innovations were implemented. A final report was prepared that described the innovations and provided recommendations to enhance the provision of services to underserved victims in New York State.</p>
-                            <p style="font-size:14px;">For more information,  contact <a href="../sdietzal.shtml" target="_blank">Susan Dietzel.</a>  &nbsp;&nbsp;</p>
+                            <p style="font-size:14px;">For more information,  contact <a href="../sdietzal.html" target="_blank">Susan Dietzel.</a>  &nbsp;&nbsp;</p>
 </div>
 
 <!--
@@ -170,7 +170,7 @@ a:link {
                               <li><a href="http://www.communityfund.org/" target="_blank">Community  Foundation of Elmira-Corning and the Finger Lakes</a></li>
                                  <li><a href="http://www.glensfallshospital.org/" target="_blank">Glens Falls Hospital</a></li>
                               <li><a href="http://www.homewardboundadirondacks.org/" target="_blank">Homeward Bound Adirondacks</a></li>
-                              <li><a href="HFMIScrobohn2.shtml" target="_blank">HF ONLINE</a></li>
+                              <li><a href="HFMIScrobohn2.html" target="_blank">HF ONLINE</a></li>
                               <li><a href="http://www.avp.org/index.php" target="_blank">New York City Anti-Violence Project </a>  </li>
                               <li><a href="http://www.neparentchild.org/" target="_blank">Northeast Parent  and Child Society</a>  </li>
                               <li><a href="http://www.albany.edu/gogreen/" target="_blank">The Office of Environmental Sustainability</a></li> 
@@ -249,7 +249,7 @@ a:link {
 			<li><a href="https://www.albany.edu/SurveyResearchCenter/study_design.html" title="Sponsored Programs Administration Page">Study Design</a></li>
         </ul> </div>	
 --><div class="box">
-        <h2 class="border-gray-top"><a href="https://www.albany.edu/chsr/dmac/about.shtml">Data Management and Analytics Center (DMAC)</a> <span style="font-size: 12px;"><a href="https://www.albany.edu/chsr/Program_Dev_Community_Engage.shtml"></a></span></h2>
+        <h2 class="border-gray-top"><a href="https://www.albany.edu/chsr/dmac/about.html">Data Management and Analytics Center (DMAC)</a> <span style="font-size: 12px;"><a href="https://www.albany.edu/chsr/Program_Dev_Community_Engage.html"></a></span></h2>
         <p>DMAC provides data management and analytics support to researchers at the University at Albany within the Center for Human Services Research. Our customized research support services include: consulting, research partnerships, and workshops.</p>
  </div>	
         <!-- SURVEY RESEARCH CENTER ENDS ---------------------------->
@@ -287,7 +287,7 @@ a:link {
                 Fax: (518) 442-5732<br/>                <A href="mailto:chsr@albany.edu">Email CHSR</A>
                
 
-<br /><br /><A href="https://www.albany.edu/chsr/Staff.shtml">Staff Directory</A></p>
+<br /><br /><A href="https://www.albany.edu/chsr/Staff.html">Staff Directory</A></p>
 
           </div>
 
@@ -322,15 +322,15 @@ a:link {
 
         <!-- Left Menu Include Begin -->
         <ul class="side-menu">
-            <li><a href="../index.shtml">Home </a></li>
-            <li><a href="../About_Us.shtml">About Us </a></li>
-            <li><a href="../Research_Evaluation.shtml">Evaluation &amp; Research </a></li>
-            <li><a href="../program_development.shtml">Program Development </a></li>
-            <li><a href="../Systems_Software_Development.shtml">Systems &amp; Software Developement </a></li>
-            <li><a href="../project_areas.shtml">Projects </a></li>
-            <li><a href="../publications.shtml">Publications </a></li>
-            <li><a href="../Staff.shtml">Staff Directory </a></li>						
-            <li><a href="../Contact_Us.shtml">Contact Us </a></li>
+            <li><a href="../index.html">Home </a></li>
+            <li><a href="../About_Us.html">About Us </a></li>
+            <li><a href="../Research_Evaluation.html">Evaluation &amp; Research </a></li>
+            <li><a href="../program_development.html">Program Development </a></li>
+            <li><a href="../Systems_Software_Development.html">Systems &amp; Software Developement </a></li>
+            <li><a href="../project_areas.html">Projects </a></li>
+            <li><a href="../publications.html">Publications </a></li>
+            <li><a href="../Staff.html">Staff Directory </a></li>						
+            <li><a href="../Contact_Us.html">Contact Us </a></li>
         </ul>
         <!-- Left Menu Include Ends --><!-- DIV Support Offices BEGINS RedDot 32220 -->
         <div class="box" style="padding-bottom: 1px;">
@@ -399,16 +399,16 @@ a:link {
         <strong>University at Albany</strong>, State University of New York · 1400 Washington Ave., · Albany, NY 12222 · Phone (518) 442-3300
       </address>
       <ul class="additional-menu">
-        <li><a href="https://www.albany.edu/contact.shtml">Contact Us</a></li>
-        <li><a href="https://www.albany.edu/main/employment.shtml">Jobs</a></li>
+        <li><a href="https://www.albany.edu/contact.html">Contact Us</a></li>
+        <li><a href="https://www.albany.edu/main/employment.html">Jobs</a></li>
         <!--<li><a href="https://www.albany.edu/emergency/index.php">SUNY NY-Alert</a></li>-->
-        <li><a href="https://police.albany.edu/ASR.shtml">Annual Security and Fire Safety Report</a></li>
+        <li><a href="https://police.albany.edu/ASR.html">Annual Security and Fire Safety Report</a></li>
         <li><a href="https://wiki.albany.edu/x/IR7-AQ">Internet Privacy Policy</a></li>
         <li><a href="https://www.albany.edu/emergency/index.php">UAlbany Alert</a></li>
         <li><a href="https://www.albany.edu/veterans/">Veterans Affairs</a></li>
         <li><a href="https://wiki.albany.edu/display/middlestates/Home">Middle States Self-Study</a></li>
       </ul>
-      <a href="https://www.albany.edu/gogreen/index.shtml?WT.source=home" class="green-label">UAlbany is Green!</a> <span>&copy;&nbsp;2020 University at Albany</span></div>
+      <a href="https://www.albany.edu/gogreen/index.html?WT.source=home" class="green-label">UAlbany is Green!</a> <span>&copy;&nbsp;2020 University at Albany</span></div>
     </div>
       </div>
     <!--Google Analytics-->
