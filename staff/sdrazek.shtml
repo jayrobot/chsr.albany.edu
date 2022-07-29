@@ -195,6 +195,20 @@
             <!-- Linkedin BOX ENDS ------------------------------------------------>
             <!-- SURVEY RESEARCH CENTER BEGIN ---------------------------->
             <!-- SURVEY RESEARCH CENTER ENDS ---------------------------->
+
+            <!-- Scholar's Archive begins ---------------------------->
+            <div class="box">
+              <h2 class="border-gray-top">
+                <a href="https://scholarsarchive.library.albany.edu/chsr/">
+                  Scholar's Archive
+                </a>
+              </h2>
+              <p>Find all of CHSR’s reports, research briefs, and publications in our Scholars Archive
+                page.</p>
+            </div>
+            <!-- Scholar's Archive ends ---------------------------->
+
+
             <!-- STUDENT RESEARCH BOX BEGIN ----------------------------
         <div class="box">
         <h2 class="border-gray-top">STUDENT RESEARCH</h2>

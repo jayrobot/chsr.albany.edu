@@ -121,10 +121,9 @@
 			<div id="main">
 				<div id="twocolumns">
 					<div id="content">
-						<h1><img src="../images/Headshots/wfalzone.jpg" width="204" height="204" style="float: right;" />Wendy
-							Falzone
-						</h1>
-
+						<h1><strong>Michael Campito</strong></h1>
+						<h1><img src="../images/headshots/no_photo_female.jpg" alt="Faculty Member" name="imgPhoto" width="200"
+								height="200" id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" /></h1>
 
 						<!-- news block -->
 						<STYLE type="text/css">
@@ -132,30 +131,15 @@
 								margin-bottom: 20px;
 							}
 						</STYLE>
-
-						<div>
-							</a></div>
-
-
 						<div class="text-place" style="margin-bottom: 10px;">
-							</strong>
-
-							<p class="intro">Research Analyst/Interviewer</p>
+							<p class="intro">Programmer/Analyst</p>
+							<strong>E-mail: </strong><a href="mailto:mjcampito@albany.edu">mjcampito@albany.edu</a>
+							<p><strong>Telephone: </strong><a href="tel:518-442-5762">518-442-5762</a></p>
 							<p>
-								<strong>
-									E-mail:
-								</strong>
-								<a href="mailto:wfalzone@albany.edu">wfalzone@albany.edu</a><br />
+								[coming soon]
 							</p>
 							<p>
-								Wendy joined CHSR in June 2017. She has expertise in research interviewing and data collection, mapping
-								and Geographical
-								Information Systems analyses, and research support. Prior to CHSR, Wendy's experience included
-								evaluating young children
-								by accessing their strengths and needs on a continual basis in a daycare setting.
-							</p>
-							<p>
-								Wendy received her Master’s Degree in Geography (GIS) from the University at Buffalo, SUNY.
+								[coming soon]
 							</p>
 						</div>
 					</div>
@@ -181,7 +165,7 @@
 									href="https://www.linkedin.com/company/center-for-human-services-research"><span
 										style="width: 149px; display: inline-block;">FOLLOW CHSR RESEARCH ON Linkedin</span><img width="40"
 										height="40" style="margin: 0px 0px -5px -20px;" alt="Linkedin logo"
-										src="images/linkedIn-logo.png" /></a></h2>
+										src="../images/linkedIn-logo.png" /></a></h2>
 							<p><strong></strong><a href="https://www.linkedin.com/company/center-for-human-services-research/"
 									<strong></a><strong>Click here to learn more about our recent research, evaluations, analyses, and
 									activities.</strong></p>
@@ -190,18 +174,6 @@
 						<!-- Linkedin BOX ENDS ------------------------------------------------>
 						<!-- SURVEY RESEARCH CENTER BEGIN ---------------------------->
 						<!-- SURVEY RESEARCH CENTER ENDS ---------------------------->
-						<!-- Scholar's Archive begins ---------------------------->
-						<div class="box">
-							<h2 class="border-gray-top">
-								<a href="https://scholarsarchive.library.albany.edu/chsr/">
-									Scholar's Archive
-								</a>
-							</h2>
-							<p>Find all of CHSR’s reports, research briefs, and publications in our Scholars Archive
-								page.</p>
-						</div>
-						<!-- Scholar's Archive ends ---------------------------->
-
 						<!-- STUDENT RESEARCH BOX BEGIN ----------------------------
         <div class="box">
         <h2 class="border-gray-top">STUDENT RESEARCH</h2>
@@ -261,12 +233,12 @@
 					<!-- Getting Started END -->
 					<!-- Left Menu Include Begin -->
 					<ul class="side-menu">
-						<li><a href="index.shtml">Home</a></li>
-						<li><a href="skills_expertise.shtml">Skills &amp; Expertise</a></li>
-						<li><a href="project_areas.shtml">Projects</a></li>
-						<li><a href="publications.shtml">Publications</a></li>
-						<li><a href="Staff.shtml">Staff Directory</a></li>
-						<li><a href="Contact_Us.shtml">Contact Us </a></li>
+						<li><a href="../index.shtml">Home</a></li>
+						<li><a href="../skills_expertise.shtml">Skills &amp; Expertise</a></li>
+						<li><a href="../project_areas.shtml">Projects</a></li>
+						<li><a href="../publications.shtml">Publications</a></li>
+						<li><a href="../Staff.shtml">Staff Directory</a></li>
+						<li><a href="../Contact_Us.shtml">Contact Us </a></li>
 					</ul>
 					<!-- Left Menu Include Ends -->
 					<!-- DIV Support Offices BEGINS RedDot 32220 -->

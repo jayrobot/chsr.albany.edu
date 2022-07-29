@@ -131,14 +131,7 @@
 								margin-bottom: 20px;
 							}
 						</STYLE>
-
-						<div>
-							</a></div>
-
-
 						<div class="text-place" style="margin-bottom: 10px;">
-							</strong>
-
 							<p class="intro">Senior Research Support Specialist</p>
 							<strong>E-mail: </strong><a href="mailto:grlacy@albany.edu">grlacy@albany.edu</a>
 							<p><strong>Telephone: </strong><a href="tel:518-442-5762">518-442-5762</a></p>
@@ -187,6 +180,19 @@
 						<!-- Linkedin BOX ENDS ------------------------------------------------>
 						<!-- SURVEY RESEARCH CENTER BEGIN ---------------------------->
 						<!-- SURVEY RESEARCH CENTER ENDS ---------------------------->
+
+						<!-- Scholar's Archive begins ---------------------------->
+						<div class="box">
+							<h2 class="border-gray-top">
+								<a href="https://scholarsarchive.library.albany.edu/chsr/">
+									Scholar's Archive
+								</a>
+							</h2>
+							<p>Find all of CHSR’s reports, research briefs, and publications in our Scholars Archive
+								page.</p>
+						</div>
+						<!-- Scholar's Archive ends ---------------------------->
+
 						<!-- STUDENT RESEARCH BOX BEGIN ----------------------------
         <div class="box">
         <h2 class="border-gray-top">STUDENT RESEARCH</h2>
